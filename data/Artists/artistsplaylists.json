@@ -1,0 +1,720 @@
+{
+    "order": [
+        "Squid Squad",
+        "Chirpy Chips",
+        "Hightide Era",
+        "Bob Dub",
+        "DJ Lee Fish",
+        "Turquoise October",
+        "DJ Octavio",
+        "Squid Sisters",
+        "Wet Floor",
+        "Bottom Feeders",
+        "Ink Theory",
+        "DJ Real Sole",
+        "Grizzco Industries",
+        "ω-3",
+        "Off the Hook",
+        "Dedf1sh",
+        "Diss-Pair",
+        "SashiMori",
+        "C-Side",
+        "Front Roe",
+        "Damp Socks feat. Off the Hook",
+        "Octoplush",
+        "Deep Cut",
+        "Yoko & the Gold Bazookas",
+        "H2Whoa",
+        "Riot Act",
+        "Free Association",
+        "Now or Never Seven"
+    ],
+    "playlists": {
+        "Squid Sisters": {
+            "uuid": "9eead8c7-d347-4979-a5cd-8158c67b6b93",
+            "thumbnail": "S Band Squid Sisters.jpg",
+            "introduction": "This playlist contains 7 tracks by the [[Squid Sisters]], lasting 28 minutes. Prior to the addition of ''Splatoon 2'', it contained 5 tracks and lasted 20 minutes.",
+            "description": "Cheerful [[Callie]] and sassy [[Marie]] make up the iconic group known across Inkopolis as the Squid Sisters. Not only are they talented pop stars, they're also dancers and choreographers—and they were the first hosts of Inkopolis News, known and beloved for their witty banter. Although Callie and Marie have had great success together, they have both recently pursued solo projects.",
+            "songlist": [
+                {
+                    "name": "Spicy Calamari Inkantation",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Fresh Start",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Liquid Sunshine",
+                    "game": "Splatoon 3",
+                    "band": "Squid Sisters feat. Ian BGM"
+                },
+                {
+                    "name": "City of Color (2023)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Tomorrow's Nostalgia Today",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Calamari Inkantation 3MIX",
+                    "game": "Splatoon 3",
+                    "band": "Deep Cut x Squid Sisters"
+                },
+                {
+                    "name": "Wave Goodbye",
+                    "game": "Splatoon 3"
+                }
+            ]
+        },
+        "Deep Cut": {
+            "uuid": "3583051d-ee3d-4cde-96c6-bf5f96b34bf3",
+            "thumbnail": "S3 Band Deep Cut.jpg",
+            "introduction": "This playlist contains 11 tracks by [[Deep Cut]], lasting 33 minutes.",
+            "description": "This mischievous trio is known for never losing a battle in Splatsville. By combining each member's unique talents, they've created a sound and style that sweeps fans off their feet in a whirlwind of excitement and chaos. They're local heroes and the hosts of the [[Anarchy Splatcast]].",
+            "songlist": [
+                {
+                    "name": "Anarchy Poisons",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Anarchy Rainbow",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Fins in the Air",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Till Depth Do Us Part",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Now or Never!",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Ego Overboard",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Still Swimmin'",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Surprise and Shine",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Hide and Sleek",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Smeared Canvas",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Calamari Inkantation 3MIX",
+                    "game": "Splatoon 3",
+                    "band": "Deep Cut x Squid Sisters"
+                }
+            ]
+        },
+        "ω-3": {
+            "color": "sitecolor-generic",
+            "uuid": "25693d4d-9996-4ffa-b6f9-f5cf60f42ae3",
+            "thumbnail": "S2 Band ω-3.jpg",
+            "introduction": "This playlist contains 8 tracks by [[ω-3]], lasting 22 minutes.",
+            "description": "This Salmonid three-piece band includes a DJ, a timpani player, and yes, a cellist. Their music is like a beacon for Salmonids swimming upstream…the irregular beat guiding the way.",
+            "songlist": [
+                {
+                    "name": "Surge & Submerge",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Deluge Dirge",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Fishing Frenzy",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Frothy Waters",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Toxic Anoxic",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Frantic Aspic",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Bait & Click (Mutation)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Bait & Click",
+                    "game": "Splatoon 3"
+                }
+            ]
+        },
+        "Octoplush": {
+            "uuid": "be919f88-a57e-4666-9755-042823b82f21",
+            "thumbnail": "S3 Band Octoplush.jpg",
+            "introduction": "This playlist contains 11 tracks by [[Octoplush]], lasting 33 minutes.",
+            "description": "A unit (or is it solo artist?) who knows how to lay down some really infectious beats. Reputedly, they produce the music heard throughout Alterna, and yet their identity is shrouded in mystery. But no matter how \"fuzzy\" things get, the Octarians stay in step with the music, diligently and faithfully carrying out their work.",
+            "songlist": [
+                {
+                    "name": "Nine Out of Tension",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Underwater Neon",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Flop to It",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Smoke and Mirrors",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Ride or Fry",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "With Flying Colors",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Seep & Destroy",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Marine Machines",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "#35 caught",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Don't Flinch",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "In Filtration",
+                    "game": "Splatoon 3"
+                }
+            ]
+        },
+        "C-Side": {
+            "uuid": "9dbd2339-3eaf-4e6d-89b7-1de2f1463672",
+            "thumbnail": "S3 Band C-Side.jpg",
+            "introduction": "This playlist contains 9 tracks by [[C-Side]], lasting 21 minutes.",
+            "description": "No band reps harder for the Splatlands than this trio. Despite having no formal music education, they rose to the surface through raw sensibility and ambition alone. As rowdy as they might look, they deliver a tight, heavy sound that's pumping with vitality.",
+            "songlist": [
+                {
+                    "name": "Clickbait (Splash Sessions Demo)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Opening",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Clickbait",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Headhammer",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Triple Dip",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Paintscraper",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Splattack!",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Now or Never!",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Rinse/Repeat",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Learning Curve",
+                    "game": "Splatoon 3"
+                }
+            ]
+        },
+        "Damp Socks feat. Off the Hook": {
+            "uuid": "a25cc354-3b1f-464e-8043-6b2d80cc3902",
+            "thumbnail": "S3 Band Damp Socks feat. Off the Hook.jpg",
+            "introduction": "This playlist contains 2 tracks by [[Damp Socks feat. Off the Hook]], lasting 5 minutes.",
+            "description": "While out on their world tour, hit pop duo [[Off the Hook]] reeled in some salty new talent to form Damp Socks. With their fresh, driving tempos and subtle shifts in tone, these unnamed youths synergize perfectly with Pearl and Marina's passionate vocals.",
+            "songlist": [
+                {
+                    "name": "Candy-Coated Rocks",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Tentacle to the Metal",
+                    "game": "Splatoon 3"
+                }
+            ]
+        },
+        "Grizzco Industries": {
+            "uuid": "fea2c4ab-5829-455d-adc3-3d9e96b25fa5",
+            "thumbnail": "S3 Band Grizzco.jpg",
+            "introduction": "This playlist contains 15 tracks by [[Grizzco Industries]], lasting 18 minutes. Prior to the addition of ''Splatoon 2'', it contained 12 tracks and lasted 15 minutes.\n\nDespite the name of the playlist being \"Grizzco Industries\", the artist for each individual track is listed simply as \"Grizzco\".",
+            "description": "",
+            "songlist": [
+                {
+                    "name": "Happy Little Workers",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Salmon Run Opening",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Ever Further",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Happy Little Workers (24/7 Mix)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "You Got Them! (Salmon Run) 1",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "They Got You! (Salmon Run)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "You Got Them! (Salmon Run) 2",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "You Got Them! (Salmon Run) 3 - Go Off, King!",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "You Got Them! (Salmon Run) 4 - Bye, King",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Anarchy Splatcast (Big Run)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Not Bad (Do Better)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Mammalian Memo",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Greeting Mr. Grizz",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Countdown to Hairmageddon",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Bear with Me",
+                    "game": "Splatoon 3"
+                }
+            ]
+        },
+        "DJ Octavio": {
+            "uuid": "7fa4f258-62db-44b8-b376-ee5a6c31d5c3",
+            "thumbnail": "S3 Band DJ Octavio.jpg",
+            "introduction": "This playlist contains 3 tracks by [[DJ Octavio]], lasting 8 minutes. Prior to the addition of ''Splatoon 2'', it contained 1 track and lasted 2 minutes.",
+            "description": "The DJ who needs no introduction. DJ Octavio is well-known as the head of the Octarian army and the first DJ to ever infuse his beats with the scorching-hot sizzle of actual wasabi roots! He specializes in techno remixes and has once produced music under the name of DJ Octavio feat. [[Callie]].",
+            "songlist": [
+                {
+                    "name": "Bomb Rush Blush",
+                    "game": "Splatoon 2",
+                    "band": "DJ Octavio feat. Callie"
+                },
+                {
+                    "name": "Tidal Rush",
+                    "game": "Splatoon 2",
+                    "band": "DJ Octavio feat. Callie vs. Marie"
+                },
+                {
+                    "name": "I'm Octavio (F34RME Remix)",
+                    "game": "Splatoon 3"
+                }
+            ]
+        },
+        "Turquoise October": {
+            "uuid": "f7d4d582-5886-492a-9925-e2cd6b550e60",
+            "thumbnail": "S2 Band Turquoise October.jpg",
+            "introduction": "This playlist contains 10 tracks by [[Turquoise October]], lasting 29 minutes. Prior to the addition of ''Splatoon 2'', it contained 2 tracks and lasted 5 minutes.",
+            "description": "Little is known about this artist. Is it a group of performers or one individual? No matter who's behind it, the group known as Turquoise October has produced a type of rhythmic music that has diligent Octarians everywhere swaying along as they work dutifully, day after day.",
+            "songlist": [
+                {
+                    "name": "Octo Canyon",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Octo Eight-Step",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "The Girl from Inkopolis",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Buoyant Boogie",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Shooting Starfish",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Tentacular Circus",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Cephaloparade",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Octarmaments",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Crater Eighters Routine",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Octoling Rendezvous",
+                    "game": "Splatoon 3"
+                }
+            ]
+        },
+        "Front Roe": {
+            "uuid": "99cd6a0d-c437-4c43-97c4-05c3be4b14e8",
+            "thumbnail": "S3 Band Front Roe.jpg",
+            "introduction": "This playlist contains 2 tracks by [[Front Roe]], lasting 5 minutes.",
+            "description": "Despite turning down most media appearances and hiding their faces on jacket art, this band has managed to storm the charts based on their live-performance cred alone. The punk-tinged earworms they pump out have got all the kids hooked.",
+            "songlist": [
+                {
+                    "name": "Sea Me Now",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Sandy Side Up",
+                    "game": "Splatoon 3"
+                }
+            ]
+        },
+        "Diss-Pair": {
+            "uuid": "6b2e670c-b01e-4ac8-90bb-37a8abac68e9",
+            "thumbnail": "S2 Band Diss-Pair.png",
+            "introduction": "This playlist contains 2 tracks by [[Diss-Pair]], lasting 5 minutes.",
+            "description": "This group formed when the prodigy beatsmith Mashup was touring overseas and hit it off with [[Quinn]], the bassist of [[Squid Squad]]. Together, they make LOUD music with a heavy punk pedigree—all held together by an electronic beat that digitally slaps.",
+            "songlist": [
+                {
+                    "name": "Seasick",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Kinetosis",
+                    "game": "Splatoon 2"
+                }
+            ]
+        },
+        "SashiMori": {
+            "uuid": "057ac615-2338-435e-84ae-237b0898cbda",
+            "thumbnail": "S2 Band SashiMori.jpg",
+            "introduction": "This playlist contains 2 tracks by [[SashiMori]], lasting 5 minutes.",
+            "description": "A unique band with a guitar, bass, drums, and DJ. SashiMori used to have a traditional vocalist, but the band moved on after he revealed the extent of his domineering personality. Ultimately he was replaced by a 10-year-old DJ that the band recruited through a social-media post!",
+            "songlist": [
+                {
+                    "name": "Chopscrewey",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Entropical",
+                    "game": "Splatoon 2"
+                }
+            ]
+        },
+        "Bob Dub": {
+            "uuid": "1c354f34-4438-4204-ba72-875ea4c44292",
+            "thumbnail": "S Band Bob Dub.jpg",
+            "introduction": "This playlists contains 1 track by [[Bob Dub]], lasting 1 minute.",
+            "description": "A reggae band formed by three Inklings. Their big hit Dubble Bath is a relaxing masterpiece that makes you feel as though you're diving deep into the ocean. Many Inklings listen to it before heading into a Turf War battle to stay relaxed!",
+            "songlist": [
+                {
+                    "name": "Dubble Bath (DIY Remix)",
+                    "game": "Splatoon 2"
+                }
+            ]
+        },
+        "Dedf1sh": {
+            "uuid": "b6d34f69-fa9a-45ca-a3d5-140196bacf6e",
+            "thumbnail": "S2 Band Dedf1sh.jpg",
+            "introduction": "This playlist contains 15 tracks by [[Acht|Dedf1sh]], lasting 31 minutes.",
+            "description": "A diligent DJ who spent most of their days producing and mixing tracks. They studied all genres of music and were proficient enough to borrow whatever they wanted from any of them, drawing praise from critics and fans alike! Ultimately, they were such a perfectionist that they allowed themself to become “sanitized“ in a [[Deepsea Metro|subterranean test facility]].",
+            "songlist": [
+                {
+                    "name": "#0 shell",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "#1 progress",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "#2 ripped",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "#4 dunno",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "#5 thirsty",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "#6 frisk",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "#8 regret",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "#9 party",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "#11 above",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "#12 awake",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "#13 shade",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "#14 crush",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "#16 salty",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "#19 bless",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Splattack! (Octo)",
+                    "game": "Splatoon 2"
+                }
+            ]
+        },
+        "Chirpy Chips": {
+            "uuid": "8e5b14ce-45ed-4ab3-87bb-ad21e877b5bf",
+            "thumbnail": "S Band Chirpy Chips.jpg",
+            "introduction": "This playlist contains 2 tracks by the [[Chirpy Chips]], lasting 4 minutes.",
+            "description": "A four-piece band tearing up the charts with its catchy, sparkling electronic sound and the voice of its vocalist, [[Harmony]]. Their songs often use sparkling electronic sounds, because that's what [[Chirpy Chips#Orion|Orion]], the bassist and composer, likes. Their live concerts are popular for their use of retro video-game consoles and performances where the members glow in the dark in sync with the music. Since they process their recorded vocals, their live concerts are often lip-synched.",
+            "songlist": [
+                {
+                    "name": "Blitz It!",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Wave Prism",
+                    "game": "Splatoon 2"
+                }
+            ]
+        },
+        "Wet Floor": {
+            "uuid": "30cb5381-eb14-4700-918a-797f281e8263",
+            "thumbnail": "S2 Band Wet Floor.jpg",
+            "introduction": "This playlist contains 10 tracks by [[Wet Floor]], lasting 22 minutes.",
+            "description": "An up-and-coming five-piece band that was actually formed via social media! With two members on guitar and vocals—plus a highly technical rhythm section—the band produces a nicely textured sound that combines influences from jazz, funk, EDM, and more.",
+            "songlist": [
+                {
+                    "name": "Inkoming! (Cloud Edit)",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Opening",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Inkoming!",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Rip Entry",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Undertow",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Don't Slip",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Endolphin Surge",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Now or Never!",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Turf Master",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Ink Another Day",
+                    "game": "Splatoon 2"
+                }
+            ]
+        },
+        "Off the Hook": {
+            "uuid": "fb949edc-e3b9-44b7-a9f0-5b3a2a7a4d98",
+            "thumbnail": "S2 Band Off the Hook.jpg",
+            "introduction": "This playlist contains 13 tracks by [[Off the Hook]], lasting 36 minutes.",
+            "description": "Combine a sassy rapper spitting fire with a super-talented (if a little forgetful) DJ, and what do you get? Off the Hook! With their vocals, [[Pearl]]'s skills as an MC, and [[Marina]]'s technical prowess behind the turntables, this duo has captivated both Inklings and Octolings from the jump. The multitalented pair even took over as hosts of [[Inkopolis News]]!",
+            "songlist": [
+                {
+                    "name": "Color Pulse",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Commence the Fest",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Ebb & Flow",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Acid Hues",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Muck Warfare",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Now or Never!",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Fest Zest",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Party's Over",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Nasty Majesty",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Shark Bytes",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Here Comes Ultimate Doom",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Fly Octo Fly - Ebb & Flow (Octo)",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Into the Light",
+                    "game": "Splatoon 2"
+                }
+            ]
+        },
+        "Bottom Feeders": {
+            "uuid": "f9b4ca79-74c8-40b3-bddc-ab9eec953b30",
+            "thumbnail": "S2 Band Bottom Feeders.jpg",
+            "introduction": "This playlist contains 3 tracks by [[Bottom Feeders]], lasting 8 minutes.",
+            "description": "This up-and-coming folk/punk band features a distinctive flowing fiddle sound. They've been courted by all the major record labels but so far have opted to remain independent, releasing all of their music on their own label. Focusing primarily on live performances, the Bottom Feeders are known for switching up their set lists on a whim. Fun fact—all of the band members share the same last name: Feeder!",
+            "songlist": [
+                {
+                    "name": "Shipwreckin'",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Fins & Fiddles",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Seafoam Shanty",
+                    "game": "Splatoon 2"
+                }
+            ]
+        },
+        "DJ Real Sole": {
+            "uuid": "9ead3554-2d3c-4164-8a1f-2f53d125fe1b",
+            "thumbnail": "S2 Band DJ Real Sole.jpg",
+            "introduction": "This playlist contains 1 track by [[DJ Real Sole]], lasting 2 minutes.",
+            "description": "This mysterious DJ has never revealed themselves to the public! They simply want their music to speak for itself and to ”brighten everyone's daily life just a little bit.” The latest single, [[New You]], is an ode to reinventing yourself. Appropriately, a different remix of the song can be heard in each Inkopolis shop!",
+            "songlist": [
+                {
+                    "name": "New You",
+                    "game": "Splatoon 2"
+                }
+            ]
+        },
+        "Ink Theory": {
+            "uuid": "dd449c45-d4be-4ed3-a777-cddafbc334d0",
+            "thumbnail": "S2 Band Ink Theory.jpg",
+            "introduction": "This playlist contains 2 tracks by [[Ink Theory]], lasting 5 minutes.",
+            "description": "An all-female band that formed while its members were all in music school. Ink Theory uses a wide range of instruments like piano and trumpet to create an aggressive take on jazz and samba. The band is known for its great sense of style and its studious dedication to musical proficiency.",
+            "songlist": [
+                {
+                    "name": "Broken Coral",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Riptide Rupture",
+                    "game": "Splatoon 2"
+                }
+            ]
+        }
+    }
+}

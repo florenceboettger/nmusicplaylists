@@ -1,0 +1,21 @@
+{
+    "introduction": "When tracks from {{S2}} were added, 5 additional tracks were added at the same time. They were not listed in any of the ''Splatoon 2'' playlists and could only be found via manual search. Direct share links to these tracks also did not work properly. These were tracks that do not appear in-game; they were previously only featured on the official soundtrack releases, three of them being used in trailers. These were also the only tracks from the ''Splatoon'' series to not have unique images assigned, instead having used the main image for ''Splatoon 2'' that is also used as the thumbnail for the \"All tracks\" playlist. As of {{Date|2024-12-06}}, these tracks have been made unavailable.\n\n{{Quote|'''Change of settings for some tracks.'''\n\nThank you for using the Nintendo Music app.\n\nThere were some tracks in \"Splatoon 2\" that were not scheduled to be released which could be played only when they were searched.\n\nWe have made those tracks unavailable. Thank you for your understanding.|News and updates in the Nintendo Music app, published on {{Date|2024-12-06}}}}",
+    "thumbnail": null,
+    "songlist": [
+        {
+            "name": "A Brighter Future Awaits! (Grizzco Industries Recruitment Video)"
+        },
+        {
+            "name": "January 2017 Trailer"
+        },
+        {
+            "name": "Bonus Track (After Octo)"
+        },
+        {
+            "name": "Splatocalypse (Final Splatfest Trailer)"
+        },
+        {
+            "name": "Inkopolis Memorial Mixtape"
+        }
+    ]
+}

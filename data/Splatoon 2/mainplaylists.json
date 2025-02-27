@@ -1,0 +1,453 @@
+{
+    "order": [
+        "Inkopolis Square",
+        "Turf War",
+        "Salmon Run",
+        "Story Mode",
+        "Octo Expansion",
+        "Splatfests"
+    ],
+    "playlists": {
+        "Inkopolis Square": {
+            "uuid": "42014ea4-9359-43a0-aa53-0a3011ea1d35",
+            "introduction": "This playlist contains 9 tracks related to [[Inkopolis Square]], lasting 19 minutes.",
+            "songlist": [
+                {
+                    "name": "Inkoming! (Cloud Edit)",
+                    "band": "Wet Floor"
+                },
+                {
+                    "name": "Slip into Inkopolis Square"
+                },
+                {
+                    "name": "Inkopolis News",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "Getting Squared Away"
+                },
+                {
+                    "name": "Inkopolis Square"
+                },
+                {
+                    "name": "Without a Dop Doubt"
+                },
+                {
+                    "name": "The Shoal"
+                },
+                {
+                    "name": "Dubble Bath (DIY Remix)",
+                    "band": "Bob Dub"
+                },
+                {
+                    "name": "New You",
+                    "band": "DJ Real Sole"
+                }
+            ]
+        },
+        "Octo Expansion": {
+            "uuid": "4d6c1fa9-6628-44cc-9159-e8f6d8e4a9eb",
+            "thumbnail": "OE key art square.jpg",
+            "introduction": "This playlist contains 35 tracks from the {{OE}}, lasting 1 hour and 7 minutes.",
+            "songlist": [
+                {
+                    "name": "Octroduction"
+                },
+                {
+                    "name": "Cap'n Cuttlefish's Theme (Octo) / Character Creation"
+                },
+                {
+                    "name": "#5 thirsty",
+                    "band": "Dedf1sh"
+                },
+                {
+                    "name": "Deepsea Metro Central Station"
+                },
+                {
+                    "name": "Telephone's Theme"
+                },
+                {
+                    "name": "Inside Deepsea Metro"
+                },
+                {
+                    "name": "#0 shell",
+                    "band": "Dedf1sh"
+                },
+                {
+                    "name": "#1 progress",
+                    "band": "Dedf1sh"
+                },
+                {
+                    "name": "#6 frisk",
+                    "band": "Dedf1sh"
+                },
+                {
+                    "name": "#4 dunno",
+                    "band": "Dedf1sh"
+                },
+                {
+                    "name": "#2 ripped",
+                    "band": "Dedf1sh"
+                },
+                {
+                    "name": "#9 party",
+                    "band": "Dedf1sh"
+                },
+                {
+                    "name": "#8 regret",
+                    "band": "Dedf1sh"
+                },
+                {
+                    "name": "#14 crush",
+                    "band": "Dedf1sh"
+                },
+                {
+                    "name": "#13 shade",
+                    "band": "Dedf1sh"
+                },
+                {
+                    "name": "#16 salty",
+                    "band": "Dedf1sh"
+                },
+                {
+                    "name": "#12 awake",
+                    "band": "Dedf1sh"
+                },
+                {
+                    "name": "#11 above",
+                    "band": "Dedf1sh"
+                },
+                {
+                    "name": "TEST PASSED!"
+                },
+                {
+                    "name": "#19 bless",
+                    "band": "Dedf1sh"
+                },
+                {
+                    "name": "Got That Thang!"
+                },
+                {
+                    "name": "All the Thangs"
+                },
+                {
+                    "name": "Nasty Majesty",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "Shark Bytes",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "Splattack! (Octo)",
+                    "band": "Dedf1sh"
+                },
+                {
+                    "name": "Reaching the Surface"
+                },
+                {
+                    "name": "Commander Tartar's Actual Theme"
+                },
+                {
+                    "name": "The Plan"
+                },
+                {
+                    "name": "Here Comes Ultimate Doom",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "Fly Octo Fly - Ebb & Flow (Octo)",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "It's Over"
+                },
+                {
+                    "name": "Mic Drop"
+                },
+                {
+                    "name": "Into the Light",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "#$@%* Dudes Be #$@%* Sleepin' (Live)",
+                    "band": "Pearl"
+                },
+                {
+                    "name": "Ebb&FlowDemo.frsh (Sketch)",
+                    "band": "Marina"
+                }
+            ]
+        },
+        "Story Mode": {
+            "uuid": "c7594411-82fc-407d-bf8e-2f6b50b63684",
+            "introduction": "This playlist contains 17 tracks from {{OC}}, lasting 42 minutes.",
+            "songlist": [
+                {
+                    "name": "Low Tide"
+                },
+                {
+                    "name": "Octo Canyon",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "Octo Eight-Step",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "The Girl from Inkopolis",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "Buoyant Boogie",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "Shooting Starfish",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "Tentacular Circus",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "Cephaloparade",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "Octoling Rendezvous",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "Boss Entrance",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "Octarmaments",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "Story Mode: Onward!",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "R.I.P. (Story Mode)",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "Bomb Rush Blush",
+                    "band": "DJ Octavio feat. Callie"
+                },
+                {
+                    "name": "Tidal Rush",
+                    "band": "DJ Octavio feat. Callie vs. Marie"
+                },
+                {
+                    "name": "Spicy Calamari Inkantation",
+                    "band": "Squid Sisters"
+                },
+                {
+                    "name": "Fresh Start",
+                    "band": "Squid Sisters"
+                }
+            ]
+        },
+        "Splatfests": {
+            "uuid": "544c706a-7822-4d62-be6a-234abf72f0db",
+            "introduction": "This playlist contains 14 tracks related to [[Splatfest]]s, lasting 21 minutes. Starting on {{date|2024-12-19}}, this playlist is featured under the \"Happy Holidays!\" set of playlists.",
+            "songlist": [
+                {
+                    "name": "Inkopolis News",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "Splatfest Theme Drop",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "Color Pulse",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "Commence the Fest",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "Ebb & Flow",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "Acid Hues",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "Muck Warfare",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "Now or Never!",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "They Got You! (Splatfest)",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "Party's Over",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "You Got Them! (Splatfest)",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "Fest Zest",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "Splatfest Results Drop",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "Got It!"
+                }
+            ]
+        },
+        "Salmon Run": {
+            "uuid": "7b069bd1-a160-4a7e-9038-905ec2dec2ce",
+            "introduction": "This playlist contains 9 tracks from [[Salmon Run]], lasting 28 minutes.",
+            "songlist": [
+                {
+                    "name": "Happy Little Workers",
+                    "band": "Grizzco"
+                },
+                {
+                    "name": "Salmon Run Opening",
+                    "band": "Grizzco"
+                },
+                {
+                    "name": "Surge & Submerge",
+                    "band": "ω-3"
+                },
+                {
+                    "name": "Deluge Dirge",
+                    "band": "ω-3"
+                },
+                {
+                    "name": "Fishing Frenzy",
+                    "band": "ω-3"
+                },
+                {
+                    "name": "Frantic Aspic",
+                    "band": "ω-3"
+                },
+                {
+                    "name": "They Got You! (Salmon Run)",
+                    "band": "Grizzco"
+                },
+                {
+                    "name": "You Got Them! (Salmon Run)",
+                    "band": "Grizzco"
+                },
+                {
+                    "name": "Ever Further",
+                    "band": "Grizzco"
+                }
+            ]
+        },
+        "Turf War": {
+            "uuid": "9a3548c4-6bbe-4515-9b03-bdd15e00b902",
+            "introduction": "This playlist contains 22 tracks from online multiplayer battles, lasting 49 minutes.",
+            "songlist": [
+                {
+                    "name": "Opening",
+                    "band": "Wet Floor"
+                },
+                {
+                    "name": "Inkoming!",
+                    "band": "Wet Floor"
+                },
+                {
+                    "name": "Rip Entry",
+                    "band": "Wet Floor"
+                },
+                {
+                    "name": "Undertow",
+                    "band": "Wet Floor"
+                },
+                {
+                    "name": "Don't Slip",
+                    "band": "Wet Floor"
+                },
+                {
+                    "name": "Endolphin Surge",
+                    "band": "Wet Floor"
+                },
+                {
+                    "name": "Shipwreckin'",
+                    "band": "Bottom Feeders"
+                },
+                {
+                    "name": "Fins & Fiddles",
+                    "band": "Bottom Feeders"
+                },
+                {
+                    "name": "Seafoam Shanty",
+                    "band": "Bottom Feeders"
+                },
+                {
+                    "name": "Broken Coral",
+                    "band": "Ink Theory"
+                },
+                {
+                    "name": "Riptide Rupture",
+                    "band": "Ink Theory"
+                },
+                {
+                    "name": "Blitz It!",
+                    "band": "Chirpy Chips"
+                },
+                {
+                    "name": "Wave Prism",
+                    "band": "Chirpy Chips"
+                },
+                {
+                    "name": "Seasick",
+                    "band": "Diss-Pair"
+                },
+                {
+                    "name": "Kinetosis",
+                    "band": "Diss-Pair"
+                },
+                {
+                    "name": "Chopscrewey",
+                    "band": "SashiMori"
+                },
+                {
+                    "name": "Entropical",
+                    "band": "SashiMori"
+                },
+                {
+                    "name": "Now or Never!",
+                    "band": "Wet Floor"
+                },
+                {
+                    "name": "They Got You!",
+                    "band": "Wet Floor"
+                },
+                {
+                    "name": "Ink Another Day",
+                    "band": "Wet Floor"
+                },
+                {
+                    "name": "You Got Them!",
+                    "band": "Wet Floor"
+                },
+                {
+                    "name": "Turf Master",
+                    "band": "Wet Floor"
+                }
+            ]
+        }
+    }
+}

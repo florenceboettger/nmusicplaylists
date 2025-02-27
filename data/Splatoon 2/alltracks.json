@@ -1,0 +1,1028 @@
+{
+    "uuid": "ed61f16b-c91d-4807-bed3-dc1d845674a5",
+    "thumbnail": "Splatoon 2 Icon.png",
+    "introduction": "The \"All tracks\" playlist (capitalized as \"All Tracks\" in the [[Regional differences|Europe and Australia/New Zealand regions]]) contains 105 {{S2}} tracks available on Nintendo Music, lasting 3 hours and 34 minutes.",
+    "songlist": [
+        {
+            "name": "Opening",
+            "formattedname": "[[Opening#Opening (Wet Floor)|Opening]]",
+            "band": "Wet Floor",
+            "formattedband": "[[Wet Floor]]",
+            "uuid": "305eddb5-bf70-4b3e-aacc-d9bd10f6cfe7",
+            "length": "0:22",
+            "extend": false
+        },
+        {
+            "name": "Inkoming!",
+            "formattedname": "[[Inkoming!]]",
+            "band": "Wet Floor",
+            "formattedband": "[[Wet Floor]]",
+            "uuid": "eae92d45-5515-4f6f-b9aa-f2a8ead9078d",
+            "length": "2:49",
+            "extend": true,
+            "matchyourmood": [
+                "Powering Up"
+            ]
+        },
+        {
+            "name": "Rip Entry",
+            "formattedname": "[[Rip Entry]]",
+            "band": "Wet Floor",
+            "formattedband": "[[Wet Floor]]",
+            "uuid": "5c29a683-f6bd-4abb-a6b3-e604702eb025",
+            "length": "2:26",
+            "extend": true
+        },
+        {
+            "name": "Undertow",
+            "formattedname": "[[Undertow]]",
+            "band": "Wet Floor",
+            "formattedband": "[[Wet Floor]]",
+            "uuid": "74859398-ccf1-4fb0-9efd-991deae83697",
+            "length": "2:57",
+            "extend": true,
+            "matchyourmood": [
+                "Running"
+            ]
+        },
+        {
+            "name": "Don't Slip",
+            "formattedname": "[[Don't Slip]]",
+            "band": "Wet Floor",
+            "formattedband": "[[Wet Floor]]",
+            "uuid": "d99dd2e6-a048-4294-9faa-a458c4217805",
+            "length": "3:07",
+            "extend": true
+        },
+        {
+            "name": "Endolphin Surge",
+            "formattedname": "[[Endolphin Surge]]",
+            "band": "Wet Floor",
+            "formattedband": "[[Wet Floor]]",
+            "uuid": "b044d5c7-f897-4f5f-8bea-16c2e6cdedb1",
+            "length": "4:28",
+            "extend": true
+        },
+        {
+            "name": "Shipwreckin'",
+            "formattedname": "[[Shipwreckin']]",
+            "band": "Bottom Feeders",
+            "formattedband": "[[Bottom Feeders]]",
+            "uuid": "30260ad8-cc63-4acb-8eff-cd9e9cf119ae",
+            "length": "2:45",
+            "extend": true
+        },
+        {
+            "name": "Fins & Fiddles",
+            "formattedname": "[[Fins & Fiddles]]",
+            "band": "Bottom Feeders",
+            "formattedband": "[[Bottom Feeders]]",
+            "uuid": "14f2fc54-ee6d-4f6a-b4d4-143c8356a148",
+            "length": "2:07",
+            "extend": true
+        },
+        {
+            "name": "Seafoam Shanty",
+            "formattedname": "[[Seafoam Shanty]]",
+            "band": "Bottom Feeders",
+            "formattedband": "[[Bottom Feeders]]",
+            "uuid": "8d88859e-0fa2-4140-abe5-7d13d311a083",
+            "length": "3:24",
+            "extend": true,
+            "matchyourmood": [
+                "Powering Up"
+            ]
+        },
+        {
+            "name": "Broken Coral",
+            "formattedname": "[[Broken Coral]]",
+            "band": "Ink Theory",
+            "formattedband": "[[Ink Theory]]",
+            "uuid": "620b5492-36a8-4d11-9839-6de02c812fbc",
+            "length": "2:45",
+            "extend": true,
+            "matchyourmood": [
+                "Powering Up"
+            ]
+        },
+        {
+            "name": "Riptide Rupture",
+            "formattedname": "[[Riptide Rupture]]",
+            "band": "Ink Theory",
+            "formattedband": "[[Ink Theory]]",
+            "uuid": "a280fad6-d1ca-4e7b-b342-7b3a66b1650e",
+            "length": "2:32",
+            "extend": true
+        },
+        {
+            "name": "Blitz It!",
+            "formattedname": "[[Blitz It!]]",
+            "band": "Chirpy Chips",
+            "formattedband": "[[Chirpy Chips]]",
+            "uuid": "05323daf-d6eb-4f5b-a76d-21ee97e77da7",
+            "length": "2:22",
+            "extend": true
+        },
+        {
+            "name": "Wave Prism",
+            "formattedname": "[[Wave Prism]]",
+            "band": "Chirpy Chips",
+            "formattedband": "[[Chirpy Chips]]",
+            "uuid": "bc7b3513-ad34-40d1-a658-abb821227820",
+            "length": "2:23",
+            "extend": true
+        },
+        {
+            "name": "Seasick",
+            "formattedname": "[[Seasick]]",
+            "band": "Diss-Pair",
+            "formattedband": "[[Diss-Pair]]",
+            "uuid": "bd321a03-c9cf-4595-a812-35a3fa215675",
+            "length": "3:15",
+            "extend": true
+        },
+        {
+            "name": "Kinetosis",
+            "formattedname": "[[Kinetosis]]",
+            "band": "Diss-Pair",
+            "formattedband": "[[Diss-Pair]]",
+            "length": "2:39",
+            "extend": true,
+            "matchyourmood": [
+                "Running"
+            ],
+            "uuid": "2780121f-bcef-4dee-bea9-6b66633e3810"
+        },
+        {
+            "name": "Chopscrewey",
+            "formattedname": "[[Chopscrewey]]",
+            "band": "SashiMori",
+            "formattedband": "[[SashiMori]]",
+            "length": "2:40",
+            "extend": true,
+            "uuid": "36f197bb-66b7-4d4b-bf47-a6a2f74211fc"
+        },
+        {
+            "name": "Entropical",
+            "formattedname": "[[Entropical]]",
+            "band": "SashiMori",
+            "formattedband": "[[SashiMori]]",
+            "length": "2:38",
+            "extend": true,
+            "matchyourmood": [
+                "Powering Up"
+            ],
+            "uuid": "ce240c82-e8ab-479c-95e1-e9e5a6eaaff9"
+        },
+        {
+            "name": "Now or Never!",
+            "formattedname": "[[Now or Never!#Now or Never! (Wet Floor)|Now or Never!]]",
+            "band": "Wet Floor",
+            "formattedband": "[[Wet Floor]]",
+            "length": "1:06",
+            "extend": false,
+            "uuid": "3b7e5813-2289-4b5c-a9ec-c1f56a0e3d11"
+        },
+        {
+            "name": "You Got Them!",
+            "formattedname": "[[Victory! – Jingle#You Got Them!|You Got Them!]]",
+            "band": "Wet Floor",
+            "formattedband": "[[Wet Floor]]",
+            "length": "0:06",
+            "extend": false,
+            "uuid": "953225c0-6875-47f8-8aa2-70950aabc9a3"
+        },
+        {
+            "name": "Turf Master",
+            "formattedname": "[[Battle Victory#Turf Master|Turf Master]]",
+            "band": "Wet Floor",
+            "formattedband": "[[Wet Floor]]",
+            "length": "1:14",
+            "extend": true,
+            "setthescene": [
+                "Victory!"
+            ],
+            "uuid": "b02e859c-47e5-4143-b16d-a1871910668e"
+        },
+        {
+            "name": "They Got You!",
+            "formattedname": "[[Defeat – Jingle#They Got You!|They Got You!]]",
+            "band": "Wet Floor",
+            "formattedband": "[[Wet Floor]]",
+            "length": "0:07",
+            "extend": false,
+            "uuid": "d1e679b4-0f6b-4634-adf3-47d844fcb208"
+        },
+        {
+            "name": "Ink Another Day",
+            "formattedname": "[[Ink Another Day]]",
+            "band": "Wet Floor",
+            "formattedband": "[[Wet Floor]]",
+            "length": "1:35",
+            "extend": true,
+            "uuid": "7bd4ef71-f689-4bc1-bbfd-f2617bc9339d"
+        },
+        {
+            "name": "Inkoming! (Cloud Edit)",
+            "formattedname": "[[Inkoming!#Inkoming! (Cloud Edit)|Inkoming! (Cloud Edit)]]",
+            "band": "Wet Floor",
+            "formattedband": "[[Wet Floor]]",
+            "length": "2:17",
+            "extend": false,
+            "setthescene": [
+                "New Adventures"
+            ],
+            "uuid": "510f8802-b801-4e7a-a6a0-40b3dd094945"
+        },
+        {
+            "name": "Slip into Inkopolis Square",
+            "formattedname": "Slip into Inkopolis Square",
+            "length": "0:45",
+            "extend": false,
+            "uuid": "d020afd1-a45c-4483-aae1-2d10244cbf03"
+        },
+        {
+            "name": "Getting Squared Away",
+            "formattedname": "Getting Squared Away",
+            "length": "1:54",
+            "extend": true,
+            "uuid": "a166d24f-aab4-40e8-a211-188a1b5ab320"
+        },
+        {
+            "name": "Inkopolis Square",
+            "formattedname": "Inkopolis Square",
+            "length": "5:05",
+            "extend": false,
+            "uuid": "a6c8b935-cca7-4c47-b0ba-a6d54557cabc"
+        },
+        {
+            "name": "Without a Dop Doubt",
+            "formattedname": "[[Inkopolis Lobby#Without a Dop Doubt|Without a Dob Doubt]]",
+            "length": "1:49",
+            "extend": true,
+            "uuid": "829d63c1-e921-4d3c-9d38-ed3479afa151"
+        },
+        {
+            "name": "The Shoal",
+            "formattedname": "[[The Shoal (song)|The Shoal]]",
+            "length": "1:49",
+            "extend": true,
+            "uuid": "da74610c-56e0-4ccc-90d2-54053f61d4a4"
+        },
+        {
+            "name": "Dubble Bath (DIY Remix)",
+            "formattedname": "[[Dubble Bath#Dubble Bath (DIY Remix)|Dubble Bath (DIY Remix)]]",
+            "band": "Bob Dub",
+            "formattedband": "[[Bob Dub]]",
+            "length": "1:47",
+            "extend": true,
+            "uuid": "7f37224a-d052-4a76-a63c-f2292163ca40"
+        },
+        {
+            "name": "New You",
+            "formattedname": "[[New You]]",
+            "band": "DJ Real Sole",
+            "formattedband": "[[DJ Real Sole]]",
+            "length": "2:46",
+            "extend": false,
+            "uuid": "a96019e6-70e7-46a4-b89b-49406e448e0b"
+        },
+        {
+            "name": "Happy Little Workers",
+            "formattedname": "[[Happy Little Workers]]",
+            "band": "Grizzco",
+            "formattedband": "[[Grizzco]]",
+            "length": "1:54",
+            "extend": true,
+            "uuid": "59cda95e-b532-493d-9f6b-97a06e303b98"
+        },
+        {
+            "name": "Salmon Run Opening",
+            "formattedname": "[[Happy Little Workers#Salmon Run Opening|Salmon Run Opening]]",
+            "band": "Grizzco",
+            "formattedband": "[[Grizzco]]",
+            "length": "0:14",
+            "extend": false,
+            "uuid": "8b6dfbb6-dffa-4bf4-bfff-c77778a309de"
+        },
+        {
+            "name": "Surge & Submerge",
+            "formattedname": "[[Deluge Dirge#Surge & Submerge|Surge & Submerge]]",
+            "band": "ω-3",
+            "formattedband": "[[ω-3]]",
+            "length": "3:10",
+            "extend": true,
+            "uuid": "9b0a519d-4649-456d-9e57-2335c585d8ea"
+        },
+        {
+            "name": "Deluge Dirge",
+            "formattedname": "[[Deluge Dirge]]",
+            "band": "ω-3",
+            "formattedband": "[[ω-3]]",
+            "length": "3:13",
+            "extend": true,
+            "uuid": "4b1e2098-15a9-450e-82e6-0a3433cf62a1"
+        },
+        {
+            "name": "Fishing Frenzy",
+            "formattedname": "[[Fishing Frenzy]]",
+            "band": "ω-3",
+            "formattedband": "[[ω-3]]",
+            "length": "2:50",
+            "extend": true,
+            "uuid": "18f6c72e-ff88-437f-b765-1b903632cf54"
+        },
+        {
+            "name": "Frantic Aspic",
+            "formattedname": "[[Frantic Aspic]]",
+            "band": "ω-3",
+            "formattedband": "[[ω-3]]",
+            "length": "3:05",
+            "extend": true,
+            "uuid": "c92ab084-9244-4f46-81cf-d4701001fb13"
+        },
+        {
+            "name": "You Got Them! (Salmon Run)",
+            "formattedname": "[[You Got Them! (Salmon Run)]]",
+            "band": "Grizzco",
+            "formattedband": "[[Grizzco]]",
+            "length": "0:10",
+            "extend": false,
+            "setthescene": [
+                "Victory!"
+            ],
+            "uuid": "03cf6599-6a28-4780-9055-93cf1688f467"
+        },
+        {
+            "name": "They Got You! (Salmon Run)",
+            "formattedname": "[[They Got You! (Salmon Run)]]",
+            "band": "Grizzco",
+            "formattedband": "[[Grizzco]]",
+            "length": "0:08",
+            "extend": false,
+            "uuid": "a70f08fc-7096-4af8-80d1-f35f84dfdac1"
+        },
+        {
+            "name": "Ever Further",
+            "formattedname": "[[Ever Further]]",
+            "band": "Grizzco",
+            "formattedband": "[[Grizzco]]",
+            "length": "1:23",
+            "extend": true,
+            "uuid": "1579cf03-6989-404b-b953-5f8359843bd6"
+        },
+        {
+            "name": "Inkopolis News",
+            "formattedname": "[[Inkopolis News (song)#Inkopolis News (Off the Hook)|Inkopolis News]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "1:23",
+            "extend": false,
+            "uuid": "7edc160a-0235-44f2-b7a6-6c3aa1a6cbe4"
+        },
+        {
+            "name": "Splatfest Theme Drop",
+            "formattedname": "Splatfest Theme Drop",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "0:06",
+            "extend": false,
+            "uuid": "c9321c13-e718-4960-a9e2-31cd641c3149"
+        },
+        {
+            "name": "Color Pulse",
+            "formattedname": "[[Color Pulse]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "3:29",
+            "extend": true,
+            "matchyourmood": [
+                "Party",
+                "Walking"
+            ],
+            "uuid": "5be9f101-22e9-4e21-95c3-a0653c817b69"
+        },
+        {
+            "name": "Commence the Fest",
+            "formattedname": "[[Opening#Commence the Fest (Off the Hook)|Commence the Fest]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "0:22",
+            "extend": false,
+            "uuid": "8de28189-ffef-4e09-a20a-373f57048a8b"
+        },
+        {
+            "name": "Ebb & Flow",
+            "formattedname": "[[Ebb & Flow]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "3:13",
+            "extend": true,
+            "matchyourmood": [
+                "Party"
+            ],
+            "uuid": "6a062561-a15f-4a74-8643-cdaa3c75b855"
+        },
+        {
+            "name": "Acid Hues",
+            "formattedname": "[[Acid Hues]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "3:38",
+            "extend": true,
+            "matchyourmood": [                
+                "Party",
+                "Powering Up"
+            ],
+            "uuid": "51c00918-5d8c-454c-8c28-03b918147c52"
+        },
+        {
+            "name": "Muck Warfare",
+            "formattedname": "[[Muck Warfare]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "3:38",
+            "extend": true,
+            "matchyourmood": [
+                "Party",
+                "Running"
+            ],
+            "uuid": "b068ed18-5fdb-40ac-9da4-fa16fc01ff96"
+        },
+        {
+            "name": "Now or Never!",
+            "formattedname": "[[Now or Never!#Now or Never! (Off the Hook)|Now or Never!]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "1:07",
+            "extend": false,
+            "uuid": "3f426405-7bf7-490b-8158-565b323fa901"
+        },
+        {
+            "name": "You Got Them! (Splatfest)",
+            "formattedname": "[[Victory! – Jingle#You Got Them! (Splatfest)|You Got Them! (Splatfest)]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "0:05",
+            "extend": false,
+            "uuid": "3a03cc9c-b850-46c4-aead-f23e63de6e33"
+        },
+        {
+            "name": "Fest Zest",
+            "formattedname": "[[Battle Victory#Fest Zest|Fest Zest]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "2:05",
+            "extend": true,
+            "setthescene": [
+                "Victory!"
+            ],
+            "uuid": "ede91b4d-35e6-464a-b73a-75f3502125b7"
+        },
+        {
+            "name": "They Got You! (Splatfest)",
+            "formattedname": "[[Defeat – Jingle#They Got You! (Splatfest)|They Got You! (Splatfest)]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "0:07",
+            "extend": false,
+            "uuid": "c1894b68-d94f-41a7-9d11-cda893420ad0"
+        },
+        {
+            "name": "Party's Over",
+            "formattedname": "[[Ink Another Day#Party's Over|Party's Over]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "1:51",
+            "extend": true,
+            "uuid": "43ccff2b-02da-4c9a-984f-3d4d2986504a"
+        },
+        {
+            "name": "Splatfest Results Drop",
+            "formattedname": "Splatfest Results Drop",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "0:05",
+            "extend": false,
+            "setthescene": [
+                "Victory!"
+            ],
+            "uuid": "f606aaeb-bb95-478f-9dee-6e290b71c760"
+        },
+        {
+            "name": "Got It!",
+            "formattedname": "[[Got It!]]",
+            "length": "0:04",
+            "extend": false,
+            "uuid": "e175823c-f72c-4de9-9320-86999145b3be"
+        },
+        {
+            "name": "Low Tide",
+            "formattedname": "[[Low Tide]]",
+            "length": "1:46",
+            "extend": false,
+            "uuid": "df153a2b-0567-40e0-9d21-227938ade1b7"
+        },
+        {
+            "name": "Octo Canyon",
+            "formattedname": "[[Octo Canyon (song)|Octo Canyon]]",
+            "band": "Turquoise October",
+            "formattedband": "[[Turquoise October]]",
+            "length": "3:33",
+            "extend": true,
+            "uuid": "01a46ce6-aaf3-4d64-93d3-78eec42360c1"
+        },
+        {
+            "name": "Octo Eight-Step",
+            "formattedname": "[[Octo Eight-Step]]",
+            "band": "Turquoise October",
+            "formattedband": "[[Turquoise October]]",
+            "length": "3:08",
+            "extend": true,
+            "uuid": "9c94e8de-c131-4b68-94e8-6e64127de0f8"
+        },
+        {
+            "name": "The Girl from Inkopolis",
+            "formattedname": "[[The Girl from Inkopolis]]",
+            "band": "Turquoise October",
+            "formattedband": "[[Turquoise October]]",
+            "length": "2:49",
+            "extend": true,
+            "uuid": "88ebd631-b807-4828-b4a2-340f0ff604b4"
+        },
+        {
+            "name": "Buoyant Boogie",
+            "formattedname": "[[Buoyant Boogie]]",
+            "band": "Turquoise October",
+            "formattedband": "[[Turquoise October]]",
+            "length": "2:36",
+            "extend": true,
+            "uuid": "098fe9af-aa69-40b7-be76-1420a36b4a48"
+        },
+        {
+            "name": "Shooting Starfish",
+            "formattedname": "[[Shooting Starfish]]",
+            "band": "Turquoise October",
+            "formattedband": "[[Turquoise October]]",
+            "length": "2:49",
+            "extend": true,
+            "matchyourmood": [
+                "Walking"
+            ],
+            "uuid": "f84aaa6d-8c4d-486d-8fe9-0b48918c44f9"
+        },
+        {
+            "name": "Tentacular Circus",
+            "formattedname": "[[Tentacular Circus]]",
+            "band": "Turquoise October",
+            "formattedband": "[[Turquoise October]]",
+            "length": "2:05",
+            "extend": true,
+            "uuid": "6ea4484a-ec7d-4fdb-93e2-02f844f68acf"
+        },
+        {
+            "name": "Cephaloparade",
+            "formattedname": "[[Cephaloparade]]",
+            "band": "Turquoise October",
+            "formattedband": "[[Turquoise October]]",
+            "length": "3:09",
+            "extend": true,
+            "uuid": "2012f5c5-81d9-499b-be3a-77fbb3ba38ea"
+        },
+        {
+            "name": "Octoling Rendezvous",
+            "formattedname": "[[Octoling Rendezvous]]",
+            "band": "Turquoise October",
+            "formattedband": "[[Turquoise October]]",
+            "length": "1:57",
+            "extend": true,
+            "uuid": "2f9f6c27-2872-4fc0-a59d-b4c8b5cde792"
+        },
+        {
+            "name": "Boss Entrance",
+            "formattedname": "Boss Entrance",
+            "band": "Turquoise October",
+            "formattedband": "[[Turquoise October]]",
+            "length": "0:21",
+            "extend": false,
+            "uuid": "64092b84-474a-4474-ba45-e461a34e63d0"
+        },
+        {
+            "name": "Octarmaments",
+            "formattedname": "[[Octarmaments]]",
+            "band": "Turquoise October",
+            "formattedband": "[[Turquoise October]]",
+            "length": "4:05",
+            "extend": true,
+            "setthescene": [
+                "Boss Battles"
+            ],
+            "uuid": "286ffe08-61c7-4cd5-9fc8-396c79f162b6"
+        },
+        {
+            "name": "Story Mode: Onward!",
+            "formattedname": "[[Hero Mode - Onward!#Story Mode: Onward!|Story Mode: Onward!]]",
+            "band": "Turquoise October",
+            "formattedband": "[[Turquoise October]]",
+            "length": "0:07",
+            "extend": false,
+            "setthescene": [
+                "Victory!"
+            ],
+            "uuid": "48fe4fda-1158-4fa4-a8a4-c17cece7838e"
+        },
+        {
+            "name": "R.I.P. (Story Mode)",
+            "formattedname": "[[Hero Mode - SPLAT!#R.I.P. (Story Mode)|R.I.P. (Story Mode)]]",
+            "band": "Turquoise October",
+            "formattedband": "[[Turquoise October]]",
+            "length": "0:07",
+            "extend": false,
+            "uuid": "866c48c1-f96c-46ec-9880-48d975e72922"
+        },
+        {
+            "name": "Bomb Rush Blush",
+            "formattedname": "[[Bomb Rush Blush#Bomb Rush Blush (DJ Octavio)|Bomb Rush Blush]]",
+            "band": "DJ Octavio feat. Callie",
+            "formattedband": "[[DJ Octavio]] feat. [[Callie]]",
+            "length": "1:55",
+            "extend": false,
+            "uuid": "211897e3-09c9-4b70-aa5c-02743086091a"
+        },
+        {
+            "name": "Tidal Rush",
+            "formattedname": "[[Tidal Rush]]",
+            "band": "DJ Octavio feat. Callie vs. Marie",
+            "formattedband": "[[DJ Octavio]] feat. [[Callie]] vs. [[Marie]]",
+            "length": "3:55",
+            "extend": true,
+            "uuid": "a5b08ecd-701b-4a93-ae3a-b02e49f56b08"
+        },
+        {
+            "name": "Spicy Calamari Inkantation",
+            "formattedname": "[[Calamari Inkantation#Spicy Calamari Inkantation|Spicy Calamari Inkantation]]",
+            "band": "Squid Sisters",
+            "formattedband": "[[Squid Sisters]]",
+            "length": "4:18",
+            "extend": true,
+            "matchyourmood": [
+                "Party"
+            ],
+            "setthescene": [
+                "The Final Battles"
+            ],
+            "uuid": "45e811b2-73ca-4efa-8936-d35f4c1b4fbe"
+        },
+        {
+            "name": "Fresh Start",
+            "formattedname": "[[Fresh Start]]",
+            "band": "Squid Sisters",
+            "formattedband": "[[Squid Sisters]]",
+            "length": "4:02",
+            "extend": false,
+            "uuid": "651448da-5d07-458c-9325-68f73eecda7a"
+        },
+        {
+            "name": "Octroduction",
+            "formattedname": "[[Calamari Inkantation#Octroduction|Octroduction]]",
+            "length": "0:20",
+            "extend": false,
+            "uuid": "c057ba28-ec0d-47db-b50e-c4a610f5c5e9"
+        },
+        {
+            "name": "Cap'n Cuttlefish's Theme (Octo) / Character Creation",
+            "formattedname": "[[Cap'n Cuttlefish's Theme#Cap'n Cuttlefish's Theme (Octo)|Cap'n Cuttlefish's Theme (Octo)]] / [[＃0 shell#Character Creation|Character Creation]]",
+            "length": "2:44",
+            "extend": false,
+            "uuid": "9eb328b8-1353-45fd-97ef-155115a2ab0f"
+        },
+        {
+            "name": "#5 thirsty",
+            "formattedname": "[[＃5 thirsty|#5 thirsty]]",
+            "band": "Dedf1sh",
+            "formattedband": "[[Dedf1sh]]",
+            "length": "2:16",
+            "extend": true,
+            "uuid": "50709dda-685a-4ac1-abba-d81e27a70954"
+        },
+        {
+            "name": "Deepsea Metro Central Station",
+            "formattedname": "[[＃5 thirsty#Deepsea Metro Central Station|Deepsea Metro Central Station]]",
+            "length": "2:15",
+            "extend": true,
+            "uuid": "c0df8424-cd27-48b4-8634-a1157bd44973"
+        },
+        {
+            "name": "Telephone's Theme",
+            "formattedname": "[[Telephone's Theme]]",
+            "length": "2:25",
+            "extend": true,
+            "uuid": "e76d6f45-20a6-42ae-8594-d26553940550"
+        },
+        {
+            "name": "Inside Deepsea Metro",
+            "formattedname": "[[Inside Deepsea Metro]]",
+            "length": "4:25",
+            "extend": false,
+            "uuid": "f80bfb5f-1d37-4af4-8399-70a0e1236c13"
+        },
+        {
+            "name": "#0 shell",
+            "formattedname": "[[＃0 shell|#0 shell]]",
+            "band": "Dedf1sh",
+            "formattedband": "[[Dedf1sh]]",
+            "length": "1:23",
+            "extend": false,
+            "uuid": "3ffc63fc-ef0f-4256-89a3-334ec9b7d124"
+        },
+        {
+            "name": "#1 progress",
+            "formattedname": "[[＃1 progress|#1 progress]]",
+            "band": "Dedf1sh",
+            "formattedband": "[[Dedf1sh]]",
+            "length": "2:37",
+            "extend": true,
+            "uuid": "13cc950f-d2db-4228-a919-2e8e915d18a8"
+        },
+        {
+            "name": "#6 frisk",
+            "formattedname": "[[＃6 frisk|#6 frisk]]",
+            "band": "Dedf1sh",
+            "formattedband": "[[Dedf1sh]]",
+            "length": "1:54",
+            "extend": true,
+            "uuid": "bdfe83e7-cec8-4f96-b3e6-f843c7ca8695"
+        },
+        {
+            "name": "#4 dunno",
+            "formattedname": "[[＃4 dunno|#4 dunno]]",
+            "band": "Dedf1sh",
+            "formattedband": "[[Dedf1sh]]",
+            "length": "1:52",
+            "extend": true,
+            "uuid": "c413ac26-2227-4607-be32-11765f7fe477"
+        },
+        {
+            "name": "#2 ripped",
+            "formattedname": "[[＃2 ripped|#2 ripped]]",
+            "band": "Dedf1sh",
+            "formattedband": "[[Dedf1sh]]",
+            "length": "2:04",
+            "extend": true,
+            "uuid": "a6e38e91-9a4f-4340-9ae7-ce95d8403bcb"
+        },
+        {
+            "name": "#9 party",
+            "formattedname": "[[＃9 party|#9 party]]",
+            "band": "Dedf1sh",
+            "formattedband": "[[Dedf1sh]]",
+            "length": "1:32",
+            "extend": true,
+            "uuid": "2ad1f59c-72d9-44e1-a895-a389c0ab7e30"
+        },
+        {
+            "name": "#8 regret",
+            "formattedname": "[[＃8 regret|#8 regret]]",
+            "band": "Dedf1sh",
+            "formattedband": "[[Dedf1sh]]",
+            "length": "2:11",
+            "extend": true,
+            "uuid": "c3bfd116-781c-4640-834e-ff68466572a6"
+        },
+        {
+            "name": "#14 crush",
+            "formattedname": "[[＃14 crush|#14 crush]]",
+            "band": "Dedf1sh",
+            "formattedband": "[[Dedf1sh]]",
+            "length": "2:42",
+            "extend": true,
+            "uuid": "91f841dc-d4b2-49f6-b998-559eb18cc0d3"
+        },
+        {
+            "name": "#13 shade",
+            "formattedname": "[[＃13 shade|#13 shade]]",
+            "band": "Dedf1sh",
+            "formattedband": "[[Dedf1sh]]",
+            "length": "1:56",
+            "extend": true,
+            "uuid": "c2d72de1-aa6c-4054-a05c-d5d69f16fcf3"
+        },
+        {
+            "name": "#16 salty",
+            "formattedname": "[[＃16 salty|#16 salty]]",
+            "band": "Dedf1sh",
+            "formattedband": "[[Dedf1sh]]",
+            "length": "1:39",
+            "extend": true,
+            "uuid": "5fefcb02-b984-475d-bfda-3583e9885b34"
+        },
+        {
+            "name": "#12 awake",
+            "formattedname": "[[＃12 awake|#12 awake]]",
+            "band": "Dedf1sh",
+            "formattedband": "[[Dedf1sh]]",
+            "length": "2:28",
+            "extend": true,
+            "uuid": "2a808d2b-3744-4593-8d36-8010874941ea"
+        },
+        {
+            "name": "#11 above",
+            "formattedname": "[[＃11 above|#11 above]]",
+            "band": "Dedf1sh",
+            "formattedband": "[[Dedf1sh]]",
+            "length": "2:08",
+            "extend": true,
+            "uuid": "1bf8d3cf-86d1-4443-9451-71013cfaa044"
+        },
+        {
+            "name": "TEST PASSED!",
+            "formattedname": "[[TEST PASSED!]]",
+            "length": "0:11",
+            "extend": false,
+            "setthescene": [
+                "Victory!"
+            ],
+            "uuid": "d018ba7a-0ebe-4ad8-ad9b-796ec3db7ea6"
+        },
+        {
+            "name": "#19 bless",
+            "formattedname": "[[＃19 bless|#19 bless]]",
+            "band": "Dedf1sh",
+            "formattedband": "[[Dedf1sh]]",
+            "length": "1:32",
+            "extend": true,
+            "uuid": "bcc4d411-9c96-465a-9cce-a223d3ecc0ce"
+        },
+        {
+            "name": "Got That Thang!",
+            "formattedname": "[[Got That Thang!]]",
+            "length": "0:12",
+            "extend": false,
+            "uuid": "a6434859-eff4-4e7e-bfd8-9cb58d251455"
+        },
+        {
+            "name": "All the Thangs",
+            "formattedname": "[[All the Thangs]]",
+            "length": "0:49",
+            "extend": false,
+            "uuid": "6cd6a158-1b60-45ad-9990-80a63119e3f8"
+        },
+        {
+            "name": "Nasty Majesty",
+            "formattedname": "[[Nasty Majesty]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "5:52",
+            "extend": true,
+            "uuid": "e0324a6b-2d39-4aba-ac4d-84f4c26a863a"
+        },
+        {
+            "name": "Shark Bytes",
+            "formattedname": "[[Shark Bytes]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "3:42",
+            "extend": true,
+            "matchyourmood": [
+                "Walking"
+            ],
+            "uuid": "9b8b421f-7ebb-4539-a5ac-f4e83a95f0dd"
+        },
+        {
+            "name": "Splattack! (Octo)",
+            "formattedname": "[[Splattack!#Splattack! (Octo)|Splattack! (Octo)]]",
+            "band": "Dedf1sh",
+            "formattedband": "[[Dedf1sh]]",
+            "length": "3:38",
+            "extend": true,
+            "setthescene": [
+                "Boss Battles"
+            ],
+            "uuid": "1d0e00a5-1bb8-431f-b282-f23b2587b3b1"
+        },
+        {
+            "name": "Reaching the Surface",
+            "formattedname": "[[Reaching the Surface]]",
+            "length": "0:41",
+            "extend": false,
+            "uuid": "6dc99af8-b770-4a18-987f-c6f0d6919e5f"
+        },
+        {
+            "name": "Commander Tartar's Actual Theme",
+            "formattedname": "[[Commander Tartar's Actual Theme]]",
+            "length": "0:38",
+            "extend": false,
+            "uuid": "db34dfec-9e8c-4a5f-bfc5-edae214c1bb2"
+        },
+        {
+            "name": "The Plan",
+            "formattedname": "[[The Plan]]",
+            "length": "1:34",
+            "extend": false,
+            "uuid": "318b9aea-ed09-477b-a246-5add5a8f14fc"
+        },
+        {
+            "name": "Here Comes Ultimate Doom",
+            "formattedname": "[[Opening#Here Comes Ultimate Doom|Here Comes Ultimate Doom]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "0:33",
+            "extend": false,
+            "uuid": "13affccf-a723-4145-92cb-66469735d765"
+        },
+        {
+            "name": "Fly Octo Fly - Ebb & Flow (Octo)",
+            "formattedname": "[[Fly Octo Fly ~ Ebb & Flow (Octo)|Fly Octo Fly - Ebb & Flow (Octo)]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "3:06",
+            "extend": false,
+            "matchyourmood": [
+                "Running"
+            ],
+            "setthescene": [
+                "The Final Battles"
+            ],
+            "uuid": "bf55d2f6-70d9-4ece-b877-9647aaa33232"
+        },
+        {
+            "name": "It's Over",
+            "formattedname": "[[Ebb & Flow#It's Over|It's Over]]",
+            "length": "0:59",
+            "extend": false,
+            "uuid": "5a648cf4-ef6b-4b79-a45c-afa2c9f6ccbb"
+        },
+        {
+            "name": "Mic Drop",
+            "formattedname": "[[Ebb & Flow#Mic Drop|Mic Drop]]",
+            "length": "0:21",
+            "extend": false,
+            "setthescene": [
+                "Victory!"
+            ],
+            "uuid": "ef9e0ee3-2d9f-45e5-beff-237d2749004f"
+        },
+        {
+            "name": "Into the Light",
+            "formattedname": "[[Into the Light]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "3:55",
+            "extend": false,
+            "uuid": "fdeb318b-05ce-4b4a-8a0f-6c9f3e379e00"
+        },
+        {
+            "name": "#$@%* Dudes Be #$@%* Sleepin' (Live)",
+            "formattedname": "[[＃$@%* Dudes Be ＃$@%* Sleepin' (Live)|#$@%* Dudes Be #$@%* Sleepin' (Live)]]",
+            "band": "Pearl",
+            "formattedband": "[[Pearl]]",
+            "length": "0:41",
+            "extend": false,
+            "uuid": "ecb3885d-2072-4b5d-be0a-2a86f0241906"
+        },
+        {
+            "name": "Ebb&FlowDemo.frsh (Sketch)",
+            "formattedname": "[[Ebb & Flow#Ebb&FlowDemo.frsh (Sketch)|Ebb&FlowDemo.frsh (Sketch)]]",
+            "band": "Marina",
+            "formattedband": "[[Marina]]",
+            "length": "0:42",
+            "extend": false,
+            "uuid": "985f4a88-29b6-4815-83e7-ecabc7ec1a50"
+        },
+        {
+            "name": "A Brighter Future Awaits! (Grizzco Industries Recruitment Video)",
+            "formattedname": "[[Splattack!#A Brighter Future Awaits! (Grizzco Industries Recruitment Video)|A Brighter Future Awaits! (Grizzco Industries Recruitment Video)]]",
+            "length": "0:52",
+            "extend": false,
+            "unlisted": true
+        },
+        {
+            "name": "January 2017 Trailer",
+            "formattedname": "[[Inkoming!#January 2017 Trailer|January 2017 Trailer]]",
+            "length": "1:37",
+            "extend": false,
+            "unlisted": true
+        },
+        {
+            "name": "Bonus Track (After Octo)",
+            "formattedname": "Bonus Track (After Octo)",
+            "length": "1:51",
+            "extend": false,
+            "unlisted": true
+        },
+        {
+            "name": "Splatocalypse (Final Splatfest Trailer)",
+            "formattedname": "Splatocalypse (Final Splatfest Trailer)",
+            "length": "0:58",
+            "extend": false,
+            "unlisted": true
+        },
+        {
+            "name": "Inkopolis Memorial Mixtape",
+            "formattedname": "[[Inkopolis Memorial Mixtape]]",
+            "length": "12:16",
+            "extend": false,
+            "unlisted": true
+        }
+    ]
+}

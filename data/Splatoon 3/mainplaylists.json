@@ -1,0 +1,484 @@
+{
+    "order": [
+        "Splatsville",
+        "Turf War",
+        "Salmon Run",
+        "Tableturf Battle",
+        "Story Mode",
+        "Splatfests"
+    ],
+    "playlists": {
+        "Story Mode": {
+            "uuid": "86ff185d-a4c3-4825-9c32-b24563c23741",
+            "introduction": "This playlist contains 47 tracks from {{RotM}}, lasting 1 hour and 56 minutes.",
+            "songlist": [
+                {
+                    "name": "Cap'n Cuttlefish's Theme",
+                    "band": "N/A"
+                },
+                {
+                    "name": "The Crater",
+                    "band": "N/A"
+                },
+                {
+                    "name": "Crater Eighters Routine",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "Mission Complete! (The Crater)",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "I'm Octavio (F34RME Remix)",
+                    "band": "DJ Octavio"
+                },
+                {
+                    "name": "Meeting the New Squidbeak Splatoon",
+                    "band": "N/A"
+                },
+                {
+                    "name": "Sandcastles",
+                    "band": "Stars in the Deep"
+                },
+                {
+                    "name": "Sudden Depth",
+                    "band": "Mimicry"
+                },
+                {
+                    "name": "Two Shadows in the Sun",
+                    "band": "Wash Out"
+                },
+                {
+                    "name": "Dead Sea",
+                    "band": "Firefly"
+                },
+                {
+                    "name": "Whirlpool Tune",
+                    "band": "On the Clock"
+                },
+                {
+                    "name": "Hyper Diver",
+                    "band": "Anxiety Society"
+                },
+                {
+                    "name": "Got It! (Alterna Swag)",
+                    "band": "N/A"
+                },
+                {
+                    "name": "Got It! (Gold Record)",
+                    "band": "N/A"
+                },
+                {
+                    "name": "Alterna Citizen Program M-01: Basic Course (Morning Fog)",
+                    "band": "N/A"
+                },
+                {
+                    "name": "Nine Out of Tension",
+                    "band": "Octoplush"
+                },
+                {
+                    "name": "Underwater Neon",
+                    "band": "Octoplush"
+                },
+                {
+                    "name": "Flop to It",
+                    "band": "Octoplush"
+                },
+                {
+                    "name": "Octoling Rendezvous",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "Alterna Citizen Program M-02: Advanced Course (Twilight Waves)",
+                    "band": "N/A"
+                },
+                {
+                    "name": "Smoke and Mirrors",
+                    "band": "Octoplush"
+                },
+                {
+                    "name": "Ride or Fry",
+                    "band": "Octoplush"
+                },
+                {
+                    "name": "With Flying Colors",
+                    "band": "Octoplush"
+                },
+                {
+                    "name": "Seep & Destroy",
+                    "band": "Octoplush"
+                },
+                {
+                    "name": "Marine Machines",
+                    "band": "Octoplush"
+                },
+                {
+                    "name": "#35 caught",
+                    "band": "Octoplush"
+                },
+                {
+                    "name": "Don't Flinch",
+                    "band": "Octoplush"
+                },
+                {
+                    "name": "Mission Complete! (Alterna)",
+                    "band": "N/A"
+                },
+                {
+                    "name": "Alterna Citizen Program M-00: Init (System Noise)",
+                    "band": "N/A"
+                },
+                {
+                    "name": "Deep Cut's Theme",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Surprise and Shine",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Got That Treasure!",
+                    "band": "N/A"
+                },
+                {
+                    "name": "Chowder Combo",
+                    "band": "N/A"
+                },
+                {
+                    "name": "Smooth as Ice",
+                    "band": "N/A"
+                },
+                {
+                    "name": "Our Bad",
+                    "band": "N/A"
+                },
+                {
+                    "name": "Mammalian Memo",
+                    "band": "Grizzco"
+                },
+                {
+                    "name": "In Filtration",
+                    "band": "Octoplush"
+                },
+                {
+                    "name": "Hide and Sleek",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Smeared Canvas",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Greeting Mr. Grizz",
+                    "band": "Grizzco"
+                },
+                {
+                    "name": "Countdown to Hairmageddon",
+                    "band": "Grizzco"
+                },
+                {
+                    "name": "Go, Agent 3!",
+                    "band": "N/A"
+                },
+                {
+                    "name": "Bear with Me",
+                    "band": "Grizzco"
+                },
+                {
+                    "name": "Calamari Inkantation 3MIX",
+                    "band": "Deep Cut x Squid Sisters"
+                },
+                {
+                    "name": "The Most Massive Fuzzball of All",
+                    "band": "N/A"
+                },
+                {
+                    "name": "Wave Goodbye",
+                    "band": "Squid Sisters"
+                },
+                {
+                    "name": "Alterna Citizen Program M-??: mY dEAR",
+                    "band": "N/A"
+                }
+            ]
+        },
+        "Splatfests": {
+            "uuid": "a4335646-bd60-44e3-ac9f-367685d71694",
+            "introduction": "This playlist contains 16 tracks related to [[Splatfest]]s, lasting 27 minutes. Starting on {{date|2024-12-19}}, this playlist is featured under the \"Happy Holidays!\" set of playlists.",
+            "songlist": [
+                {
+                    "name": "Anarchy Splatcast (Splatfest)",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Splatfest Theme Drop",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Anarchy Poisons",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Anarchy Rainbow",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "City of Color (2023)",
+                    "band": "Squid Sisters"
+                },
+                {
+                    "name": "Tomorrow's Nostalgia Today",
+                    "band": "Squid Sisters"
+                },
+                {
+                    "name": "Soak & Stomp",
+                    "band": "Anglerfish"
+                },
+                {
+                    "name": "Commence the Fest",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Fins in the Air",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Till Depth Do Us Part",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Liquid Sunshine",
+                    "band": "Squid Sisters feat. Ian BGM"
+                },
+                {
+                    "name": "Now or Never!",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Still Swimmin'",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Ego Overboard",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Splatfest Results Drop",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Got It!",
+                    "band": "N/A"
+                }
+            ]
+        },
+        "Turf War": {
+            "uuid": "c98df8b9-77e4-4d32-86b7-90302ed7ffa5",
+            "introduction": "This playlist contains 13 tracks from online multiplayer battles, lasting 29 minutes.",
+            "songlist": [
+                {
+                    "name": "Opening",
+                    "band": "C-Side"
+                },
+                {
+                    "name": "Clickbait",
+                    "band": "C-Side"
+                },
+                {
+                    "name": "Headhammer",
+                    "band": "C-Side"
+                },
+                {
+                    "name": "Triple Dip",
+                    "band": "C-Side"
+                },
+                {
+                    "name": "Paintscraper",
+                    "band": "C-Side"
+                },
+                {
+                    "name": "Splattack!",
+                    "band": "C-Side"
+                },
+                {
+                    "name": "Sea Me Now",
+                    "band": "Front Roe"
+                },
+                {
+                    "name": "Sandy Side Up",
+                    "band": "Front Roe"
+                },
+                {
+                    "name": "Candy-Coated Rocks",
+                    "band": "Damp Socks feat. Off the Hook"
+                },
+                {
+                    "name": "Tentacle to the Metal",
+                    "band": "Damp Socks feat. Off the Hook"
+                },
+                {
+                    "name": "Now or Never!",
+                    "band": "C-Side"
+                },
+                {
+                    "name": "Learning Curve",
+                    "band": "C-Side"
+                },
+                {
+                    "name": "Rinse/Repeat",
+                    "band": "C-Side"
+                }
+            ]
+        },
+        "Salmon Run": {
+            "uuid": "1ffcfdae-71f7-473e-ab8d-e7884e094f95",
+            "introduction": "This playlist contains 16 tracks from [[Salmon Run Next Wave]], lasting 28 minutes.",
+            "songlist": [
+                {
+                    "name": "Happy Little Workers (24/7 Mix)",
+                    "band": "Grizzco"
+                },
+                {
+                    "name": "Surge & Submerge",
+                    "band": "ω-3"
+                },
+                {
+                    "name": "Deluge Dirge",
+                    "band": "ω-3"
+                },
+                {
+                    "name": "They Got You! (Salmon Run)",
+                    "band": "Grizzco"
+                },
+                {
+                    "name": "Fishing Frenzy",
+                    "band": "ω-3"
+                },
+                {
+                    "name": "You Got Them! (Salmon Run) 1",
+                    "band": "Grizzco"
+                },
+                {
+                    "name": "Frothy Waters",
+                    "band": "ω-3"
+                },
+                {
+                    "name": "You Got Them! (Salmon Run) 2",
+                    "band": "Grizzco"
+                },
+                {
+                    "name": "Frantic Aspic",
+                    "band": "ω-3"
+                },
+                {
+                    "name": "You Got Them! (Salmon Run) 3 - Go Off, King!",
+                    "band": "Grizzco"
+                },
+                {
+                    "name": "Toxic Anoxic",
+                    "band": "ω-3"
+                },
+                {
+                    "name": "You Got Them! (Salmon Run) 4 - Bye, King",
+                    "band": "Grizzco"
+                },
+                {
+                    "name": "Anarchy Splatcast (Big Run)",
+                    "band": "Grizzco"
+                },
+                {
+                    "name": "Bait & Click (Mutation)",
+                    "band": "ω-3"
+                },
+                {
+                    "name": "Bait & Click",
+                    "band": "ω-3"
+                },
+                {
+                    "name": "Not Bad (Do Better)",
+                    "band": "Grizzco"
+                }
+            ]
+        },
+        "Splatsville": {
+            "uuid": "8d91cd61-158b-47bd-97de-9ee336069fa2",
+            "introduction": "This playlist contains 10 tracks related to [[Splatsville]], lasting 26 minutes.",
+            "songlist": [
+                {
+                    "name": "What's Your Style?",
+                    "band": "N/A"
+                },
+                {
+                    "name": "Clickbait (Splash Sessions Demo)",
+                    "band": "C-Side"
+                },
+                {
+                    "name": "Anarchy Splatcast",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Welcome to Splatsville",
+                    "band": "N/A"
+                },
+                {
+                    "name": "Soaking in Splatsville",
+                    "band": "N/A"
+                },
+                {
+                    "name": "Sinkopated",
+                    "band": "Backwash"
+                },
+                {
+                    "name": "Lobby Terminal",
+                    "band": "N/A"
+                },
+                {
+                    "name": "The Shoal",
+                    "band": "N/A"
+                },
+                {
+                    "name": "Tableturf Main Theme",
+                    "band": "Ancho-V Games"
+                },
+                {
+                    "name": "Dripping with Style",
+                    "band": "Seven Seas Crew"
+                }
+            ]
+        },
+        "Tableturf Battle": {
+            "uuid": "21c479ce-7f77-424f-aab8-79e4291e87d4",
+            "introduction": "This playlist contains 7 tracks from [[Tableturf Battle]]s, lasting 14 minutes.",
+            "songlist": [
+                {
+                    "name": "Tableturf Card List",
+                    "band": "Ancho-V Games"
+                },
+                {
+                    "name": "Tableturf Level Selection",
+                    "band": "Ancho-V Games"
+                },
+                {
+                    "name": "Tableturf Deck Selection",
+                    "band": "Ancho-V Games"
+                },
+                {
+                    "name": "Tableturf Main Theme",
+                    "band": "Ancho-V Games"
+                },
+                {
+                    "name": "Tableturf Three Turns Remaining",
+                    "band": "Ancho-V Games"
+                },
+                {
+                    "name": "Tableturf Loss or Draw Theme",
+                    "band": "Ancho-V Games"
+                },
+                {
+                    "name": "Tableturf Win Theme",
+                    "band": "Ancho-V Games"
+                }
+            ]
+        }
+    }
+}
