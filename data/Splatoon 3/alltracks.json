@@ -746,6 +746,9 @@
             "formattedband": "[[Squid Sisters]]",
             "length": "5:27",
             "extend": false,
+            "setthescene": [
+                "Staff Credits"
+            ],
             "uuid": "16b8fdbd-b300-4262-984b-ab21b2a9e8b4"
         },
         {

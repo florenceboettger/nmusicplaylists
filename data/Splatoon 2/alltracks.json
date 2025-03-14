@@ -680,6 +680,9 @@
             "formattedband": "[[Squid Sisters]]",
             "length": "4:02",
             "extend": false,
+            "setthescene": [
+                "Staff Credits"
+            ],
             "uuid": "651448da-5d07-458c-9325-68f73eecda7a"
         },
         {
@@ -969,6 +972,9 @@
             "formattedband": "[[Off the Hook]]",
             "length": "3:55",
             "extend": false,
+            "setthescene": [
+                "Staff Credits"
+            ],
             "uuid": "fdeb318b-05ce-4b4a-8a0f-6c9f3e379e00"
         },
         {
