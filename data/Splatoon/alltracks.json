@@ -8,7 +8,7 @@
             "band": "Squid Squad",
             "formattedband": "[[Squid Squad]]",
             "formattedname": "[[Opening]]",
-            "id": "0caa4b97-d1ab-42f5-b565-1d5ea0118a82",
+            "uuid": "0caa4b97-d1ab-42f5-b565-1d5ea0118a82",
             "extend": false,
             "length": "0:13"
         },
@@ -17,7 +17,7 @@
             "band": "Squid Squad",
             "formattedband": "[[Squid Squad]]",
             "formattedname": "[[Splattack!]]",
-            "id": "0af3c90c-080d-413c-9258-7888a9c27f2b",
+            "uuid": "0af3c90c-080d-413c-9258-7888a9c27f2b",
             "extend": true,
             "length": "3:52",
             "matchyourmood": [
@@ -29,7 +29,7 @@
             "band": "Squid Squad",
             "formattedband": "[[Squid Squad]]",
             "formattedname": "[[Ink or Sink]]",
-            "id": "02778bb8-8d6a-4e6e-a127-950475e59264",
+            "uuid": "02778bb8-8d6a-4e6e-a127-950475e59264",
             "extend": true,
             "length": "2:35"
         },
@@ -38,7 +38,7 @@
             "band": "Squid Squad",
             "formattedband": "[[Squid Squad]]",
             "formattedname": "[[Seaskape]]",
-            "id": "918c7bd9-473a-4fd0-b9c2-0b681308e529",
+            "uuid": "918c7bd9-473a-4fd0-b9c2-0b681308e529",
             "extend": true,
             "length": "2:56"
         },
@@ -47,7 +47,7 @@
             "band": "Squid Squad",
             "formattedband": "[[Squid Squad]]",
             "formattedname": "[[Kraken Up]]",
-            "id": "7d0380cc-f283-41c5-b58a-263e882248d4",
+            "uuid": "7d0380cc-f283-41c5-b58a-263e882248d4",
             "extend": true,
             "length": "2:21",
             "matchyourmood": [
@@ -59,7 +59,7 @@
             "band": "Squid Squad",
             "formattedband": "[[Squid Squad]]",
             "formattedname": "[[Metalopod]]",
-            "id": "09154f78-c87f-4c78-879e-240af1fd9857",
+            "uuid": "09154f78-c87f-4c78-879e-240af1fd9857",
             "extend": true,
             "length": "2:32",
             "matchyourmood": [
@@ -71,7 +71,7 @@
             "band": "Chirpy Chips",
             "formattedband": "[[Chirpy Chips]]",
             "formattedname": "[[Shellfie]]",
-            "id": "5ef8ef5f-479b-4089-bd75-48ba3d6ed2c6",
+            "uuid": "5ef8ef5f-479b-4089-bd75-48ba3d6ed2c6",
             "extend": true,
             "length": "2:05",
             "matchyourmood": [
@@ -83,7 +83,7 @@
             "band": "Chirpy Chips",
             "formattedband": "[[Chirpy Chips]]",
             "formattedname": "[[Split & Splat]]",
-            "id": "edf37faf-3353-4712-8fb2-6663233bb35b",
+            "uuid": "edf37faf-3353-4712-8fb2-6663233bb35b",
             "extend": true,
             "length": "2:31"
         },
@@ -92,7 +92,7 @@
             "band": "Hightide Era",
             "formattedband": "[[Hightide Era]]",
             "formattedname": "[[Hooked]]",
-            "id": "30ad5f18-0cf9-416b-8647-22c1e637f79e",
+            "uuid": "30ad5f18-0cf9-416b-8647-22c1e637f79e",
             "extend": true,
             "length": "2:26"
         },
@@ -101,7 +101,7 @@
             "band": "Hightide Era",
             "formattedband": "[[Hightide Era]]",
             "formattedname": "[[Sucker Punch]]",
-            "id": "79eebe58-4bdd-48c3-b59a-8342eefa8cdd",
+            "uuid": "79eebe58-4bdd-48c3-b59a-8342eefa8cdd",
             "extend": true,
             "length": "2:37",
             "matchyourmood": [
@@ -113,35 +113,35 @@
             "band": "Squid Squad",
             "formattedband": "[[Squid Squad]]",
             "formattedname": "[[Now or Never!]]",
-            "id": "3c418c40-b31f-4ccd-8e5d-e145e534aacf",
+            "uuid": "3c418c40-b31f-4ccd-8e5d-e145e534aacf",
             "extend": false,
             "length": "1:02"
         },
         {
             "name": "You Got Them!",
             "formattedname": "[[You Got Them!]]",
-            "id": "e0ab4de2-546a-4214-ae75-b89cccb534f9",
+            "uuid": "e0ab4de2-546a-4214-ae75-b89cccb534f9",
             "extend": false,
             "length": "0:05"
         },
         {
             "name": "Battle Victory",
             "formattedname": "[[Battle Victory]]",
-            "id": "43438954-092c-453f-932d-23188c7be3c2",
+            "uuid": "43438954-092c-453f-932d-23188c7be3c2",
             "extend": true,
             "length": "1:07"
         },
         {
             "name": "They Got You!",
             "formattedname": "[[They Got You!]]",
-            "id": "3bc32a3e-5de6-449e-8d5c-03b472c6a4b8",
+            "uuid": "3bc32a3e-5de6-449e-8d5c-03b472c6a4b8",
             "extend": false,
             "length": "0:07"
         },
         {
             "name": "Battle Defeat",
             "formattedname": "[[Battle Defeat]]",
-            "id": "8cb87aaf-6446-448e-9b90-b1447c41a289",
+            "uuid": "8cb87aaf-6446-448e-9b90-b1447c41a289",
             "extend": true,
             "length": "1:09"
         },
@@ -150,7 +150,7 @@
             "band": "Squid Squad",
             "formattedband": "[[Squid Squad]]",
             "formattedname": "[[Splattack!#Splattack! (Jam Sesh)|Splattack! (Jam Sesh)]]",
-            "id": "fe0c2275-7194-4613-bb78-4d7003b74945",
+            "uuid": "fe0c2275-7194-4613-bb78-4d7003b74945",
             "extend": true,
             "length": "2:32",
             "setthescene": [
@@ -160,21 +160,21 @@
         {
             "name": "Slip into Inkopolis",
             "formattedname": "Slip into Inkopolis",
-            "id": "a9544f77-758d-4cbc-bd14-1d046d0f175e",
+            "uuid": "a9544f77-758d-4cbc-bd14-1d046d0f175e",
             "extend": true,
             "length": "1:02"
         },
         {
             "name": "Start Fresh",
             "formattedname": "Start Fresh",
-            "id": "c2b01f0e-f891-44f3-94ba-06c01c268db7",
+            "uuid": "c2b01f0e-f891-44f3-94ba-06c01c268db7",
             "extend": true,
             "length": "1:06"
         },
         {
             "name": "The Plaza",
             "formattedname": "The Plaza",
-            "id": "0bdac903-e5c1-46c9-a488-e1f3db43a500",
+            "uuid": "0bdac903-e5c1-46c9-a488-e1f3db43a500",
             "extend": false,
             "length": "4:55"
         },
@@ -183,14 +183,14 @@
             "band": "Squid Sisters",
             "formattedband": "[[Squid Sisters]]",
             "formattedname": "[[Inkopolis News (song)|Inkopolis News]]",
-            "id": "57852bfe-56c2-4855-a7fa-f0bfdd1716bb",
+            "uuid": "57852bfe-56c2-4855-a7fa-f0bfdd1716bb",
             "extend": true,
             "length": "0:52"
         },
         {
             "name": "Inkopolis Lobby",
             "formattedname": "[[Inkopolis Lobby]]",
-            "id": "c5dcd9db-4e22-46b2-9cf7-61f3ca74ad52",
+            "uuid": "c5dcd9db-4e22-46b2-9cf7-61f3ca74ad52",
             "extend": true,
             "length": "1:34"
         },
@@ -199,7 +199,7 @@
             "band": "Bob Dub",
             "formattedband": "[[Bob Dub]]",
             "formattedname": "[[Dubble Bath]]",
-            "id": "84db3add-c186-4dd9-bad5-40ac59109ff6",
+            "uuid": "84db3add-c186-4dd9-bad5-40ac59109ff6",
             "extend": true,
             "length": "2:08"
         },
@@ -208,7 +208,7 @@
             "band": "Callie",
             "formattedband": "[[Callie]]",
             "formattedname": "[[Bomb Rush Blush]]",
-            "id": "9ddf8479-2990-417f-a6a6-090843f7cd25",
+            "uuid": "9ddf8479-2990-417f-a6a6-090843f7cd25",
             "extend": true,
             "length": "2:30",
             "matchyourmood": [
@@ -220,7 +220,7 @@
             "band": "Marie",
             "formattedband": "[[Marie]]",
             "formattedname": "[[Tide Goes Out]]",
-            "id": "ccd4623c-9e28-41f8-b97b-f423994d15b5",
+            "uuid": "ccd4623c-9e28-41f8-b97b-f423994d15b5",
             "extend": true,
             "length": "2:26"
         },
@@ -229,21 +229,21 @@
             "band": "DJ Lee Fish",
             "formattedband": "[[DJ Lee Fish]]",
             "formattedname": "[[Lookin' Fresh]]",
-            "id": "208bcc42-e554-41f9-9b4d-d636929bf325",
+            "uuid": "208bcc42-e554-41f9-9b4d-d636929bf325",
             "extend": false,
             "length": "2:14"
         },
         {
             "name": "Show Yourself",
             "formattedname": "Show Yourself",
-            "id": "b7512250-896d-487f-9cfd-4f106299ae68",
+            "uuid": "b7512250-896d-487f-9cfd-4f106299ae68",
             "extend": true,
             "length": "1:07"
         },
         {
             "name": "Splatfest Theme Drop",
             "formattedname": "[[City of Color#Splatfest Theme Drop|Splatfest Theme Drop]]",
-            "id": "8373b461-7a16-4b61-ab3d-69887da3c6c7",
+            "uuid": "8373b461-7a16-4b61-ab3d-69887da3c6c7",
             "extend": false,
             "length": "0:05"
         },
@@ -252,7 +252,7 @@
             "band": "Squid Sisters",
             "formattedband": "[[Squid Sisters]]",
             "formattedname": "[[City of Color]]",
-            "id": "6b197ae0-af12-418f-9916-780ed780dca5",
+            "uuid": "6b197ae0-af12-418f-9916-780ed780dca5",
             "extend": true,
             "length": "2:06",
             "matchyourmood": [
@@ -265,7 +265,7 @@
             "band": "Squid Sisters",
             "formattedband": "[[Squid Sisters]]",
             "formattedname": "[[Commence the Fest]]",
-            "id": "ba18adf7-5a38-4261-80a3-f39506548b98",
+            "uuid": "ba18adf7-5a38-4261-80a3-f39506548b98",
             "extend": false,
             "length": "0:12"
         },
@@ -274,7 +274,7 @@
             "band": "Squid Sisters",
             "formattedband": "[[Squid Sisters]]",
             "formattedname": "[[Ink Me Up]]",
-            "id": "36245934-01d9-4ef7-8303-8baf7fdf55c3",
+            "uuid": "36245934-01d9-4ef7-8303-8baf7fdf55c3",
             "extend": true,
             "length": "2:20",
             "matchyourmood": [
@@ -286,7 +286,7 @@
             "band": "Squid Sisters",
             "formattedband": "[[Squid Sisters]]",
             "formattedname": "[[Now or Never!#Now or Never! (Squid Sisters)|Now or Never!]]",
-            "id": "8add01bd-e1a8-4c9b-a19a-c43cce6bb7ef",
+            "uuid": "8add01bd-e1a8-4c9b-a19a-c43cce6bb7ef",
             "extend": false,
             "length": "1:02",
             "matchyourmood": [
@@ -297,7 +297,7 @@
         {
             "name": "Splatfest Results Drop",
             "formattedname": "[[City of Color#Splatfest Results Drop|Splatfest Results Drop]]",
-            "id": "084ef39c-5055-48d1-8fac-450b1ea0dff5",
+            "uuid": "084ef39c-5055-48d1-8fac-450b1ea0dff5",
             "extend": false,
             "length": "0:07",
             "setthescene": [
@@ -307,21 +307,21 @@
         {
             "name": "Got It!",
             "formattedname": "[[Got It!]]",
-            "id": "41d99fbb-7bb9-4da9-ba58-9b2d945decea",
+            "uuid": "41d99fbb-7bb9-4da9-ba58-9b2d945decea",
             "extend": false,
             "length": "0:03"
         },
         {
             "name": "Cap'n Cuttlefish's Theme",
             "formattedname": "[[Cap'n Cuttlefish's Theme]]",
-            "id": "2cc5f8ef-7923-4540-aac8-4fcc3d3fbe96",
+            "uuid": "2cc5f8ef-7923-4540-aac8-4fcc3d3fbe96",
             "extend": true,
             "length": "2:04"
         },
         {
             "name": "Octo Valley",
             "formattedname": "[[Octo Valley (song)|Octo Valley]]",
-            "id": "cabc0fba-d577-4818-9eb0-ffb13c156f18",
+            "uuid": "cabc0fba-d577-4818-9eb0-ffb13c156f18",
             "extend": true,
             "length": "4:06"
         },
@@ -330,7 +330,7 @@
             "band": "Turquoise October",
             "formattedband": "[[Turquoise October]]",
             "formattedname": "[[Eight-Legged Advance]]",
-            "id": "800bd2ce-514f-4b2d-ac3a-4bd9bd105255",
+            "uuid": "800bd2ce-514f-4b2d-ac3a-4bd9bd105255",
             "extend": true,
             "length": "3:03"
         },
@@ -339,7 +339,7 @@
             "band": "Turquoise October",
             "formattedband": "[[Turquoise October]]",
             "formattedname": "[[Tentacular Circus]]",
-            "id": "576707cc-eac2-4640-9039-64deb815572e",
+            "uuid": "576707cc-eac2-4640-9039-64deb815572e",
             "extend": true,
             "length": "2:02"
         },
@@ -348,7 +348,7 @@
             "band": "Turquoise October",
             "formattedband": "[[Turquoise October]]",
             "formattedname": "[[Cephaloparade]]",
-            "id": "0335bd39-ff5d-4618-91c0-c22e42513cf4",
+            "uuid": "0335bd39-ff5d-4618-91c0-c22e42513cf4",
             "extend": true,
             "length": "3:05"
         },
@@ -357,7 +357,7 @@
             "band": "Turquoise October",
             "formattedband": "[[Turquoise October]]",
             "formattedname": "[[Inkstrike Shuffle]]",
-            "id": "b3ca2ac1-30be-4f4a-b8aa-6d46e34da9b9",
+            "uuid": "b3ca2ac1-30be-4f4a-b8aa-6d46e34da9b9",
             "extend": true,
             "length": "2:01"
         },
@@ -366,7 +366,7 @@
             "band": "Turquoise October",
             "formattedband": "[[Turquoise October]]",
             "formattedname": "[[Octoling Rendezvous]]",
-            "id": "f1313f38-561f-449a-ba23-5266e6953507",
+            "uuid": "f1313f38-561f-449a-ba23-5266e6953507",
             "extend": true,
             "length": "1:56",
             "matchyourmood": [
@@ -378,7 +378,7 @@
             "band": "Turquoise October",
             "formattedband": "[[Turquoise October]]",
             "formattedname": "[[Octoweaponry]]",
-            "id": "d664586c-8858-4c76-a950-f216d5dd33ee",
+            "uuid": "d664586c-8858-4c76-a950-f216d5dd33ee",
             "extend": true,
             "length": "3:54",
             "setthescene": [
@@ -388,7 +388,7 @@
         {
             "name": "Story Mode: Onward!",
             "formattedname": "[[Story Mode: Onward!]]",
-            "id": "45083325-32a2-45c0-a048-275dd422ce0a",
+            "uuid": "45083325-32a2-45c0-a048-275dd422ce0a",
             "extend": false,
             "length": "0:05",
             "setthescene": [
@@ -398,14 +398,14 @@
         {
             "name": "Story Mode: SPLAT!",
             "formattedname": "[[Story Mode: SPLAT!]]",
-            "id": "6fc71ca4-306e-4380-95b7-1a0a0bd3796a",
+            "uuid": "6fc71ca4-306e-4380-95b7-1a0a0bd3796a",
             "extend": false,
             "length": "0:07"
         },
         {
             "name": "The Sunken Scrolls",
             "formattedname": "[[The Sunken Scrolls]]",
-            "id": "96f8aed7-fad7-4033-8dc3-24549333552c",
+            "uuid": "96f8aed7-fad7-4033-8dc3-24549333552c",
             "extend": true,
             "length": "1:24"
         },
@@ -414,7 +414,7 @@
             "band": "DJ Octavio",
             "formattedband": "DJ Octavio",
             "formattedname": "[[I Am Octavio]]",
-            "id": "eab9ed51-18d4-46c9-b219-2f30838b9f22",
+            "uuid": "eab9ed51-18d4-46c9-b219-2f30838b9f22",
             "extend": true,
             "length": "3:53"
         },
@@ -423,7 +423,7 @@
             "band": "Squid Sisters",
             "formattedband": "Squid Sisters",
             "formattedname": "[[Calamari Inkantation]]",
-            "id": "a2e6431c-16a5-4186-9418-84e49397966d",
+            "uuid": "a2e6431c-16a5-4186-9418-84e49397966d",
             "extend": true,
             "length": "2:32",
             "matchyourmood": [
@@ -438,7 +438,7 @@
             "band": "Squid Sisters",
             "formattedband": "Squid Sisters",
             "formattedname": "[[Maritime Memory]]",
-            "id": "db7f4f2b-2955-4b36-ae66-a4210a9e5b2a",
+            "uuid": "db7f4f2b-2955-4b36-ae66-a4210a9e5b2a",
             "extend": false,
             "length": "2:41",
             "setthescene": [
