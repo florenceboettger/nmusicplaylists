@@ -6,6 +6,7 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding='utf-8')
 
 games = [
+    Game.SPLATOON,
     Game.SPLATOON2,
     Game.SPLATOON3]
 
@@ -22,16 +23,19 @@ for game in games:
         alltracks.addsongs(alltracksplaylistprops["songlist"], game)
 for game in games:
     gamepath = datapath / game.value
-    with (gamepath / "alltracks.json").open("r", encoding="utf8") as f:
-        alltracksplaylistprops = json.loads(''.join(f.readlines()))
-        playlists[game.value]["All tracks"] = Playlist(alltracksplaylistprops, "All tracks", alltracks, playlisttypes[game], game)
-    with (gamepath / "toptracks.json").open("r", encoding="utf8") as f:
-        toptracksplaylistprops = json.loads(''.join(f.readlines()))
-        playlists[game.value]["Top tracks"] = Playlist(toptracksplaylistprops, "Top tracks", alltracks, playlisttypes[game], game)
-    with (gamepath / "mainplaylists.json").open("r", encoding="utf8") as f:
-        mainplaylistsprops = json.loads(''.join(f.readlines()))
-        for name, playlistprops in mainplaylistsprops["playlists"].items():
-            playlists[game.value][name] = Playlist(playlistprops, name, alltracks, playlisttypes[game], game)
+    if (gamepath / "alltracks.json").exists():
+        with (gamepath / "alltracks.json").open("r", encoding="utf8") as f:
+            alltracksplaylistprops = json.loads(''.join(f.readlines()))
+            playlists[game.value]["All tracks"] = Playlist(alltracksplaylistprops, "All tracks", alltracks, playlisttypes[game], game)
+    if (gamepath / "toptracks.json").exists():
+        with (gamepath / "toptracks.json").open("r", encoding="utf8") as f:
+            toptracksplaylistprops = json.loads(''.join(f.readlines()))
+            playlists[game.value]["Top tracks"] = Playlist(toptracksplaylistprops, "Top tracks", alltracks, playlisttypes[game], game)
+    if (gamepath / "mainplaylists.json").exists():
+        with (gamepath / "mainplaylists.json").open("r", encoding="utf8") as f:
+            mainplaylistsprops = json.loads(''.join(f.readlines()))
+            for name, playlistprops in mainplaylistsprops["playlists"].items():
+                playlists[game.value][name] = Playlist(playlistprops, name, alltracks, playlisttypes[game], game)
 
     if (gamepath / "unlistedtracks.json").exists():
         unlistedtracksplaylistprops = None

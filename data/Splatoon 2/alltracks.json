@@ -185,7 +185,7 @@
         },
         {
             "name": "You Got Them!",
-            "formattedname": "[[Victory! – Jingle#You Got Them!|You Got Them!]]",
+            "formattedname": "[[You Got Them!#You Got Them! (Wet Floor)|You Got Them!]]",
             "band": "Wet Floor",
             "formattedband": "[[Wet Floor]]",
             "length": "0:06",
@@ -206,7 +206,7 @@
         },
         {
             "name": "They Got You!",
-            "formattedname": "[[Defeat – Jingle#They Got You!|They Got You!]]",
+            "formattedname": "[[They Got You!#They Got You! (Wet Floor)|They Got You!]]",
             "band": "Wet Floor",
             "formattedband": "[[Wet Floor]]",
             "length": "0:07",
@@ -382,7 +382,7 @@
         },
         {
             "name": "Splatfest Theme Drop",
-            "formattedname": "Splatfest Theme Drop",
+            "formattedname": "[[Color Pulse#Splatfest Theme Drop|Splatfest Theme Drop]]",
             "band": "Off the Hook",
             "formattedband": "[[Off the Hook]]",
             "length": "0:06",
@@ -404,7 +404,7 @@
         },
         {
             "name": "Commence the Fest",
-            "formattedname": "[[Opening#Commence the Fest (Off the Hook)|Commence the Fest]]",
+            "formattedname": "[[Commence the Fest#Commence the Fest (Off the Hook)|Commence the Fest]]",
             "band": "Off the Hook",
             "formattedband": "[[Off the Hook]]",
             "length": "0:22",
@@ -460,7 +460,7 @@
         },
         {
             "name": "You Got Them! (Splatfest)",
-            "formattedname": "[[Victory! – Jingle#You Got Them! (Splatfest)|You Got Them! (Splatfest)]]",
+            "formattedname": "[[You Got Them!#You Got Them! (Splatfest)|You Got Them! (Splatfest)]]",
             "band": "Off the Hook",
             "formattedband": "[[Off the Hook]]",
             "length": "0:05",
@@ -481,7 +481,7 @@
         },
         {
             "name": "They Got You! (Splatfest)",
-            "formattedname": "[[Defeat – Jingle#They Got You! (Splatfest)|They Got You! (Splatfest)]]",
+            "formattedname": "[[They Got You!#They Got You! (Splatfest)|They Got You! (Splatfest)]]",
             "band": "Off the Hook",
             "formattedband": "[[Off the Hook]]",
             "length": "0:07",
@@ -499,7 +499,7 @@
         },
         {
             "name": "Splatfest Results Drop",
-            "formattedname": "Splatfest Results Drop",
+            "formattedname": "[[Color Pulse#Splatfest Results Drop|Splatfest Results Drop]]",
             "band": "Off the Hook",
             "formattedband": "[[Off the Hook]]",
             "length": "0:05",
@@ -621,7 +621,7 @@
         },
         {
             "name": "Story Mode: Onward!",
-            "formattedname": "[[Hero Mode - Onward!#Story Mode: Onward!|Story Mode: Onward!]]",
+            "formattedname": "[[Story Mode: Onward!#Story Mode: Onward! (Octo Canyon)|Story Mode: Onward!]]",
             "band": "Turquoise October",
             "formattedband": "[[Turquoise October]]",
             "length": "0:07",
@@ -633,7 +633,7 @@
         },
         {
             "name": "R.I.P. (Story Mode)",
-            "formattedname": "[[Hero Mode - SPLAT!#R.I.P. (Story Mode)|R.I.P. (Story Mode)]]",
+            "formattedname": "[[Story Mode: SPLAT!#R.I.P. (Story Mode)|R.I.P. (Story Mode)]]",
             "band": "Turquoise October",
             "formattedband": "[[Turquoise October]]",
             "length": "0:07",
@@ -926,7 +926,7 @@
         },
         {
             "name": "Here Comes Ultimate Doom",
-            "formattedname": "[[Opening#Here Comes Ultimate Doom|Here Comes Ultimate Doom]]",
+            "formattedname": "[[Commence the Fest#Here Comes Ultimate Doom|Here Comes Ultimate Doom]]",
             "band": "Off the Hook",
             "formattedband": "[[Off the Hook]]",
             "length": "0:33",
@@ -1011,7 +1011,7 @@
         },
         {
             "name": "Bonus Track (After Octo)",
-            "formattedname": "Bonus Track (After Octo)",
+            "formattedname": "[[Into the Light#Bonus Track (After Octo)|Bonus Track (After Octo)]]",
             "length": "1:51",
             "extend": false,
             "unlisted": true

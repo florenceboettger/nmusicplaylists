@@ -2,32 +2,38 @@ from enum import Enum
 
 class Game(Enum):
     NONE = ""
+    SPLATOON = "Splatoon"
     SPLATOON2 = "Splatoon 2"
     SPLATOON3 = "Splatoon 3"
 
 class PlaylistType(Enum):
     NONE = ""
+    SPLATOON = "''Splatoon''"
     SPLATOON2 = "''Splatoon 2''"
     SPLATOON3 = "''Splatoon 3''"
     ARTISTS = "The artists of ''Splatoon''"
     
 playlisttypes = {
+    Game.SPLATOON: PlaylistType.SPLATOON,
     Game.SPLATOON2: PlaylistType.SPLATOON2,
     Game.SPLATOON3: PlaylistType.SPLATOON3
 }
 
 abbreviations = {
+    Game.SPLATOON: "S",
     Game.SPLATOON2: "S2",
     Game.SPLATOON3: "S3"
 }
 
 colors = {
     Game.NONE: "sitecolor-generic",
+    Game.SPLATOON: "sitecolor-s",
     Game.SPLATOON2: "sitecolor-s2",
     Game.SPLATOON3: "sitecolor-s3"
 }
 
 allplaylists = [
+    PlaylistType.SPLATOON.value,
     PlaylistType.SPLATOON2.value,
     PlaylistType.SPLATOON3.value,
     PlaylistType.ARTISTS.value,

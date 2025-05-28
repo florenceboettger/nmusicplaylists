@@ -37,6 +37,40 @@
             "description": "Cheerful [[Callie]] and sassy [[Marie]] make up the iconic group known across Inkopolis as the Squid Sisters. Not only are they talented pop stars, they're also dancers and choreographers—and they were the first hosts of Inkopolis News, known and beloved for their witty banter. Although Callie and Marie have had great success together, they have both recently pursued solo projects.",
             "songlist": [
                 {
+                    "name": "City of Color",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Commence the Fest",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Ink Me Up",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Now or Never!",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Calamari Inkantation",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Maritime Memory",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Bomb Rush Blush",
+                    "game": "Splatoon",
+                    "band": "Callie"
+                },
+                {
+                    "name": "Tide Goes Out",
+                    "game": "Splatoon",
+                    "band": "Marie"
+                },
+                {
                     "name": "Spicy Calamari Inkantation",
                     "game": "Splatoon 2"
                 },
@@ -353,6 +387,10 @@
             "description": "The DJ who needs no introduction. DJ Octavio is well-known as the head of the Octarian army and the first DJ to ever infuse his beats with the scorching-hot sizzle of actual wasabi roots! He specializes in techno remixes and has once produced music under the name of DJ Octavio feat. [[Callie]].",
             "songlist": [
                 {
+                    "name": "I Am Octavio",
+                    "game": "Splatoon"
+                },
+                {
                     "name": "Bomb Rush Blush",
                     "game": "Splatoon 2",
                     "band": "DJ Octavio feat. Callie"
@@ -375,6 +413,30 @@
             "description": "Little is known about this artist. Is it a group of performers or one individual? No matter who's behind it, the group known as Turquoise October has produced a type of rhythmic music that has diligent Octarians everywhere swaying along as they work dutifully, day after day.",
             "songlist": [
                 {
+                    "name": "Eight-Legged Advance",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Tentacular Circus",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Cephaloparade",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Inkstrike Shuffle",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Octoling Rendezvous",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Octoweaponry",
+                    "game": "Splatoon"
+                },
+                {
                     "name": "Octo Canyon",
                     "game": "Splatoon 2"
                 },
@@ -395,23 +457,11 @@
                     "game": "Splatoon 2"
                 },
                 {
-                    "name": "Tentacular Circus",
-                    "game": "Splatoon 2"
-                },
-                {
-                    "name": "Cephaloparade",
-                    "game": "Splatoon 2"
-                },
-                {
                     "name": "Octarmaments",
                     "game": "Splatoon 2"
                 },
                 {
                     "name": "Crater Eighters Routine",
-                    "game": "Splatoon 3"
-                },
-                {
-                    "name": "Octoling Rendezvous",
                     "game": "Splatoon 3"
                 }
             ]
@@ -470,6 +520,10 @@
             "introduction": "This playlists contains 1 track by [[Bob Dub]], lasting 1 minute.",
             "description": "A reggae band formed by three Inklings. Their big hit Dubble Bath is a relaxing masterpiece that makes you feel as though you're diving deep into the ocean. Many Inklings listen to it before heading into a Turf War battle to stay relaxed!",
             "songlist": [
+                {
+                    "name": "Dubble Bath",
+                    "game": "Splatoon"
+                },
                 {
                     "name": "Dubble Bath (DIY Remix)",
                     "game": "Splatoon 2"
@@ -550,6 +604,14 @@
             "introduction": "This playlist contains 2 tracks by the [[Chirpy Chips]], lasting 4 minutes.",
             "description": "A four-piece band tearing up the charts with its catchy, sparkling electronic sound and the voice of its vocalist, [[Harmony]]. Their songs often use sparkling electronic sounds, because that's what [[Chirpy Chips#Orion|Orion]], the bassist and composer, likes. Their live concerts are popular for their use of retro video-game consoles and performances where the members glow in the dark in sync with the music. Since they process their recorded vocals, their live concerts are often lip-synched.",
             "songlist": [
+                {
+                    "name": "Shellfie",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Split & Splat",
+                    "game": "Splatoon"
+                },
                 {
                     "name": "Blitz It!",
                     "game": "Splatoon 2"
@@ -713,6 +775,62 @@
                 {
                     "name": "Riptide Rupture",
                     "game": "Splatoon 2"
+                }
+            ]
+        },
+        "Squid Squad": {
+            "songlist": [
+                {
+                    "name": "Opening",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Splattack!",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Ink or Sink",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Seaskape",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Kraken Up",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Metalopod",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Now or Never!",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Splattack! (Jam Sesh)",
+                    "game": "Splatoon"
+                }
+            ]
+        },
+        "Hightide Era": {
+            "songlist": [
+                {
+                    "name": "Hooked",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Sucker Punch",
+                    "game": "Splatoon"
+                }
+            ]
+        },
+        "DJ Lee Fish": {
+            "songlist": [
+                {
+                    "name": "Lookin' Fresh",
+                    "game": "Splatoon"
                 }
             ]
         }

@@ -1,0 +1,88 @@
+{
+    "songlist": [
+        {
+            "name": "Opening",
+            "band": "Squid Squad"
+        },
+        {
+            "name": "Splattack!",
+            "band": "Squid Squad"
+        },
+        {
+            "name": "Ink or Sink",
+            "band": "Squid Squad"
+        },
+        {
+            "name": "Seaskape",
+            "band": "Squid Squad"
+        },
+        {
+            "name": "Kraken Up",
+            "band": "Squid Squad"
+        },
+        {
+            "name": "Metalopod",
+            "band": "Squid Squad"
+        },
+        {
+            "name": "Shellfie",
+            "band": "Chirpy Chips"
+        },
+        {
+            "name": "Split & Splat",
+            "band": "Chirpy Chips"
+        },
+        {
+            "name": "Hooked",
+            "band": "Hightide Era"
+        },
+        {
+            "name": "Sucker Punch",
+            "band": "Hightide Era"
+        },
+        {
+            "name": "Now or Never!",
+            "band": "Squid Squad"
+        },
+        {
+            "name": "City of Color",
+            "band": "Squid Sisters"
+        },
+        {
+            "name": "Ink Me Up",
+            "band": "Squid Sisters"
+        },
+        {
+            "name": "Now or Never!",
+            "band": "Squid Sisters"
+        },
+        {
+            "name": "Eight-Legged Advance",
+            "band": "Turquoise October"
+        },
+        {
+            "name": "Tentacular Circus",
+            "band": "Turquoise October"
+        },
+        {
+            "name": "Octoling Rendezvous",
+            "band": "Turquoise October"
+        },
+        {
+            "name": "Octoweaponry",
+            "band": "Turquoise October"
+        },
+        {
+            "name": "I Am Octavio",
+            "band": "DJ Octavio"
+        },
+        {
+            "name": "Calamari Inkantation",
+            "band": "Squid Sisters"
+        },
+        {
+            "name": "Maritime Memory",
+            "band": "Squid Sisters"
+        }
+    ]
+}

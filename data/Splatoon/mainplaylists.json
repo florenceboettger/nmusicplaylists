@@ -1,0 +1,201 @@
+{
+    "order": [
+        "Inkopolis",
+        "Turf War",
+        "Story Mode",
+        "Splatfests"
+    ],
+    "playlists": {
+        "Inkopolis": {
+            "songlist": [
+                {
+                    "name": "Show Yourself"
+                },
+                {
+                    "name": "Splattack! (Jam Sesh)",
+                    "band": "Squid Squad"
+                },
+                {
+                    "name": "Slip into Inkopolis"
+                },
+                {
+                    "name": "Start Fresh"
+                },
+                {
+                    "name": "Inkopolis News",
+                    "band": "Squid Sisters"
+                },
+                {
+                    "name": "The Plaza"
+                },
+                {
+                    "name": "Inkopolis Lobby"
+                },
+                {
+                    "name": "Dubble Bath",
+                    "band": "Bob Dub"
+                },
+                {
+                    "name": "Lookin' Fresh",
+                    "band": "DJ Lee Fish"
+                },
+                {
+                    "name": "Bomb Rush Blush",
+                    "band": "Callie"
+                },
+                {
+                    "name": "Tide Goes Out",
+                    "band": "Marie"
+                }
+            ]
+        },
+        "Turf War": {
+            "songlist": [
+                {
+                    "name": "Opening",
+                    "band": "Squid Squad"
+                },
+                {
+                    "name": "Splattack!",
+                    "band": "Squid Squad"
+                },
+                {
+                    "name": "Ink or Sink",
+                    "band": "Squid Squad"
+                },
+                {
+                    "name": "Seaskape",
+                    "band": "Squid Squad"
+                },
+                {
+                    "name": "Kraken Up",
+                    "band": "Squid Squad"
+                },
+                {
+                    "name": "Metalopod",
+                    "band": "Squid Squad"
+                },
+                {
+                    "name": "Shellfie",
+                    "band": "Chirpy Chips"
+                },
+                {
+                    "name": "Split & Splat",
+                    "band": "Chirpy Chips"
+                },
+                {
+                    "name": "Hooked",
+                    "band": "Hightide Era"
+                },
+                {
+                    "name": "Sucker Punch",
+                    "band": "Hightide Era"
+                },
+                {
+                    "name": "Now or Never!",
+                    "band": "Squid Squad"
+                },
+                {
+                    "name": "They Got You!"
+                },
+                {
+                    "name": "Battle Defeat"
+                },
+                {
+                    "name": "You Got Them!"
+                },
+                {
+                    "name": "Battle Victory"
+                }
+            ]
+        },
+        "Story Mode": {
+            "songlist": [                
+                {
+                    "name": "Cap'n Cuttlefish's Theme"
+                },
+                {
+                    "name": "Octo Valley"
+                },
+                {
+                    "name": "The Sunken Scrolls"
+                },
+                {
+                    "name": "Eight-Legged Advance",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "Tentacular Circus",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "Cephaloparade",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "Inkstrike Shuffle",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "Octoling Rendezvous",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "Octoweaponry",
+                    "band": "Turquoise October"
+                },
+                {
+                    "name": "Story Mode: Onward!"
+                },
+                {
+                    "name": "Story Mode: SPLAT!"
+                },
+                {
+                    "name": "I Am Octavio",
+                    "band": "DJ Octavio"
+                },
+                {
+                    "name": "Calamari Inkantation",
+                    "band": "Squid Sisters"
+                },
+                {
+                    "name": "Maritime Memory",
+                    "band": "Squid Sisters"
+                }
+            ]
+        },
+        "Splatfests": {
+            "songlist": [
+                {
+                    "name": "Inkopolis News",
+                    "band": "Squid Sisters"
+                },
+                {
+                    "name": "Splatfest Theme Drop"
+                },
+                {
+                    "name": "City of Color",
+                    "band": "Squid Sisters"
+                },
+                {
+                    "name": "Commence the Fest",
+                    "band": "Squid Sisters"
+                },
+                {
+                    "name": "Ink Me Up",
+                    "band": "Squid Sisters"
+                },
+                {
+                    "name": "Now or Never!",
+                    "band": "Squid Sisters"
+                },
+                {
+                    "name": "Splatfest Results Drop"
+                },
+                {
+                    "name": "Got It!"
+                }
+            ]
+        }
+    }
+}

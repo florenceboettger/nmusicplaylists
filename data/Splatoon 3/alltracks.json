@@ -368,7 +368,7 @@
         },
         {
             "name": "Mission Complete! (The Crater)",
-            "formattedname": "[[Hero Mode - Onward!#Mission Complete! (The Crater)|Mission Complete! (The Crater)]]",
+            "formattedname": "[[Story Mode: Onward!#Mission Complete! (The Crater)|Mission Complete! (The Crater)]]",
             "band": "Turquoise October",
             "formattedband": "[[Turquoise October]]",
             "length": "0:06",
@@ -377,7 +377,7 @@
         },
         {
             "name": "I'm Octavio (F34RME Remix)",
-            "formattedname": "[[I'm Octavio (F34RME Remix)]]",
+            "formattedname": "[I Am Octavio#I'm Octavio (F34RME Remix)|I'm Octavio (F34RME Remix)]]",
             "band": "DJ Octavio",
             "formattedband": "[[DJ Octavio]]",
             "length": "2:35",
@@ -632,14 +632,14 @@
         },
         {
             "name": "Chowder Combo",
-            "formattedname": "Chowder Combo",
+            "formattedname": "[[Chowder Combo]]",
             "length": "0:16",
             "extend": false,
             "uuid": "a3c722a6-e227-4172-a7bc-d6c91cf4b52d"
         },
         {
             "name": "Smooth as Ice",
-            "formattedname": "Smooth as Ice",
+            "formattedname": "[[Smooth as Ice]]",
             "length": "0:32",
             "extend": false,
             "uuid": "b975d1c0-1af3-45a8-a2b5-b78fce5cc143"
@@ -808,7 +808,7 @@
         },
         {
             "name": "Commence the Fest",
-            "formattedname": "[[Opening#Commence the Fest|Commence the Fest]]",
+            "formattedname": "[[Commence the Fest#Commence the Fest (Deep Cut)|Commence the Fest]]",
             "band": "Deep Cut",
             "formattedband": "[[Deep Cut]]",
             "length": "0:25",
@@ -883,7 +883,7 @@
         },
         {
             "name": "City of Color (2023)",
-            "formattedname": "[[City of Color (2023)]]",
+            "formattedname": "[[City of Color#City of Color (2023)|City of Color (2023)]]",
             "band": "Squid Sisters",
             "formattedband": "[[Squid Sisters]]",
             "length": "2:07",
