@@ -85,18 +85,18 @@ class AllTracks():
 class Playlist:
     def __init__(self, props: dict, name: str, alltracks: AllTracks, playlisttype: PlaylistType, game: Game):
         self.name = name
-        self.type = playlisttype
+        self.type = props["section"] if "section" in props else playlisttype.value
         self.songs = []
         self.game = game
         self.totalgames = set()
         for songprops in props["songlist"]:
             band = songprops["band"] if "band" in songprops else "N/A"
             songgame = self.game if self.game != Game.NONE else Game(songprops["game"])
-            if self.type == PlaylistType.ARTISTS and (band == "" or band == "N/A"):
+            if self.type == PlaylistType.ARTISTS.value and (band == "" or band == "N/A"):
                 band = self.name if self.name != "Grizzco Industries" else "Grizzco"
             song = alltracks.songs[AllTracks.makekey(songprops["name"], band, songgame.value)]
-            if self.type != PlaylistType.NONE and self.name != "All tracks" and self.name != "Top tracks":
-                song.playlists[self.type.value].append(self.name)
+            if self.type != PlaylistType.NONE.value and self.name != "All tracks" and self.name != "Top tracks":
+                song.playlists[self.type].append(self.name)
             self.songs.append(song)
             self.totalgames.add(songgame)
         self.color = props["color"] if "color" in props else colors[self.game]
