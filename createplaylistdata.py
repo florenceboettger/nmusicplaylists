@@ -43,12 +43,16 @@ for game in games:
             unlistedtracksplaylistprops = json.loads(''.join(f.readlines()))
             playlists[game.value]["Removed tracks"] = Playlist(unlistedtracksplaylistprops, "Removed tracks", alltracks, playlisttypes[game] if game in playlisttypes else PlaylistType.NONE, game)
 
-playlists["Artists"] = {}
-with (datapath / "Artists" / "artistsplaylists.json").open("r", encoding="utf8") as f:
+playlists["Misc"] = {}
+with (datapath / "Misc" / "artistsplaylists.json").open("r", encoding="utf8") as f:
     artistsplaylistprops = json.loads(''.join(f.readlines()))
     for name, playlistprops in artistsplaylistprops["playlists"].items():
-        playlists["Artists"][name] = Playlist(playlistprops, name, alltracks, PlaylistType.ARTISTS, Game.NONE)
+        playlists["Misc"][name] = Playlist(playlistprops, name, alltracks, PlaylistType.ARTISTS, Game.NONE)
 
+with (datapath / "Misc" / "miscplaylists.json").open("r", encoding="utf8") as f:
+    miscplaylistprops = json.loads(''.join(f.readlines()))
+    for name, playlistprops in miscplaylistprops["playlists"].items():
+        playlists["Misc"][name] = Playlist(playlistprops, name, alltracks, PlaylistType.NONE, Game.NONE)
 
 outputpath = Path(__file__).resolve().parent / "output"
 outputpath.mkdir(parents=True, exist_ok=True)

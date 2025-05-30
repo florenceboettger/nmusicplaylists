@@ -173,7 +173,7 @@
         },
         {
             "name": "The Plaza",
-            "formattedname": "The Plaza",
+            "formattedname": "[[The Plaza]]",
             "uuid": "0bdac903-e5c1-46c9-a488-e1f3db43a500",
             "extend": false,
             "length": "4:55"
@@ -412,7 +412,7 @@
         {
             "name": "I Am Octavio",
             "band": "DJ Octavio",
-            "formattedband": "DJ Octavio",
+            "formattedband": "[[DJ Octavio]]",
             "formattedname": "[[I Am Octavio]]",
             "uuid": "eab9ed51-18d4-46c9-b219-2f30838b9f22",
             "extend": true,
@@ -421,7 +421,7 @@
         {
             "name": "Calamari Inkantation",
             "band": "Squid Sisters",
-            "formattedband": "Squid Sisters",
+            "formattedband": "[[Squid Sisters]]",
             "formattedname": "[[Calamari Inkantation]]",
             "uuid": "a2e6431c-16a5-4186-9418-84e49397966d",
             "extend": true,
@@ -436,7 +436,7 @@
         {
             "name": "Maritime Memory",
             "band": "Squid Sisters",
-            "formattedband": "Squid Sisters",
+            "formattedband": "[[Squid Sisters]]",
             "formattedname": "[[Maritime Memory]]",
             "uuid": "db7f4f2b-2955-4b36-ae66-a4210a9e5b2a",
             "extend": false,

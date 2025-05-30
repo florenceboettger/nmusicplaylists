@@ -175,7 +175,7 @@
         },
         {
             "name": "Soaking in Splatsville",
-            "formattedname": "Soaking in Splatsville",
+            "formattedname": "[[Soaking in Splatsville]]",
             "length": "4:07",
             "extend": false,
             "uuid": "7509bcf1-077b-47f2-a00c-d2bf1603e422"
@@ -377,7 +377,7 @@
         },
         {
             "name": "I'm Octavio (F34RME Remix)",
-            "formattedname": "[I Am Octavio#I'm Octavio (F34RME Remix)|I'm Octavio (F34RME Remix)]]",
+            "formattedname": "[[I Am Octavio#I'm Octavio (F34RME Remix)|I'm Octavio (F34RME Remix)]]",
             "band": "DJ Octavio",
             "formattedband": "[[DJ Octavio]]",
             "length": "2:35",
@@ -790,7 +790,7 @@
         },
         {
             "name": "Splatfest Theme Drop",
-            "formattedname": "Splatfest Theme Drop",
+            "formattedname": "[[Anarchy Rainbow#Splatfest Theme Drop|Splatfest Theme Drop]]",
             "band": "Deep Cut",
             "formattedband": "[[Deep Cut]]",
             "length": "0:05",
@@ -907,7 +907,7 @@
         },
         {
             "name": "Splatfest Results Drop",
-            "formattedname": "Splatfest Results Drop",
+            "formattedname": "[[Anarchy Rainbow#Splatfest Results Drop|Splatfest Results Drop]]",
             "band": "Deep Cut",
             "formattedband": "[[Deep Cut]]",
             "length": "0:07",

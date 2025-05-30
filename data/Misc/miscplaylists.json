@@ -1,0 +1,243 @@
+{
+    "playlists": {
+        "Turf War & Splatfest Battle": {
+            "songlist": [
+                {
+                    "name": "Splattack!",
+                    "band": "Squid Squad",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Ink or Sink",
+                    "band": "Squid Squad",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Seaskape",
+                    "band": "Squid Squad",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Kraken Up",
+                    "band": "Squid Squad",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Metalopod",
+                    "band": "Squid Squad",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Shellfie",
+                    "band": "Chirpy Chips",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Split & Splat",
+                    "band": "Chirpy Chips",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Hooked",
+                    "band": "Hightide Era",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Sucker Punch",
+                    "band": "Hightide Era",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Now or Never!",
+                    "band": "Squid Squad",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Ink Me Up",
+                    "band": "Squid Sisters",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Now or Never!",
+                    "band": "Squid Sisters",
+                    "game": "Splatoon"
+                },
+                {
+                    "name": "Inkoming!",
+                    "band": "Wet Floor",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Rip Entry",
+                    "band": "Wet Floor",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Undertow",
+                    "band": "Wet Floor",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Don't Slip",
+                    "band": "Wet Floor",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Endolphin Surge",
+                    "band": "Wet Floor",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Shipwreckin'",
+                    "band": "Bottom Feeders",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Fins & Fiddles",
+                    "band": "Bottom Feeders",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Seafoam Shanty",
+                    "band": "Bottom Feeders",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Broken Coral",
+                    "band": "Ink Theory",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Riptide Rupture",
+                    "band": "Ink Theory",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Blitz It!",
+                    "band": "Chirpy Chips",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Wave Prism",
+                    "band": "Chirpy Chips",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Seasick",
+                    "band": "Diss-Pair",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Kinetosis",
+                    "band": "Diss-Pair",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Chopscrewey",
+                    "band": "SashiMori",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Entropical",
+                    "band": "SashiMori",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Now or Never!",
+                    "band": "Wet Floor",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Ebb & Flow",
+                    "band": "Off the Hook",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Acid Hues",
+                    "band": "Off the Hook",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Muck Warfare",
+                    "band": "Off the Hook",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Now or Never!",
+                    "band": "Off the Hook",
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Clickbait",
+                    "band": "C-Side",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Headhammer",
+                    "band": "C-Side",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Triple Dip",
+                    "band": "C-Side",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Paintscraper",
+                    "band": "C-Side",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Splattack!",
+                    "band": "C-Side",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Sea Me Now",
+                    "band": "Front Roe",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Sandy Side Up",
+                    "band": "Front Roe",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Candy-Coated Rocks",
+                    "band": "Damp Socks feat. Off the Hook",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Tentacle to the Metal",
+                    "band": "Damp Socks feat. Off the Hook",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Now or Never!",
+                    "band": "C-Side",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Fins in the Air",
+                    "band": "Deep Cut",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Till Depth Do Us Part",
+                    "band": "Deep Cut",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Liquid Sunshine",
+                    "band": "Squid Sisters feat. Ian BGM",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Now or Never!",
+                    "band": "Deep Cut",
+                    "game": "Splatoon 3"
+                }
+            ]
+        }
+    }
+}
