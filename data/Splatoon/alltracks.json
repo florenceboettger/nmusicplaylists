@@ -22,6 +22,9 @@
             "length": "3:52",
             "matchyourmood": [
                 "Powering Up"
+            ],
+            "toprecommendations": [
+                "Nintendo Music Selects"
             ]
         },
         {
@@ -201,7 +204,10 @@
             "formattedname": "[[Dubble Bath]]",
             "uuid": "84db3add-c186-4dd9-bad5-40ac59109ff6",
             "extend": true,
-            "length": "2:08"
+            "length": "2:08",
+            "toprecommendations": [
+                "Extended-Playback Picks"
+            ]
         },
         {
             "name": "Bomb Rush Blush",
@@ -222,7 +228,10 @@
             "formattedname": "[[Tide Goes Out]]",
             "uuid": "ccd4623c-9e28-41f8-b97b-f423994d15b5",
             "extend": true,
-            "length": "2:26"
+            "length": "2:26",
+            "matchyourmood": [
+                "Nighttime"
+            ]
         },
         {
             "name": "Lookin' Fresh",
@@ -258,6 +267,9 @@
             "matchyourmood": [
                 "Party",
                 "Walking"
+            ],
+            "toprecommendations": [
+                "Extended-Playback Picks"
             ]
         },
         {
@@ -279,6 +291,9 @@
             "length": "2:20",
             "matchyourmood": [
                 "Party"
+            ],
+            "toprecommendations": [
+                "Nintendo Music Selects"
             ]
         },
         {
@@ -350,7 +365,10 @@
             "formattedname": "[[Cephaloparade]]",
             "uuid": "0335bd39-ff5d-4618-91c0-c22e42513cf4",
             "extend": true,
-            "length": "3:05"
+            "length": "3:05",
+            "toprecommendations": [
+                "Extended-Playback Picks"
+            ]
         },
         {
             "name": "Inkstrike Shuffle",
@@ -431,6 +449,9 @@
             ],
             "setthescene": [
                 "The Final Battles"
+            ],
+            "toprecommendations": [
+                "Nintendo Music Selects"
             ]
         },
         {

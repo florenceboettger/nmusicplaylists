@@ -22,6 +22,9 @@
             "extend": true,
             "matchyourmood": [
                 "Powering Up"
+            ],
+            "toprecommendations": [
+                "Nintendo Music Selects"
             ]
         },
         {
@@ -61,7 +64,10 @@
             "formattedband": "[[Wet Floor]]",
             "uuid": "b044d5c7-f897-4f5f-8bea-16c2e6cdedb1",
             "length": "4:28",
-            "extend": true
+            "extend": true,
+            "toprecommendations": [
+                "Extended-Playback Picks"
+            ]
         },
         {
             "name": "Shipwreckin'",
@@ -421,6 +427,11 @@
             "matchyourmood": [
                 "Party"
             ],
+            "toprecommendations": [
+                "Nintendo Music Selects",
+                "Nintendo Switch Selects",
+                "Extended-Playback Picks"
+            ],
             "uuid": "6a062561-a15f-4a74-8643-cdaa3c75b855"
         },
         {
@@ -671,6 +682,10 @@
             "setthescene": [
                 "The Final Battles"
             ],
+            "toprecommendations": [
+                "Nintendo Music Selects",
+                "Nintendo Switch Selects"
+            ],
             "uuid": "45e811b2-73ca-4efa-8936-d35f4c1b4fbe"
         },
         {
@@ -790,7 +805,10 @@
             "formattedband": "[[Dedf1sh]]",
             "length": "2:11",
             "extend": true,
-            "uuid": "c3bfd116-781c-4640-834e-ff68466572a6"
+            "uuid": "c3bfd116-781c-4640-834e-ff68466572a6",
+            "toprecommendations": [
+                "Extended-Playback Picks"
+            ]
         },
         {
             "name": "#14 crush",

@@ -44,6 +44,14 @@ for game in games:
             playlists[game.value]["Removed tracks"] = Playlist(unlistedtracksplaylistprops, "Removed tracks", alltracks, playlisttypes[game] if game in playlisttypes else PlaylistType.NONE, game)
 
 playlists["Misc"] = {}
+for song in alltracks.songs.values():
+    for playlisttype, playlistlist in song.playlists.items():
+        if playlisttype != PlaylistType.SPLATOON.value and playlisttype != PlaylistType.SPLATOON2.value and playlisttype != PlaylistType.SPLATOON3.value:
+            for playlist in playlistlist:
+                if not playlist in playlists["Misc"]:
+                    playlists["Misc"][playlist] = Playlist({}, playlist, alltracks, PlaylistType(playlisttype), Game.NONE)
+                playlists["Misc"][playlist].addsong(song)
+
 with (datapath / "Misc" / "artistsplaylists.json").open("r", encoding="utf8") as f:
     artistsplaylistprops = json.loads(''.join(f.readlines()))
     for name, playlistprops in artistsplaylistprops["playlists"].items():

@@ -34,6 +34,10 @@
             "matchyourmood": [
                 "Powering Up"
             ],
+            "toprecommendations": [
+                "Nintendo Music Selects",
+                "Nintendo Switch Selects"
+            ],
             "uuid": "032c05f4-53c0-4cab-ad87-a216451b8589"
         },
         {
@@ -74,7 +78,7 @@
         },
         {
             "name": "Now or Never!",
-            "formattedname": "[[Now or Never!]]",
+            "formattedname": "[[Now or Never!#Now or Never! (C-Side)|Now or Never!]]",
             "band": "C-Side",
             "formattedband": "[[C-Side]]",
             "length": "1:06",
@@ -450,7 +454,10 @@
             "formattedname": "[[Alterna Citizen Program M-01: Basic Course (Morning Fog)]]",
             "length": "2:29",
             "extend": true,
-            "uuid": "7319b78a-d265-4ce3-a171-fd3afb7d25a8"
+            "uuid": "7319b78a-d265-4ce3-a171-fd3afb7d25a8",
+            "toprecommendations": [
+                "Extended-Playback Picks"
+            ]
         },
         {
             "name": "Nine Out of Tension",
@@ -730,6 +737,11 @@
             "setthescene": [
                 "The Final Battles"
             ],
+            "toprecommendations": [
+                "Nintendo Music Selects",
+                "Nintendo Switch Selects",
+                "Extended-Playback Picks"
+            ],
             "uuid": "5098acf1-e512-4dd3-9c9f-dd54454895c4"
         },
         {
@@ -785,6 +797,11 @@
             "extend": true,
             "matchyourmood": [
                 "Party"
+            ],
+            "toprecommendations": [
+                "Nintendo Music Selects",
+                "Nintendo Switch Selects",
+                "Extended-Playback Picks"
             ],
             "uuid": "0c420bed-46b6-415e-a5cb-4dd19556d362"
         },
@@ -853,7 +870,7 @@
         },
         {
             "name": "Now or Never!",
-            "formattedname": "[[Now or Never!]]",
+            "formattedname": "[[Now or Never!#Now or Never! (Deep Cut)|Now or Never!]]",
             "band": "Deep Cut",
             "formattedband": "[[Deep Cut]]",
             "length": "1:04",

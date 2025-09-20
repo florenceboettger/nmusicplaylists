@@ -164,15 +164,19 @@
             "songlist": [
                 {
                     "name": "Surge & Submerge",
-                    "game": "Splatoon 3"
+                    "game": "Splatoon 2"
                 },
                 {
                     "name": "Deluge Dirge",
-                    "game": "Splatoon 3"
+                    "game": "Splatoon 2"
                 },
                 {
                     "name": "Fishing Frenzy",
-                    "game": "Splatoon 3"
+                    "game": "Splatoon 2"
+                },
+                {
+                    "name": "Frantic Aspic",
+                    "game": "Splatoon 2"
                 },
                 {
                     "name": "Frothy Waters",
@@ -180,10 +184,6 @@
                 },
                 {
                     "name": "Toxic Anoxic",
-                    "game": "Splatoon 3"
-                },
-                {
-                    "name": "Frantic Aspic",
                     "game": "Splatoon 3"
                 },
                 {
@@ -831,6 +831,14 @@
                 {
                     "name": "Lookin' Fresh",
                     "game": "Splatoon"
+                }
+            ]
+        },
+        "Seven Seas Crew": {
+            "songlist": [
+                {
+                    "name": "Dripping with Style",
+                    "game": "Splatoon 3"
                 }
             ]
         }

@@ -12,6 +12,9 @@ class PlaylistType(Enum):
     SPLATOON2 = "''Splatoon 2''"
     SPLATOON3 = "''Splatoon 3''"
     ARTISTS = "The artists of ''Splatoon''"
+    MATCHYOURMOOD = "Match your mood"
+    SETTHESCENE = "Set the scene"
+    TOPRECOMMENDATIONS = "Top recommendations"
     
 playlisttypes = {
     Game.SPLATOON: PlaylistType.SPLATOON,
@@ -37,8 +40,9 @@ allplaylists = [
     PlaylistType.SPLATOON2.value,
     PlaylistType.SPLATOON3.value,
     PlaylistType.ARTISTS.value,
-    "Match your mood",
-    "Set the scene",
+    PlaylistType.MATCHYOURMOOD.value,
+    PlaylistType.SETTHESCENE.value,
+    PlaylistType.TOPRECOMMENDATIONS.value
 ]
 
 class Song:
@@ -52,8 +56,9 @@ class Song:
         self.unlisted = props["unlisted"] if "unlisted" in props else False
         self.uuid = props["uuid"] if not self.unlisted and "uuid" in props else ""
         self.playlists = {k: [] for k in allplaylists}
-        self.playlists["Match your mood"] = [] if (not "matchyourmood" in props) else props["matchyourmood"]
-        self.playlists["Set the scene"] = [] if (not "setthescene" in props) else props["setthescene"]
+        self.playlists[PlaylistType.MATCHYOURMOOD.value] = [] if (not "matchyourmood" in props) else props["matchyourmood"]
+        self.playlists[PlaylistType.SETTHESCENE.value] = [] if (not "setthescene" in props) else props["setthescene"]
+        self.playlists[PlaylistType.TOPRECOMMENDATIONS.value] = [] if (not "toprecommendations" in props) else props["toprecommendations"]
         self.game = game
 
     def tojson(self, name: str) -> dict:
@@ -62,7 +67,7 @@ class Song:
             "band": self.formattedband,
             "length": self.length,
             "extend": self.extend,
-            "playlists": {k: [p for p in v if not p in [name, "All tracks", "Top tracks"]] for k, v in self.playlists.items() if len([p for p in v if not p in [name, "All tracks", "Top tracks"]]) > 0}
+            "playlists": {k: [p for p in v if not p in [name, "All tracks"]] for k, v in self.playlists.items() if len([p for p in v if not p in [name, "All tracks"]]) > 0}
         }
         if name == "All tracks":
             output["uuid"] = self.uuid
@@ -89,26 +94,32 @@ class Playlist:
         self.songs = []
         self.game = game
         self.totalgames = set()
-        for songprops in props["songlist"]:
-            band = songprops["band"] if "band" in songprops else "N/A"
-            songgame = self.game if self.game != Game.NONE else Game(songprops["game"])
-            if self.type == PlaylistType.ARTISTS.value and (band == "" or band == "N/A"):
-                band = self.name if self.name != "Grizzco Industries" else "Grizzco"
-            song = alltracks.songs[AllTracks.makekey(songprops["name"], band, songgame.value)]
-            if self.type != PlaylistType.NONE.value and self.name != "All tracks" and self.name != "Top tracks":
-                song.playlists[self.type].append(self.name)
-            self.songs.append(song)
-            self.totalgames.add(songgame)
+        if "songlist" in props:
+            for songprops in props["songlist"]:
+                band = songprops["band"] if "band" in songprops else "N/A"
+                songgame = self.game if self.game != Game.NONE else Game(songprops["game"])
+                if self.type == PlaylistType.ARTISTS.value and (band == "" or band == "N/A"):
+                    band = self.name if self.name != "Grizzco Industries" else "Grizzco"
+                song = alltracks.songs[AllTracks.makekey(songprops["name"], band, songgame.value)]
+                if self.type != PlaylistType.NONE.value and self.name != "All tracks":
+                    song.playlists[self.type].append(self.name)
+                self.songs.append(song)
+                self.totalgames.add(songgame)
         self.color = props["color"] if "color" in props else colors[self.game]
-        self.hasbands = len([s for s in self.songs if s.band != "N/A"]) > 0        
+        self.hasbands = len([s for s in self.songs if s.band != "N/A"]) > 0
+
+    def addsong(self, song: Song, addback: bool = False):
+        self.songs.append(song)
+        if addback:
+            song.playlists[self.type].append(self.name)
 
     def setfeaturedplaylists(self):
         found = []
         for playlist in allplaylists:
-                for song in self.songs:
-                    if len([p for p in song.playlists[playlist] if not p in [self.name, "Top tracks", "All tracks"]]) > 0:
-                        found.append(playlist)
-                        break
+            for song in self.songs:
+                if len([p for p in song.playlists[playlist] if not p in [self.name, "All tracks"]]) > 0:
+                    found.append(playlist)
+                    break
         self.featuredplaylists = found
 
     def tojson(self) -> dict:
