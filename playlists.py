@@ -61,13 +61,16 @@ class Song:
         self.playlists[PlaylistType.TOPRECOMMENDATIONS.value] = [] if (not "toprecommendations" in props) else props["toprecommendations"]
         self.game = game
 
+        if self.extend:
+            self.playlists[playlisttypes[self.game].value].append("Extended-Playback Collection")
+
     def tojson(self, name: str) -> dict:
         output =  {
             "name": self.formattedname,
             "band": self.formattedband,
             "length": self.length,
             "extend": self.extend,
-            "playlists": {k: [p for p in v if not p in [name, "All tracks"]] for k, v in self.playlists.items() if len([p for p in v if not p in [name, "All tracks"]]) > 0}
+            "playlists": {k: [p for p in v if not p in [name, "All tracks", "Nintendo Music Top Tracks", "Extended-Playback Collection"]] for k, v in self.playlists.items() if len([p for p in v if not p in [name, "All tracks", "Nintendo Music Top Tracks", "Extended-Playback Collection"]]) > 0}
         }
         if name == "All tracks":
             output["uuid"] = self.uuid
@@ -103,6 +106,8 @@ class Playlist:
                 song = alltracks.songs[AllTracks.makekey(songprops["name"], band, songgame.value)]
                 if self.type != PlaylistType.NONE.value and self.name != "All tracks":
                     song.playlists[self.type].append(self.name)
+                    if self.name == "Top tracks":
+                        song.playlists[PlaylistType.TOPRECOMMENDATIONS.value].append("Nintendo Music Top Tracks")
                 self.songs.append(song)
                 self.totalgames.add(songgame)
         self.color = props["color"] if "color" in props else colors[self.game]

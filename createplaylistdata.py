@@ -46,11 +46,15 @@ for game in games:
 playlists["Misc"] = {}
 for song in alltracks.songs.values():
     for playlisttype, playlistlist in song.playlists.items():
-        if playlisttype != PlaylistType.SPLATOON.value and playlisttype != PlaylistType.SPLATOON2.value and playlisttype != PlaylistType.SPLATOON3.value:
             for playlist in playlistlist:
-                if not playlist in playlists["Misc"]:
-                    playlists["Misc"][playlist] = Playlist({}, playlist, alltracks, PlaylistType(playlisttype), Game.NONE)
-                playlists["Misc"][playlist].addsong(song)
+                if playlisttype != PlaylistType.SPLATOON.value and playlisttype != PlaylistType.SPLATOON2.value and playlisttype != PlaylistType.SPLATOON3.value:                
+                    if not playlist in playlists["Misc"]:
+                        playlists["Misc"][playlist] = Playlist({}, playlist, alltracks, PlaylistType(playlisttype), Game.NONE)
+                    playlists["Misc"][playlist].addsong(song)
+                if playlist == "Extended-Playback Collection":
+                    if not playlist in playlists[song.game.value]:
+                        playlists[song.game.value][playlist] = Playlist({}, playlist, alltracks, PlaylistType(playlisttype), song.game)
+                    playlists[song.game.value][playlist].addsong(song)
 
 with (datapath / "Misc" / "artistsplaylists.json").open("r", encoding="utf8") as f:
     artistsplaylistprops = json.loads(''.join(f.readlines()))

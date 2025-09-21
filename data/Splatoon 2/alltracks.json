@@ -24,7 +24,8 @@
                 "Powering Up"
             ],
             "toprecommendations": [
-                "Nintendo Music Selects"
+                "Nintendo Music Selects",
+                "Nintendo Switch Selects"
             ]
         },
         {
@@ -176,7 +177,8 @@
             "length": "2:38",
             "extend": true,
             "matchyourmood": [
-                "Powering Up"
+                "Powering Up",
+                "Summer"
             ],
             "uuid": "ce240c82-e8ab-479c-95e1-e9e5a6eaaff9"
         },

@@ -126,7 +126,8 @@
             "length": "2:44",
             "extend": true,
             "matchyourmood": [
-                "Running"
+                "Running",
+                "Summer"
             ],
             "uuid": "9279658c-b6f0-4bf3-8f11-53d90240ac4c"
         },
@@ -796,7 +797,8 @@
             "length": "3:23",
             "extend": true,
             "matchyourmood": [
-                "Party"
+                "Party",
+                "Summer"
             ],
             "toprecommendations": [
                 "Nintendo Music Selects",
