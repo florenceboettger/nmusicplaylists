@@ -122,7 +122,7 @@ class Playlist:
         found = []
         for playlist in allplaylists:
             for song in self.songs:
-                if len([p for p in song.playlists[playlist] if not p in [self.name, "All tracks"]]) > 0:
+                if len([p for p in song.playlists[playlist] if not p in [self.name, "All tracks", "Nintendo Music Top Tracks", "Extended-Playback Collection"]]) > 0:
                     found.append(playlist)
                     break
         self.featuredplaylists = found
