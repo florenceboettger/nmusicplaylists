@@ -47,6 +47,9 @@
             "formattedband": "[[C-Side]]",
             "length": "2:36",
             "extend": true,
+            "matchyourmood": [
+                "Vocal Tracks"
+            ],
             "uuid": "cc490d8c-3ffe-4a56-aece-0d6c847179ea"
         },
         {
@@ -114,7 +117,8 @@
             "length": "2:51",
             "extend": true,
             "matchyourmood": [
-                "Powering Up"
+                "Powering Up",
+                "Vocal Tracks"
             ],
             "uuid": "98698005-b1cc-4b79-aed2-f4dad42898cc"
         },
@@ -151,7 +155,8 @@
             "length": "2:51",
             "extend": true,
             "matchyourmood": [
-                "Running"
+                "Running",
+                "Vocal Tracks"
             ],
             "uuid": "4f819141-e410-4cb6-b43f-fbbe37524ebc"
         },
@@ -173,7 +178,7 @@
         },
         {
             "name": "Welcome to Splatsville",
-            "formattedname": "Welcome to Splatsville",
+            "formattedname": "[[Welcome to Splatsville]]",
             "length": "0:55",
             "extend": true,
             "uuid": "f54ae7d3-402a-46a6-857a-0be67ae38586"
@@ -798,7 +803,8 @@
             "extend": true,
             "matchyourmood": [
                 "Party",
-                "Summer"
+                "Summer",
+                "Vocal Tracks"
             ],
             "toprecommendations": [
                 "Nintendo Music Selects",
@@ -854,7 +860,8 @@
             "length": "2:56",
             "extend": true,
             "matchyourmood": [
-                "Powering Up"
+                "Powering Up",
+                "Vocal Tracks"
             ],
             "uuid": "befdc650-09a9-4291-b5c0-6c398cd536f3"
         },

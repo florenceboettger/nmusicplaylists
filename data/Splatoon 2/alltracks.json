@@ -68,6 +68,9 @@
             "extend": true,
             "toprecommendations": [
                 "Extended-Playback Picks"
+            ],
+            "matchyourmood": [
+                "Vocal Tracks"
             ]
         },
         {
@@ -178,7 +181,8 @@
             "extend": true,
             "matchyourmood": [
                 "Powering Up",
-                "Summer"
+                "Summer",
+                "Vocal Tracks"
             ],
             "uuid": "ce240c82-e8ab-479c-95e1-e9e5a6eaaff9"
         },
@@ -244,14 +248,14 @@
         },
         {
             "name": "Slip into Inkopolis Square",
-            "formattedname": "Slip into Inkopolis Square",
+            "formattedname": "[[Slip into Inkopolis Square]]",
             "length": "0:45",
             "extend": false,
             "uuid": "d020afd1-a45c-4483-aae1-2d10244cbf03"
         },
         {
             "name": "Getting Squared Away",
-            "formattedname": "Getting Squared Away",
+            "formattedname": "[[Start Fresh#Getting Squared Away|Getting Squared Away]]",
             "length": "1:54",
             "extend": true,
             "uuid": "a166d24f-aab4-40e8-a211-188a1b5ab320"
@@ -406,7 +410,8 @@
             "extend": true,
             "matchyourmood": [
                 "Party",
-                "Walking"
+                "Walking",
+                "Vocal Tracks"
             ],
             "uuid": "5be9f101-22e9-4e21-95c3-a0653c817b69"
         },
@@ -613,7 +618,7 @@
         },
         {
             "name": "Boss Entrance",
-            "formattedname": "Boss Entrance",
+            "formattedname": "[[Boss Entrance]]",
             "band": "Turquoise October",
             "formattedband": "[[Turquoise October]]",
             "length": "0:21",
@@ -669,6 +674,9 @@
             "formattedband": "[[DJ Octavio]] feat. [[Callie]] vs. [[Marie]]",
             "length": "3:55",
             "extend": true,
+            "matchyourmood": [
+                "Vocal Tracks"
+            ],
             "uuid": "a5b08ecd-701b-4a93-ae3a-b02e49f56b08"
         },
         {
@@ -992,6 +1000,9 @@
             "formattedband": "[[Off the Hook]]",
             "length": "3:55",
             "extend": false,
+            "matchyourmood": [
+                "Vocal Tracks"
+            ],
             "setthescene": [
                 "Staff Credits"
             ],

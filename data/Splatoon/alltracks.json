@@ -54,7 +54,8 @@
             "extend": true,
             "length": "2:21",
             "matchyourmood": [
-                "Running"
+                "Running",
+                "Vocal Tracks"
             ]
         },
         {
@@ -78,7 +79,8 @@
             "extend": true,
             "length": "2:05",
             "matchyourmood": [
-                "Powering Up"
+                "Powering Up",
+                "Vocal Tracks"
             ]
         },
         {
@@ -118,7 +120,10 @@
             "formattedname": "[[Now or Never!]]",
             "uuid": "3c418c40-b31f-4ccd-8e5d-e145e534aacf",
             "extend": false,
-            "length": "1:02"
+            "length": "1:02",
+            "matchyourmood": [
+                "Vocal Tracks"
+            ]
         },
         {
             "name": "You Got Them!",
@@ -162,14 +167,14 @@
         },
         {
             "name": "Slip into Inkopolis",
-            "formattedname": "Slip into Inkopolis",
+            "formattedname": "[[Slip into Inkopolis]]",
             "uuid": "a9544f77-758d-4cbc-bd14-1d046d0f175e",
             "extend": true,
             "length": "1:02"
         },
         {
             "name": "Start Fresh",
-            "formattedname": "Start Fresh",
+            "formattedname": "[[Start Fresh]]",
             "uuid": "c2b01f0e-f891-44f3-94ba-06c01c268db7",
             "extend": true,
             "length": "1:06"
@@ -247,7 +252,7 @@
         },
         {
             "name": "Show Yourself",
-            "formattedname": "Show Yourself",
+            "formattedname": "[[Start Fresh#Show Yourself|Show Yourself]]",
             "uuid": "b7512250-896d-487f-9cfd-4f106299ae68",
             "extend": true,
             "length": "1:07"
@@ -448,7 +453,8 @@
             "extend": true,
             "length": "2:32",
             "matchyourmood": [
-                "Party"
+                "Party",
+                "Vocal Tracks"
             ],
             "setthescene": [
                 "The Final Battles"
@@ -469,7 +475,8 @@
                 "Staff Credits"
             ],
             "matchyourmood": [
-                "Summer"
+                "Summer",
+                "Vocal Tracks"
             ]
         }
     ]
