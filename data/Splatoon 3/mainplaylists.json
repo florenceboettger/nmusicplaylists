@@ -5,6 +5,7 @@
         "Salmon Run",
         "Tableturf Battle",
         "Story Mode",
+        "Side Order",
         "Splatfests"
     ],
     "playlists": {
@@ -13,12 +14,10 @@
             "introduction": "This playlist contains 47 tracks from {{RotM}}, lasting 1 hour and 56 minutes.",
             "songlist": [
                 {
-                    "name": "Cap'n Cuttlefish's Theme",
-                    "band": "N/A"
+                    "name": "Cap'n Cuttlefish's Theme"
                 },
                 {
-                    "name": "The Crater",
-                    "band": "N/A"
+                    "name": "The Crater"
                 },
                 {
                     "name": "Crater Eighters Routine",
@@ -33,8 +32,7 @@
                     "band": "DJ Octavio"
                 },
                 {
-                    "name": "Meeting the New Squidbeak Splatoon",
-                    "band": "N/A"
+                    "name": "Meeting the New Squidbeak Splatoon"
                 },
                 {
                     "name": "Sandcastles",
@@ -61,16 +59,13 @@
                     "band": "Anxiety Society"
                 },
                 {
-                    "name": "Got It! (Alterna Swag)",
-                    "band": "N/A"
+                    "name": "Got It! (Alterna Swag)"
                 },
                 {
-                    "name": "Got It! (Gold Record)",
-                    "band": "N/A"
+                    "name": "Got It! (Gold Record)"
                 },
                 {
-                    "name": "Alterna Citizen Program M-01: Basic Course (Morning Fog)",
-                    "band": "N/A"
+                    "name": "Alterna Citizen Program M-01: Basic Course (Morning Fog)"
                 },
                 {
                     "name": "Nine Out of Tension",
@@ -89,8 +84,7 @@
                     "band": "Turquoise October"
                 },
                 {
-                    "name": "Alterna Citizen Program M-02: Advanced Course (Twilight Waves)",
-                    "band": "N/A"
+                    "name": "Alterna Citizen Program M-02: Advanced Course (Twilight Waves)"
                 },
                 {
                     "name": "Smoke and Mirrors",
@@ -121,12 +115,10 @@
                     "band": "Octoplush"
                 },
                 {
-                    "name": "Mission Complete! (Alterna)",
-                    "band": "N/A"
+                    "name": "Mission Complete! (Alterna)"
                 },
                 {
-                    "name": "Alterna Citizen Program M-00: Init (System Noise)",
-                    "band": "N/A"
+                    "name": "Alterna Citizen Program M-00: Init (System Noise)"
                 },
                 {
                     "name": "Deep Cut's Theme",
@@ -137,20 +129,16 @@
                     "band": "Deep Cut"
                 },
                 {
-                    "name": "Got That Treasure!",
-                    "band": "N/A"
+                    "name": "Got That Treasure!"
                 },
                 {
-                    "name": "Chowder Combo",
-                    "band": "N/A"
+                    "name": "Chowder Combo"
                 },
                 {
-                    "name": "Smooth as Ice",
-                    "band": "N/A"
+                    "name": "Smooth as Ice"
                 },
                 {
-                    "name": "Our Bad",
-                    "band": "N/A"
+                    "name": "Our Bad"
                 },
                 {
                     "name": "Mammalian Memo",
@@ -177,8 +165,7 @@
                     "band": "Grizzco"
                 },
                 {
-                    "name": "Go, Agent 3!",
-                    "band": "N/A"
+                    "name": "Go, Agent 3!"
                 },
                 {
                     "name": "Bear with Me",
@@ -189,16 +176,14 @@
                     "band": "Deep Cut x Squid Sisters"
                 },
                 {
-                    "name": "The Most Massive Fuzzball of All",
-                    "band": "N/A"
+                    "name": "The Most Massive Fuzzball of All"
                 },
                 {
                     "name": "Wave Goodbye",
                     "band": "Squid Sisters"
                 },
                 {
-                    "name": "Alterna Citizen Program M-??: mY dEAR",
-                    "band": "N/A"
+                    "name": "Alterna Citizen Program M-??: mY dEAR"
                 }
             ]
         },
@@ -231,6 +216,14 @@
                     "band": "Squid Sisters"
                 },
                 {
+                    "name": "Color Pulse (2024)",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "We're So Back",
+                    "band": "Off the Hook"
+                },
+                {
                     "name": "Soak & Stomp",
                     "band": "Anglerfish"
                 },
@@ -251,6 +244,14 @@
                     "band": "Squid Sisters feat. Ian BGM"
                 },
                 {
+                    "name": "Big Betrayal",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Suffer No Fools",
+                    "band": "Off the Hook VS Fire & Ice"
+                },
+                {
                     "name": "Now or Never!",
                     "band": "Deep Cut"
                 },
@@ -263,12 +264,168 @@
                     "band": "Deep Cut"
                 },
                 {
+                    "name": "Anarchy Rainbow (Splatoween)",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Deepers Creepers",
+                    "band": "Bloody Hook"
+                },
+                {
+                    "name": "Crab-N-Go (Splatoween)"
+                },
+                {
+                    "name": "Still Swimmin' (Splatoween)",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Ego Overboard (Splatoween)",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Anarchy Rainbow (Frosty Fest)",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Yule Tide",
+                    "band": "Decksterity"
+                },
+                {
+                    "name": "Crab-N-Go (Frosty Fest)"
+                },
+                {
+                    "name": "Still Swimmin' (Frosty Fest)",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Ego Overboard (Frosty Fest)",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Anarchy Rainbow (Spring Fest)",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Meadowlark",
+                    "band": "Saplings"
+                },
+                {
+                    "name": "Crab-N-Go (Spring Fest)"
+                },
+                {
+                    "name": "Still Swimmin' (Spring Fest)",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Ego Overboard (Spring Fest)",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Anarchy Rainbow (Summer Nights)",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Suntan Ocean",
+                    "band": "Reel Deel"
+                },
+                {
+                    "name": "Crab-N-Go (Summer Nights)"
+                },
+                {
+                    "name": "Still Swimmin' (Summer Nights)",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Ego Overboard (Summer Nights)",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Still Swimmin' (First-Anniversary Splatfest - Team Shiver)",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Ego Overboard (First-Anniversary Splatfest - Team Shiver)",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Still Swimmin' (First-Anniversary Splatfest - Team Frye)",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Ego Overboard (First-Anniversary Splatfest - Team Frye)",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Still Swimmin' (First-Anniversary Splatfest - Team Big Man)",
+                    "band": "Deep Cut"
+                },
+                {
+                    "name": "Ego Overboard (First-Anniversary Splatfest - Team Big Man)",
+                    "band": "Deep Cut"
+                },
+                {
                     "name": "Splatfest Results Drop",
                     "band": "Deep Cut"
                 },
                 {
-                    "name": "Got It!",
-                    "band": "N/A"
+                    "name": "Got It!"
+                },
+                {
+                    "name": "Anarchy Splatcast (Grand Festival)"
+                },
+                {
+                    "name": "Around the Grand Festival"
+                },
+                {
+                    "name": "Tomorrow's Nostalgia Today (Grand Festival)",
+                    "band": "Squid Sisters"
+                },
+                {
+                    "name": "Liquid Sunshine (Grand Festival)",
+                    "band": "Squid Sisters"
+                },
+                {
+                    "name": "We're So Back (Grand Festival)",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "Three Wishes",
+                    "band": "Now or Never Seven"
+                },
+                {
+                    "name": "Soak & Stomp (Grand Mix)",
+                    "band": "Anglerfish feat. Cory"
+                },
+                {
+                    "name": "Crab-N-Go (Grand Festival)"
+                },
+                {
+                    "name": "Blushing Tide",
+                    "band": "Squid Sisters"
+                },
+                {
+                    "name": "Rainbow Color Inkantation",
+                    "band": "Now or Never Seven"
+                },
+                {
+                    "name": "Kick Stomp",
+                    "band": "Squid Sisters"
+                },
+                {
+                    "name": "Inkopolis Punch",
+                    "band": "Squid Sisters"
+                },
+                {
+                    "name": "Party's Over (Grand Festival)",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "Fest Zest (Grand Festival)",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "Daybreaker Anthem",
+                    "band": "Deep Cut"
                 }
             ]
         },
@@ -315,6 +472,50 @@
                 {
                     "name": "Tentacle to the Metal",
                     "band": "Damp Socks feat. Off the Hook"
+                },
+                {
+                    "name": "Ska-BLAM",
+                    "band": "Yoko & the Gold Bazookas"
+                },
+                {
+                    "name": "Three-Horn Circus",
+                    "band": "Yoko & the Gold Bazookas"
+                },
+                {
+                    "name": "Rockagilly Blues",
+                    "band": "Yoko & the Gold Bazookas"
+                },
+                {
+                    "name": "Ripstop & Go",
+                    "band": "H2Whoa"
+                },
+                {
+                    "name": "Aquasonic",
+                    "band": "H2Whoa"
+                },
+                {
+                    "name": "Slopping Spree",
+                    "band": "Chirpy Chips"
+                },
+                {
+                    "name": "No Quarters",
+                    "band": "Chirpy Chips"
+                },
+                {
+                    "name": "Shifting Stars",
+                    "band": "Riot Act"
+                },
+                {
+                    "name": "No Plan Survives",
+                    "band": "Riot Act"
+                },
+                {
+                    "name": "Amalgamania",
+                    "band": "SashiMori"
+                },
+                {
+                    "name": "Seasource",
+                    "band": "SashiMori"
                 },
                 {
                     "name": "Now or Never!",
@@ -397,6 +598,18 @@
                 {
                     "name": "Not Bad (Do Better)",
                     "band": "Grizzco"
+                },
+                {
+                    "name": "Happy Little Workers - 24/7 Deep Mix",
+                    "band": "Grizzco feat. Deep Cut"
+                },
+                {
+                    "name": "Double Clickbait",
+                    "band": "ω-3"
+                },
+                {
+                    "name": "Not Bad (Catch Ya Better)",
+                    "band": "Grizzco feat. Deep Cut"
                 }
             ]
         },
@@ -405,8 +618,7 @@
             "introduction": "This playlist contains 10 tracks related to [[Splatsville]], lasting 26 minutes.",
             "songlist": [
                 {
-                    "name": "What's Your Style?",
-                    "band": "N/A"
+                    "name": "What's Your Style?"
                 },
                 {
                     "name": "Clickbait (Splash Sessions Demo)",
@@ -417,24 +629,20 @@
                     "band": "Deep Cut"
                 },
                 {
-                    "name": "Welcome to Splatsville",
-                    "band": "N/A"
+                    "name": "Welcome to Splatsville"
                 },
                 {
-                    "name": "Soaking In Splatsville",
-                    "band": "N/A"
+                    "name": "Soaking In Splatsville"
                 },
                 {
                     "name": "Sinkopated",
                     "band": "Backwash"
                 },
                 {
-                    "name": "Lobby Terminal",
-                    "band": "N/A"
+                    "name": "Lobby Terminal"
                 },
                 {
-                    "name": "The Shoal",
-                    "band": "N/A"
+                    "name": "The Shoal"
                 },
                 {
                     "name": "Tableturf Main Theme",
@@ -477,6 +685,193 @@
                 {
                     "name": "Tableturf Win Theme",
                     "band": "Ancho-V Games"
+                }
+            ]
+        },
+        "Side Order": {
+            "songlist": [
+                {
+                    "name": "Dozing Off"
+                },
+                {
+                    "name": "#0.1 style",
+                    "band": "Dedf1sh"
+                },
+                {
+                    "name": "Leaving with Pearl"
+                },
+                {
+                    "name": "Θrder Square: Inciner8",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "Σntrance: Dynamis",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "First Principles",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "#12.2 awakened",
+                    "band": "Dedf1sh"
+                },
+                {
+                    "name": "Upward",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "demol1sh",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "rout1nes",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "j1tters",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "jest1ng",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "souven1r",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "Cleared! (Part 1)"
+                },
+                {
+                    "name": "Marina in Captivity"
+                },
+                {
+                    "name": "Unconscience",
+                    "band": "Marina"
+                },
+                {
+                    "name": "Order Emerges"
+                },
+                {
+                    "name": "Origin of Order"
+                },
+                {
+                    "name": "Θrder Square: Subjug8",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "Got It! (Side Order)"
+                },
+                {
+                    "name": "Σntrance: Archon",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "demoli2h",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "je2ting",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "routine2",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "2ouvenir",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "jitter2",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "Cleared! (Part 2)"
+                },
+                {
+                    "name": "Step-Off Song"
+                },
+                {
+                    "name": "CΘld StΘrage",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "ΘctΘpticΘn",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "EchΘ Θnslaught",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "Cleared! (Boss)"
+                },
+                {
+                    "name": "d3molish",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "j3sting",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "routin3s",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "souv3nir",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "jitt3rs",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "Results (Splatted)"
+                },
+                {
+                    "name": "Overlorder Appears"
+                },
+                {
+                    "name": "New World Order",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "The Rebooted World Will Know the Tranquility of Order"
+                },
+                {
+                    "name": "Spectrum Obligato ~ Ebb & Flow (Out of Order)",
+                    "band": "Off the Hook feat. Dedf1sh"
+                },
+                {
+                    "name": "Case Closed"
+                },
+                {
+                    "name": "#47 onward",
+                    "band": "Dedf1sh feat. Off the Hook"
+                },
+                {
+                    "name": "Θrder Square: Liber8",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "Σntrance: Platonic Solid",
+                    "band": "Free Association"
+                },
+                {
+                    "name": "Smollusk's Theme"
+                },
+                {
+                    "name": "Thus Spoke Smollusk"
+                },
+                {
+                    "name": "Short Order",
+                    "band": "Off the Hook"
+                },
+                {
+                    "name": "Results (Clear!)"
                 }
             ]
         }

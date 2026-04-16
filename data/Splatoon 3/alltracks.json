@@ -80,36 +80,6 @@
             "uuid": "64fe43cc-4611-4907-9be9-deb5ebc290ce"
         },
         {
-            "name": "Now or Never!",
-            "formattedname": "[[Now or Never!#Now or Never! (C-Side)|Now or Never!]]",
-            "band": "C-Side",
-            "formattedband": "[[C-Side]]",
-            "length": "1:06",
-            "extend": false,
-            "uuid": "8b73bcda-fe83-45fd-af59-4a5697f7b3be"
-        },
-        {
-            "name": "Rinse/Repeat",
-            "formattedname": "[[Rinse/Repeat]]",
-            "band": "C-Side",
-            "formattedband": "[[C-Side]]",
-            "length": "0:43",
-            "extend": false,
-            "setthescene": [
-                "Victory!"
-            ],
-            "uuid": "5f2d015d-a244-4014-a08e-c552f2390e66"
-        },
-        {
-            "name": "Learning Curve",
-            "formattedname": "[[Learning Curve]]",
-            "band": "C-Side",
-            "formattedband": "[[C-Side]]",
-            "length": "0:38",
-            "extend": false,
-            "uuid": "06f213d2-b955-4fe9-a4d0-c557aa72840c"
-        },
-        {
             "name": "Sea Me Now",
             "formattedname": "[[Sea Me Now]]",
             "band": "Front Roe",
@@ -159,6 +129,138 @@
                 "Vocal Tracks"
             ],
             "uuid": "4f819141-e410-4cb6-b43f-fbbe37524ebc"
+        },
+        {
+            "name": "Ska-BLAM",
+            "formattedname": "[[Ska-BLAM]]",
+            "band": "Yoko & the Gold Bazookas",
+            "formattedband": "[[Yoko & the Gold Bazookas]]",
+            "length": "2:58",
+            "extend": true,
+            "uuid": "5658b288-387e-4938-8491-ad95ae5c3426"
+        },
+        {
+            "name": "Three-Horn Circus",
+            "formattedname": "[[Three-Horn Circus]]",
+            "band": "Yoko & the Gold Bazookas",
+            "formattedband": "[[Yoko & the Gold Bazookas]]",
+            "length": "2:46",
+            "extend": true,
+            "uuid": "0431fc52-8d64-4007-bc36-aa9a6cacd9e9"
+        },
+        {
+            "name": "Rockagilly Blues",
+            "formattedname": "[[Rockagilly Blues]]",
+            "band": "Yoko & the Gold Bazookas",
+            "formattedband": "[[Yoko & the Gold Bazookas]]",
+            "length": "2:49",
+            "extend": true,
+            "uuid": "21c84b1d-45be-416a-8689-590c68ee8aa4"
+        },
+        {
+            "name": "Ripstop & Go",
+            "formattedname": "[[Ripstop & Go]]",
+            "band": "H2Whoa",
+            "formattedband": "[[H2Whoa]]",
+            "length": "2:48",
+            "extend": true,
+            "uuid": "66229c67-609b-4062-8333-1b5aa00cd659"
+        },
+        {
+            "name": "Aquasonic",
+            "formattedname": "[[Aquasonic]]",
+            "band": "H2Whoa",
+            "formattedband": "[[H2Whoa]]",
+            "length": "2:53",
+            "extend": true,
+            "uuid": "2a7c8a27-3399-4eed-99ff-b8e1e54b4471"
+        },
+        {
+            "name": "Slopping Spree",
+            "formattedname": "[[Slopping Spree]]",
+            "band": "Chirpy Chips",
+            "formattedband": "[[Chirpy Chips]]",
+            "length": "2:10",
+            "extend": true,
+            "uuid": "acb35493-1c4a-4e30-87f8-3319842089ad"
+        },
+        {
+            "name": "No Quarters",
+            "formattedname": "[[No Quarters]]",
+            "band": "Chirpy Chips",
+            "formattedband": "[[Chirpy Chips]]",
+            "length": "2:33",
+            "extend": true,
+            "matchyourmood": [
+                "Running"
+            ],
+            "uuid": "d48901d4-6090-44e9-8219-43799c26e962"
+        },
+        {
+            "name": "Shifting Stars",
+            "formattedname": "[[Shifting Stars]]",
+            "band": "Riot Act",
+            "formattedband": "[[Riot Act]]",
+            "length": "2:24",
+            "extend": true,
+            "uuid": "c577c952-d89e-4c30-b180-947b0b60cf3e"
+        },
+        {
+            "name": "No Plan Survives",
+            "formattedname": "[[No Plan Survives]]",
+            "band": "Riot Act",
+            "formattedband": "[[Riot Act]]",
+            "length": "2:13",
+            "extend": true,
+            "uuid": "3b0f2b81-4f87-4368-81fa-3d70a8d6f7bc"
+        },
+        {
+            "name": "Amalgamania",
+            "formattedname": "[[Amalgamania]]",
+            "band": "SashiMori",
+            "formattedband": "[[SashiMori]]",
+            "length": "3:03",
+            "extend": true,
+            "uuid": "5c458a1d-d3c6-4c62-afe5-8333e151537a"
+        },
+        {
+            "name": "Seasource",
+            "formattedname": "[[Seasource]]",
+            "band": "SashiMori",
+            "formattedband": "[[SashiMori]]",
+            "length": "2:49",
+            "extend": true,
+            "uuid": "b462e042-77a8-4690-a351-d4ece4d74424"
+        },
+        {
+            "name": "Now or Never!",
+            "formattedname": "[[Now or Never!#Now or Never! (C-Side)|Now or Never!]]",
+            "band": "C-Side",
+            "formattedband": "[[C-Side]]",
+            "length": "1:06",
+            "extend": false,
+            "uuid": "8b73bcda-fe83-45fd-af59-4a5697f7b3be"
+        },
+        {
+            "name": "Rinse/Repeat",
+            "formattedname": "[[Rinse/Repeat]]",
+            "band": "C-Side",
+            "formattedband": "[[C-Side]]",
+            "length": "0:43",
+            "extend": false,
+            "setthescene": [
+                "Victory!"
+            ],
+            "uuid": "5f2d015d-a244-4014-a08e-c552f2390e66"
+        },
+        {
+            "name": "Learning Curve",
+            "formattedname": "[[Learning Curve]]",
+            "band": "C-Side",
+            "formattedband": "[[C-Side]]",
+            "length": "0:38",
+            "extend": false,
+            "uuid": "06f213d2-b955-4fe9-a4d0-c557aa72840c"
         },
         {
             "name": "What's Your Style?",
@@ -346,12 +448,39 @@
         },
         {
             "name": "Not Bad (Do Better)",
-            "formattedname": "[[Not Bad (Do Better)]]",
+            "formattedname": "[[Ever Further#Not Bad (Do Better)|Not Bad (Do Better)]]",
             "band": "Grizzco",
             "formattedband": "[[Grizzco]]",
             "length": "1:47",
             "extend": true,
             "uuid": "cb73c47a-b8a3-4aac-935b-48acc82f1288"
+        },
+        {
+            "name": "Happy Little Workers - 24/7 Deep Mix",
+            "formattedname": "[[Happy Little Workers#Happy Little Workers - 24/7 Deep Mix|Happy Little Workers - 24/7 Deep Mix]]",
+            "band": "Grizzco feat. Deep Cut",
+            "formattedband": "[[Grizzco]] feat. [[Deep Cut]]",
+            "length": "2:07",
+            "extend": true,
+            "uuid": "e892b10e-41a6-4df5-a3c7-5674ddd617c3"
+        },
+        {
+            "name": "Double Clickbait",
+            "formattedname": "[[Clickbait#Double Clickbait|Double Clickbait]]",
+            "band": "ω-3",
+            "formattedband": "[[ω-3]]",
+            "length": "2:49",
+            "extend": true,
+            "uuid": "c6124c6e-8dda-4a57-99ff-9c5d51c0d3d3"
+        },
+        {
+            "name": "Not Bad (Catch Ya Better)",
+            "formattedname": "[[Ever Further#Not Bad (Catch Ya Better)|Not Bad (Catch Ya Better)]]",
+            "band": "Grizzco feat. Deep Cut",
+            "formattedband": "[[Grizzco]] feat. [[Deep Cut]]",
+            "length": "1:46",
+            "extend": true,
+            "uuid": "b2f9afd0-eca4-479e-95a6-08804ac1bdf5"
         },
         {
             "name": "Cap'n Cuttlefish's Theme",
@@ -878,6 +1007,24 @@
             "uuid": "60457f91-98f7-461c-9309-8122699475b4"
         },
         {
+            "name": "Big Betrayal",
+            "formattedname": "[[Big Betrayal]]",
+            "band": "Deep Cut",
+            "formattedband": "[[Deep Cut]]",
+            "length": "3:32",
+            "extend": true,
+            "uuid": "3572bbcc-a9dd-4796-942e-70c4c3020156"
+        },
+        {
+            "name": "Suffer No Fools",
+            "formattedname": "[[Suffer No Fools]]",
+            "band": "Off the Hook VS Fire & Ice",
+            "formattedband": "[[Off the Hook]] VS [[Fire & Ice]]",
+            "length": "2:48",
+            "extend": true,
+            "uuid": "75525e28-83fc-49c3-8806-b137ad6b41ed"
+        },
+        {
             "name": "Now or Never!",
             "formattedname": "[[Now or Never!#Now or Never! (Deep Cut)|Now or Never!]]",
             "band": "Deep Cut",
@@ -908,6 +1055,290 @@
             "uuid": "66443fe6-9d9f-4909-8389-7cb503a07015"
         },
         {
+            "name": "Anarchy Rainbow (Splatoween)",
+            "formattedname": "[[Anarchy Rainbow#Anarchy Rainbow (Splatoween)|Anarchy Rainbow (Splatoween)]]",
+            "band": "Deep Cut",
+            "formattedband": "Deep Cut",
+            "length": "3:29",
+            "extend": true,
+            "matchyourmood": [
+                "Spooky!"
+            ],
+            "uuid": "dc9e7696-eb59-40b2-87b3-51ff0e9e550e"
+        },
+        {
+            "name": "Deepers Creepers",
+            "formattedname": "[[Deepers Creepers]]",
+            "band": "Bloody Hook",
+            "formattedband": "[[Bloody Hook]]",
+            "length": "3:05",
+            "extend": false,
+            "matchyourmood": [
+                "Spooky!"
+            ],
+            "uuid": "48f1ea87-d74b-400a-8373-77d3214fe3e6"
+        },
+        {
+            "name": "Crab-N-Go (Splatoween)",
+            "formattedname": "[[Crab-N-Go (song)#Crab-N-Go (Splatoween)|Crab-N-Go (Splatoween)]]",
+            "length": "3:02",
+            "extend": true,
+            "matchyourmood": [
+                "Spooky!"
+            ],
+            "uuid": "f4e09aaf-7463-44e7-9d29-fbc2772d88de"
+        },
+        {
+            "name": "Ego Overboard (Splatoween)",
+            "formattedname": "[[Ego Overboard#Ego Overboard (Splatoween)|Ego Overboard (Splatoween)]]",
+            "band": "Deep Cut",
+            "formattedband": "[[Deep Cut]]",
+            "length": "0:18",
+            "extend": false,
+            "setthescene": [
+                "Victory!"
+            ],
+            "uuid": "e58f2a54-96d1-4deb-95c2-f828fdc42705"
+        },
+        {
+            "name": "Still Swimmin' (Splatoween)",
+            "formattedname": "[[Still Swimmin'#Still Swimmin' (Splatoween)|Still Swimmin' (Splatoween)]]",
+            "band": "Deep Cut",
+            "formattedband": "[[Deep Cut]]",
+            "length": "0:15",
+            "extend": false,
+            "uuid": "e86aa417-0575-4261-a64a-f45935ba210a"
+        },
+        {
+            "name": "Anarchy Rainbow (Frosty Fest)",
+            "formattedname": "[[Anarchy Rainbow#Anarchy Rainbow (Frosty Fest)|Anarchy Rainbow (Frosty Fest)]]",
+            "band": "Deep Cut",
+            "formattedband": "[[Deep Cut]]",
+            "length": "3:33",
+            "extend": true,
+            "matchyourmood": [
+                "Winter"
+            ],
+            "uuid": "fbd22df9-e0ce-4d53-b90a-4f839eda5617"
+        },
+        {
+            "name": "Yule Tide",
+            "formattedname": "[[Yule Tide]]",
+            "band": "Decksterity",
+            "formattedband": "[[Decksterity]]",
+            "length": "3:59",
+            "extend": true,
+            "matchyourmood": [
+                "Walking",
+                "Winter"
+            ],
+            "uuid": "2a9a9251-2494-45bb-a26c-24f324c6cedf"
+        },
+        {
+            "name": "Crab-N-Go (Frosty Fest)",
+            "formattedname": "[[Crab-N-Go (song)#Crab-N-Go (Frosty Fest)|Crab-N-Go (Frosty Fest)]]",
+            "length": "2:06",
+            "extend": true,
+            "matchyourmood": [
+                "Winter"
+            ],
+            "uuid": "47c5c878-13b7-4362-915b-ef3ed43b49a6"
+        },
+        {
+            "name": "Ego Overboard (Frosty Fest)",
+            "formattedname": "[[Ego Overboard#Ego Overboard (Frosty Fest)|Ego Overboard (Frosty Fest)]]",
+            "band": "Deep Cut",
+            "formattedband": "[[Deep Cut]]",
+            "length": "0:17",
+            "extend": false,
+            "setthescene": [
+                "Victory!"
+            ],
+            "uuid": "c071a87c-a14b-400e-98d4-640073363734"
+        },
+        {
+            "name": "Still Swimmin' (Frosty Fest)",
+            "formattedname": "[[Still Swimmin'#Still Swimmin' (Frosty Fest)|Still Swimmin' (Frosty Fest)]]",
+            "band": "Deep Cut",
+            "formattedband": "[[Deep Cut]]",
+            "length": "0:16",
+            "extend": false,
+            "uuid": "a849acdd-6b6e-4ae8-a45c-d3096c3faaea"
+        },
+        {
+            "name": "Anarchy Rainbow (Spring Fest)",
+            "formattedname": "[[Anarchy Rainbow#Anarchy Rainbow (Spring Fest)|Anarchy Rainbow (Spring Fest)]]",
+            "band": "Deep Cut",
+            "formattedband": "[[Deep Cut]]",
+            "length": "3:21",
+            "extend": true,
+            "matchyourmood": [
+                "Spring"
+            ],
+            "uuid": "feb85af5-cff7-45fc-8379-560290e1212f"
+        },
+        {
+            "name": "Meadowlark",
+            "formattedname": "[[Meadowlark]]",
+            "band": "Saplings",
+            "formattedband": "[[Saplings]]",
+            "length": "3:10",
+            "extend": true,
+            "matchyourmood": [
+                "Spring"
+            ],
+            "uuid": "0f81140e-9090-4531-8029-ab2cec2a6a80"
+        },
+        {
+            "name": "Crab-N-Go (Spring Fest)",
+            "formattedname": "[[Crab-N-Go (song)#Crab-N-Go (Spring Fest)|Crab-N-Go (Spring Fest)]]",
+            "length": "2:13",
+            "extend": true,
+            "matchyourmood": [
+                "Spring"
+            ],
+            "uuid": "f5304638-e998-45cf-a8df-5ee7a2c71dc8"
+        },
+        {
+            "name": "Ego Overboard (Spring Fest)",
+            "formattedname": "[[Ego Overboard#Ego Overboard (Spring Fest)|Ego Overboard (Spring Fest)]]",
+            "band": "Deep Cut",
+            "formattedband": "[[Deep Cut]]",
+            "length": "0:17",
+            "extend": false,
+            "setthescene": [
+                "Victory!"
+            ],
+            "uuid": "a9be0a50-4304-4fd1-a4b1-31f72405dbe3"
+        },
+        {
+            "name": "Still Swimmin' (Spring Fest)",
+            "formattedname": "[[Still Swimmin'#Still Swimmin' (Spring Fest)|Still Swimmin' (Spring Fest)]]",
+            "band": "Deep Cut",
+            "formattedband": "[[Deep Cut]]",
+            "length": "0:15",
+            "extend": false,
+            "uuid": "0ca4cf2e-51ad-4afc-a8d0-de71ee44bbca"
+        },
+        {
+            "name": "Anarchy Rainbow (Summer Nights)",
+            "formattedname": "[[Anarchy Rainbow#Anarchy Rainbow (Summer Nights)|Anarchy Rainbow (Summer Nights)]]",
+            "band": "Deep Cut",
+            "formattedband": "[[Deep Cut]]",
+            "length": "3:30",
+            "extend": true,
+            "matchyourmood": [
+                "Summer"
+            ],
+            "uuid": "94bab9da-5be3-4c97-bb53-ea1becdeb8d5"
+        },
+        {
+            "name": "Suntan Ocean",
+            "formattedname": "[[Suntan Ocean]]",
+            "band": "Reel Deel",
+            "formattedband": "[[Reel Deel]]",
+            "length": "3:06",
+            "extend": false,
+            "matchyourmood": [
+                "Summer"
+            ],
+            "uuid": "6b22420e-9ab3-4550-9cf7-425a86fad253"
+        },
+        {
+            "name": "Crab-N-Go (Summer Nights)",
+            "formattedname": "[[Crab-N-Go (song)#Crab-N-Go (Summer Nights)|Crab-N-Go (Summer Nights)]]",
+            "length": "2:46",
+            "extend": true,
+            "matchyourmood": [
+                "Summer"
+            ],
+            "uuid": "86773393-30ca-4042-9d1a-cf44d57ceed1"
+        },
+        {
+            "name": "Ego Overboard (Summer Nights)",
+            "formattedname": "[[Ego Overboard#Ego Overboard (Summer Nights)|Ego Overboard (Summer Nights)]]",
+            "band": "Deep Cut",
+            "formattedband": "[[Deep Cut]]",
+            "length": "0:17",
+            "extend": false,
+            "setthescene": [
+                "Victory!"
+            ],
+            "uuid": "fe6740a7-3856-4ecd-bfe6-41db8c92d1de"
+        },
+        {
+            "name": "Still Swimmin' (Summer Nights)",
+            "formattedname": "[[Still Swimmin'#Still Swimmin' (Summer Nights)|Still Swimmin' (Summer Nights)]]",
+            "band": "Deep Cut",
+            "formattedband": "[[Deep Cut]]",
+            "length": "0:17",
+            "extend": false,
+            "uuid": "3bc2391e-07b5-49e8-b9b7-90156884e51c"
+        },
+        {
+            "name": "Ego Overboard (First-Anniversary Splatfest - Team Shiver)",
+            "formattedname": "[[Ego Overboard#Ego Overboard (First-Anniversary Splatfest - Team Shiver)|Ego Overboard (First-Anniversary Splatfest - Team Shiver)]]",
+            "band": "Deep Cut",
+            "formattedband": "[[Deep Cut]]",
+            "length": "0:18",
+            "extend": false,
+            "setthescene": [
+                "Victory!"
+            ],
+            "uuid": "a4b090f5-16b3-493c-be73-e2d1dfa3e709"
+        },
+        {
+            "name": "Still Swimmin' (First-Anniversary Splatfest - Team Shiver)",
+            "formattedname": "[[Still Swimmin'#Still Swimmin' (First-Anniversary Splatfest - Team Shiver)|Still Swimmin' (First-Anniversary Splatfest - Team Shiver)]]",
+            "band": "Deep Cut",
+            "formattedband": "[[Deep Cut]]",
+            "length": "0:15",
+            "extend": false,
+            "uuid": "3ca57e1f-e1fd-4b87-8162-9bed24b48a5d"
+        },
+        {
+            "name": "Ego Overboard (First-Anniversary Splatfest - Team Frye)",
+            "formattedname": "[[Ego Overboard#Ego Overboard (First-Anniversary Splatfest - Team Frye)|Ego Overboard (First-Anniversary Splatfest - Team Frye)]]",
+            "band": "Deep Cut",
+            "formattedband": "[[Deep Cut]]",
+            "length": "0:18",
+            "extend": false,
+            "setthescene": [
+                "Victory!"
+            ],
+            "uuid": "ddd04a88-90e5-4f30-83ef-bf351316f004"
+        },
+        {
+            "name": "Still Swimmin' (First-Anniversary Splatfest - Team Frye)",
+            "formattedname": "[[Still Swimmin'#Still Swimmin' (First-Anniversary Splatfest - Team Frye)|Still Swimmin' (First-Anniversary Splatfest - Team Frye)]]",
+            "band": "Deep Cut",
+            "formattedband": "[[Deep Cut]]",
+            "length": "0:15",
+            "extend": false,
+            "uuid": "fe6fa86c-3a17-4185-b0d8-411001403efb"
+        },
+        {
+            "name": "Ego Overboard (First-Anniversary Splatfest - Team Big Man)",
+            "formattedname": "[[Ego Overboard#Ego Overboard (First-Anniversary Splatfest - Team Big Man)|Ego Overboard (First-Anniversary Splatfest - Team Big Man)]]",
+            "band": "Deep Cut",
+            "formattedband": "[[Deep Cut]]",
+            "length": "0:17",
+            "extend": false,
+            "uuid": "c7e3bf96-9400-457d-a661-92f3c4a91311"
+        },
+        {
+            "name": "Still Swimmin' (First-Anniversary Splatfest - Team Big Man)",
+            "formattedname": "[[Still Swimmin'#Still Swimmin' (First-Anniversary Splatfest - Team Big Man)|Still Swimmin' (First-Anniversary Splatfest - Team Big Man)]]",
+            "band": "Deep Cut",
+            "formattedband": "[[Deep Cut]]",
+            "length": "0:15",
+            "extend": false,
+            "setthescene": [
+                "Victory!"
+            ],
+            "uuid": "300782da-a81f-4727-9d7a-a4fea2fcc56b"
+        },
+        {
             "name": "City of Color (2023)",
             "formattedname": "[[City of Color#City of Color (2023)|City of Color (2023)]]",
             "band": "Squid Sisters",
@@ -930,6 +1361,33 @@
                 "Walking"
             ],
             "uuid": "2f9d04e2-e4fd-4bac-9c99-e6e8c6803124"
+        },
+        {
+            "name": "Color Pulse (2024)",
+            "formattedname": "[[Color Pulse#Color Pulse (2024)|Color Pulse (2024)]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "3:22",
+            "extend": true,
+            "uuid": "f697128d-490f-4742-b56c-b3f61a69f775"
+        },
+        {
+            "name": "We're So Back",
+            "formattedname": "[[We're So Back]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "4:20",
+            "extend": true,
+            "uuid": "b790a04a-5556-4aab-9b06-bec6688ed2fa"
+        },
+        {
+            "name": "Daybreaker Anthem",
+            "formattedname": "[[Daybreaker Anthem]]",
+            "band": "Deep Cut",
+            "formattedband": "[[Deep Cut]]",
+            "length": "5:32",
+            "extend": false,
+            "uuid": "e2ae08aa-2602-44af-b9a0-70206684781b"
         },
         {
             "name": "Splatfest Results Drop",
@@ -1043,6 +1501,33 @@
             "uuid": "462aa2e8-958f-4a4a-b559-0f1f59141d29"
         },
         {
+            "name": "Pop 'n' Schlock",
+            "formattedname": "[[Pop 'n' Schlock]]",
+            "band": "Chroma Chaos",
+            "formattedband": "[[Chroma Chaos]]",
+            "length": "2:52",
+            "extend": true,
+            "uuid": "fe1e80a5-2e3c-4f18-85e2-7ab159741283"
+        },
+        {
+            "name": "Clashing Colors",
+            "formattedname": "[[Clashing Colors]]",
+            "band": "Medusa",
+            "formattedband": "[[Medusa]]",
+            "length": "1:55",
+            "extend": true,
+            "uuid": "d816a729-7d43-4d61-9851-4d289365c9ce"
+        },
+        {
+            "name": "Dorsal Slicer",
+            "formattedname": "[[Dorsal Slicer]]",
+            "band": "Nothing in My Wave",
+            "formattedband": "[[Nothing in My Wave]]",
+            "length": "2:47",
+            "extend": true,
+            "uuid": "c8ae644a-eecc-441d-9628-601dc470adf2"
+        },
+        {
             "name": "Lobby Terminal",
             "formattedname": "[[Clickbait#Lobby Terminal|Lobby Terminal]]",
             "length": "2:26",
@@ -1121,6 +1606,576 @@
             "length": "2:26",
             "extend": true,
             "uuid": "6efb3e1b-04f7-4a23-b9e7-dd7d11fd0efd"
+        },
+        {
+            "name": "Dozing Off",
+            "formattedname": "[[Muck Warfare#Dozing Off|Dozing Off]]",
+            "length": "0:31",
+            "extend": false,
+            "uuid": "d2454729-60ae-40ec-a4cc-542b0a87347b"
+        },
+        {
+            "name": "#0.1 style",
+            "formattedname": "[[＃0 shell##0.1 style|#0.1 style]]",
+            "band": "Dedf1sh",
+            "formattedband": "[[Acht|Dedf1sh]]",
+            "length": "1:43",
+            "extend": true,
+            "uuid": "c0ce1bc5-7a28-44c4-bf10-528b5e44ed8a"
+        },
+        {
+            "name": "Leaving with Pearl",
+            "formattedname": "[[Color Pulse#Leaving With Pearl|Leaving with Pearl]]",
+            "length": "1:16",
+            "extend": true,
+            "uuid": "5be18b6d-5cc6-4889-9abe-e6b8da692fb1"
+        },
+        {
+            "name": "Θrder Square: Inciner8",
+            "formattedname": "[[Θrder Square: Subjug8#Θrder Square: Inciner8|Θrder Square: Inciner8]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "1:53",
+            "extend": true,
+            "uuid": "0399275d-fea6-4292-85dc-0d8028297cdd"
+        },
+        {
+            "name": "Σntrance: Dynamis",
+            "formattedname": "[[Σntrance: Archon#Σntrance: Dynamis|Σntrance: Dynamis]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "2:18",
+            "extend": false,
+            "uuid": "4cae00d9-2236-480b-b8d9-b453ec5f80b2"
+        },
+        {
+            "name": "First Principles",
+            "formattedname": "[[First Principles]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "1:50",
+            "extend": true,
+            "setthescene": [
+                "New Adventures"
+            ],
+            "uuid": "7a5581f5-e4cf-4a18-8dfd-a3a718fe5117"
+        },
+        {
+            "name": "#12.2 awakened",
+            "formattedname": "[[＃12 awake##12.2 awakened|#12.2 awakened]]",
+            "band": "Dedf1sh",
+            "formattedband": "[[Acht|Dedf1sh]]",
+            "length": "2:13",
+            "extend": true,
+            "uuid": "e62f2e8e-ea08-4bdf-9893-dec4da19c242"
+        },
+        {
+            "name": "Marina in Captivity",
+            "formattedname": "[[Marina in Captivity]]",
+            "length": "0:30",
+            "extend": false,
+            "uuid": "0f23f400-9017-4ee9-84ec-69274e7b9e6f"
+        },
+        {
+            "name": "Unconscience",
+            "formattedname": "[[Unconscience]]",
+            "band": "Marina",
+            "formattedband": "[[Marina]]",
+            "length": "4:01",
+            "extend": true,
+            "uuid": "abb33b61-bdd3-4684-af13-7edba2e2b0a7"
+        },
+        {
+            "name": "Order Emerges",
+            "formattedname": "[[Order Emerges]]",
+            "length": "1:12",
+            "extend": false,
+            "uuid": "8e34839d-0620-4cfa-aa2c-2afcae581064"
+        },
+        {
+            "name": "Origin of Order",
+            "formattedname": "[[Origin of Order]]",
+            "length": "2:55",
+            "extend": false,
+            "uuid": "4d1a1d81-21f4-46b4-9d68-9458c2f30a38"
+        },
+        {
+            "name": "Θrder Square: Subjug8",
+            "formattedname": "[[Θrder Square: Subjug8]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "3:20",
+            "extend": true,
+            "uuid": "cb7acc22-9f80-4c29-b832-555622400892"
+        },
+        {
+            "name": "Σntrance: Archon",
+            "formattedname": "[[Σntrance: Archon]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "3:17",
+            "extend": true,
+            "uuid": "42731f89-9416-49d2-951d-da6fa73c3fdf"
+        },
+        {
+            "name": "Upward",
+            "formattedname": "[[Upward]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "3:34",
+            "extend": false,
+            "uuid": "b915db69-3423-4f95-8da8-4c5583591562"
+        },
+        {
+            "name": "demol1sh",
+            "formattedname": "[[demol1sh]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "2:25",
+            "extend": true,
+            "uuid": "b6738103-1cd3-4317-9fe3-cdb0d4e4cfbc"
+        },
+        {
+            "name": "demoli2h",
+            "formattedname": "[[demoli2h]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "2:08",
+            "extend": true,
+            "uuid": "c095feb8-f26c-47dc-bbcb-44c1f1c03551"
+        },
+        {
+            "name": "d3molish",
+            "formattedname": "[[d3molish]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "2:10",
+            "extend": true,
+            "uuid": "cbd57a45-0a3a-4b56-8193-645f0b73cb44"
+        },
+        {
+            "name": "jest1ng",
+            "formattedname": "[[jest1ng]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "1:37",
+            "extend": true,
+            "uuid": "a18f88fc-ee78-42ca-8036-9c9396d37182"
+        },
+        {
+            "name": "je2ting",
+            "formattedname": "[[je2ting]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "1:46",
+            "extend": true,
+            "uuid": "35c6a78b-5692-4b13-b219-18cd2d63920f"
+        },
+        {
+            "name": "j3sting",
+            "formattedname": "[[j3sting]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "1:58",
+            "extend": true,
+            "uuid": "b1dfc074-fd84-487c-8acc-2598b7e53b14"
+        },
+        {
+            "name": "rout1nes",
+            "formattedname": "[[rout1nes]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "2:02",
+            "extend": true,
+            "uuid": "0c42dd78-5ac1-4be2-8aa4-ddbd676cddf4"
+        },
+        {
+            "name": "routine2",
+            "formattedname": "[[routine2]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "1:50",
+            "extend": true,
+            "uuid": "9f01eeec-6662-4b57-9891-047abaad2d8a"
+        },
+        {
+            "name": "routin3s",
+            "formattedname": "[[routin3s]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "1:48",
+            "extend": true,
+            "uuid": "f2874efb-5dc3-4075-8675-949cbfd5315a"
+        },
+        {
+            "name": "souven1r",
+            "formattedname": "[[souven1r]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "2:21",
+            "extend": true,
+            "uuid": "d64adcfb-1fac-4f31-a5a4-811e7c2f4a1d"
+        },
+        {
+            "name": "2ouvenir",
+            "formattedname": "[[2ouvenir]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "2:36",
+            "extend": true,
+            "uuid": "8a749cfa-0ac8-4f5f-84dc-a0f8222efeca"
+        },
+        {
+            "name": "souv3nir",
+            "formattedname": "[[souv3nir]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "2:54",
+            "extend": true,
+            "uuid": "c18ee624-b58b-4b20-82ce-9dcfdc38edf7"
+        },
+        {
+            "name": "j1tters",
+            "formattedname": "[[j1tters]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "2:57",
+            "extend": true,
+            "uuid": "8d95d1d2-a86f-4841-8018-4be9c9d1c590"
+        },
+        {
+            "name": "jitter2",
+            "formattedname": "[[jitter2]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "2:55",
+            "extend": true,
+            "uuid": "9984ea32-6045-42ed-ad3e-67ccbd2783c1"
+        },
+        {
+            "name": "jitt3rs",
+            "formattedname": "[[jitt3rs]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "2:34",
+            "extend": true,
+            "uuid": "d8dde8c3-0569-4620-be31-59a7c6abe0b0"
+        },
+        {
+            "name": "Cleared! (Part 1)",
+            "formattedname": "[[Cleared! (Part 1)]]",
+            "length": "0:07",
+            "extend": false,
+            "uuid": "2401170e-30cd-430d-9c78-1810bae1c84d"
+        },
+        {
+            "name": "Cleared! (Part 2)",
+            "formattedname": "[[Cleared! (Part 2)]]",
+            "length": "0:09",
+            "extend": false,
+            "uuid": "3c57278a-49d9-421c-96c9-6b10350c14a3"
+        },
+        {
+            "name": "Got It! (Side Order)",
+            "formattedname": "[[Got It!#Got It! (Side Order)|Got It! (Side Order)]]",
+            "length": "0:03",
+            "extend": false,
+            "uuid": "3c8f4405-cfcf-4efc-98ba-76ed770a8606"
+        },
+        {
+            "name": "Step-Off Song",
+            "formattedname": "[[Inkopolis News (song)#Step-Off Song|Step-Off Song]]",
+            "length": "0:04",
+            "extend": false,
+            "uuid": "1eed5029-dda5-448f-b93c-054efcc2a9db"
+        },
+        {
+            "name": "CΘld StΘrage",
+            "formattedname": "[[CΘld StΘrage]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "3:13",
+            "extend": true,
+            "setthescene": [
+                "Boss Battles"
+            ],
+            "uuid": "4bba9390-1342-4c0b-a819-16764006551c"
+        },
+        {
+            "name": "ΘctΘpticΘn",
+            "formattedname": "[[ΘctΘpticΘn]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "3:46",
+            "extend": true,
+            "uuid": "f3eadc5e-dcca-436a-89e2-8168aaa6fc9e"
+        },
+        {
+            "name": "EchΘ Θnslaught",
+            "formattedname": "[[EchΘ Θnslaught]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "2:57",
+            "extend": true,
+            "uuid": "4444ea59-9aff-4a9d-9071-b7c245b33103"
+        },
+        {
+            "name": "Cleared! (Boss)",
+            "formattedname": "[[Cleared! (Boss)]]",
+            "length": "0:11",
+            "extend": false,
+            "setthescene": [
+                "Victory!"
+            ],
+            "uuid": "38544d04-e651-4367-b76e-8d7ace098860"
+        },
+        {
+            "name": "Results (Splatted)",
+            "formattedname": "[[Results (Splatted)]]",
+            "length": "1:10",
+            "extend": true,
+            "uuid": "6ce0116d-39a8-4622-a5cd-53ccabe62232"
+        },
+        {
+            "name": "Overlorder Appears",
+            "formattedname": "[[Order Emerges#Overlorder Appears|Overlorder Appears]]",
+            "length": "1:03",
+            "extend": false,
+            "uuid": "efc14e4d-d581-41eb-a6e8-f7d84603ece1"
+        },
+        {
+            "name": "New World Order",
+            "formattedname": "[[New World Order]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "3:08",
+            "extend": true,
+            "uuid": "ff8ab9dc-4b9a-4d0a-bea9-6b8a1863379e"
+        },
+        {
+            "name": "The Rebooted World Will Know the Tranquility of Order",
+            "formattedname": "[[The Rebooted World Will Know the Tranquility of Order]]",
+            "length": "0:28",
+            "extend": false,
+            "uuid": "f634efa4-6a98-4d94-b6ad-33b2cd3d8cf6"
+        },
+        {
+            "name": "Spectrum Obligato ~ Ebb & Flow (Out of Order)",
+            "formattedname": "[[Spectrum Obligato ~ Ebb & Flow (Out of Order)]]",
+            "band": "Off the Hook feat. Dedf1sh",
+            "formattedband": "[[Off the Hook]] feat. [[Acht|Dedf1sh]]",
+            "length": "5:32",
+            "extend": true,
+            "setthescene": [
+                "The Final Battles"
+            ],
+            "uuid": "4025d1c7-5fff-4c01-9f7e-f2e0850927b4"
+        },
+        {
+            "name": "Case Closed",
+            "formattedname": "[[Color Pulse#Case Closed|Case Closed]]",
+            "length": "1:07",
+            "extend": false,
+            "uuid": "c72dacd7-a219-48fb-85d4-aba8ba38ffdd"
+        },
+        {
+            "name": "#47 onward",
+            "formattedname": "[[＃47 onward|#47 onward]]",
+            "band": "Dedf1sh feat. Off the Hook",
+            "formattedband": "[[Acht|Dedf1sh]] feat. [[Off the Hook]]",
+            "length": "4:38",
+            "extend": false,
+            "setthescene": [
+                "Staff Credits"
+            ],
+            "uuid": "1629e20c-98b4-4710-aaf6-471dc7605a6e"
+        },
+        {
+            "name": "Θrder Square: Liber8",
+            "formattedname": "[[Θrder Square: Subjug8#Θrder Square: Liber8|Θrder Square: Liber8]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "3:24",
+            "extend": true,
+            "matchyourmood": [
+                "Good Night"
+            ],
+            "uuid": "936ddd8c-7117-4a94-84a9-9ec6e3cb6d2a"
+        },
+        {
+            "name": "Σntrance: Platonic Solid",
+            "formattedname": "[[Σntrance: Platonic Solid]]",
+            "band": "Free Association",
+            "formattedband": "[[Free Association]]",
+            "length": "3:01",
+            "extend": true,
+            "uuid": "a78f7f21-665d-4022-befc-f73618ece8f9"
+        },
+        {
+            "name": "Smollusk's Theme",
+            "formattedname": "[[Smollusk's Theme]]",
+            "length": "0:59",
+            "extend": true,
+            "uuid": "7705698c-fa7f-4c77-a84d-81c9f2945294"
+        },
+        {
+            "name": "Thus Spoke Smollusk",
+            "formattedname": "[[Thus Spoke Smollusk]]",
+            "length": "0:12",
+            "extend": false,
+            "uuid": "9ba5464d-1a50-4201-a091-ac9657bee7e7"
+        },
+        {
+            "name": "Short Order",
+            "formattedname": "[[Short Order]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "4:06",
+            "extend": true,
+            "uuid": "4fd33c12-4903-4916-88dc-227060e07500"
+        },
+        {
+            "name": "Results (Clear!)",
+            "formattedname": "[[Results (Clear!)]]",
+            "length": "1:01",
+            "extend": true,
+            "uuid": "9c4610c5-8023-4c3e-9700-778e8a82781c"
+        },
+        {
+            "name": "Anarchy Splatcast (Grand Festival)",
+            "formattedname": "[[Anarchy Splatcast (song)#Anarchy Splatcast (Grand Festival)|Anarchy Splatcast (Grand Festival)]]",
+            "length": "1:03",
+            "extend": true,
+            "uuid": "67b2e450-338e-49b4-94d1-c383461f304e"
+        },
+        {
+            "name": "Around the Grand Festival",
+            "formattedname": "[[Around the Grand Festival]]",
+            "length": "3:22",
+            "extend": false,
+            "uuid": "39f7e3e7-997c-4811-861b-5b08f8c13765"
+        },
+        {
+            "name": "Soak & Stomp (Grand Mix)",
+            "formattedname": "[[Soak & Stomp#Soak & Stomp (Grand Mix)|Soak & Stomp (Grand Mix)]]",
+            "band": "Anglerfish feat. Cory",
+            "formattedband": "[[Anglerfish]] feat. [[H2Whoa#Cory|Cory]]",
+            "length": "2:32",
+            "extend": false,
+            "matchyourmood": [
+                "Walking"
+            ],
+            "uuid": "4bfb8719-0a55-430c-915b-2528be1b8ad0"
+        },
+        {
+            "name": "Crab-N-Go (Grand Festival)",
+            "formattedname": "[[Crab-N-Go (song)#Crab-N-Go (Grand Festival)|Crab-N-Go (Grand Festival)]]",
+            "length": "2:16",
+            "extend": true,
+            "uuid": "259d7e70-1b78-4bad-89c9-cda6d2ca9906"
+        },
+        {
+            "name": "Tomorrow's Nostalgia Today (Grand Festival)",
+            "formattedname": "[[Tomorrow's Nostalgia Today#Tomorrow's Nostalgia Today (Grand Festival)|Tomorrow's Nostalgia Today (Grand Festival)]]",
+            "band": "Squid Sisters",
+            "formattedband": "[[Squid Sisters]]",
+            "length": "4:11",
+            "extend": false,
+            "uuid": "69bdab41-627a-4525-8fcb-3ea90826d65a"
+        },
+        {
+            "name": "Liquid Sunshine (Grand Festival)",
+            "formattedname": "[[Liquid Sunshine#Liquid Sunshine (Grand Festival)|Liquid Sunshine (Grand Festival)]]",
+            "band": "Squid Sisters",
+            "formattedband": "[[Squid Sisters]]",
+            "length": "3:34",
+            "extend": false,
+            "uuid": "a2afd8f2-8a06-4099-a074-45f6ead08ff9"
+        },
+        {
+            "name": "We're So Back (Grand Festival)",
+            "formattedname": "[[We're So Back#We're So Back (Grand Festival)|We're So Back (Grand Festival)]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "4:13",
+            "extend": false,
+            "uuid": "8fdfa75c-9211-4505-a946-61b68d1a2b9e"
+        },
+        {
+            "name": "Three Wishes",
+            "formattedname": "[[Three Wishes]]",
+            "band": "Now or Never Seven",
+            "formattedband": "[[Now or Never Seven]]",
+            "length": "6:47",
+            "extend": true,
+            "matchyourmood": [
+                "Party",
+                "Vocal Tracks"
+            ],
+            "uuid": "9c895659-a664-4b7d-b467-5b603240c9ae"
+        },
+        {
+            "name": "Blushing Tide",
+            "formattedname": "[[Tidal Rush#Blushing Tide|Blushing Tide]]",
+            "band": "Squid Sisters",
+            "formattedband": "[[Squid Sisters]]",
+            "length": "3:37",
+            "extend": true,
+            "uuid": "fbf2d47e-fbf9-4ac4-9c71-4e485989a1cb"
+        },
+        {
+            "name": "Rainbow Color Inkantation",
+            "formattedname": "[[Rainbow Color Inkantation]]",
+            "band": "Now or Never Seven",
+            "formattedband": "[[Now or Never Seven]]",
+            "length": "5:35",
+            "extend": false,
+            "matchyourmood": [
+                "Vocal Tracks"
+            ],
+            "uuid": "83918359-5a6c-432f-a085-37fcc3fb802f"
+        },
+        {
+            "name": "Inkopolis Punch",
+            "formattedname": "[[Battle Victory#Inkopolis Punch|Inkopolis Punch]]",
+            "band": "Squid Sisters",
+            "formattedband": "[[Squid Sisters]]",
+            "length": "0:17",
+            "extend": false,
+            "setthescene": [
+                "Victory!"
+            ],
+            "uuid": "3f16b41c-635b-48a2-ab96-3d8fd1997d4a"
+        },
+        {
+            "name": "Kick Stomp",
+            "formattedname": "[[Battle Defeat#Kick Stomp|Kick Stomp]]",
+            "band": "Squid Sisters",
+            "formattedband": "[[Squid Sisters]]",
+            "length": "0:17",
+            "extend": false,
+            "uuid": "e496d777-7d65-4de1-a276-adf084257382"
+        },
+        {
+            "name": "Fest Zest (Grand Festival)",
+            "formattedname": "[[Battle Victory#Fest Zest (Grand Festival)|Fest Zest (Grand Festival)]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "0:18",
+            "extend": false,
+            "setthescene": [
+                "Victory!"
+            ],
+            "uuid": "5fb0d3dc-21fd-4886-a27e-e8acd866b242"
+        },
+        {
+            "name": "Party's Over (Grand Festival)",
+            "formattedname": "[[Ink Another Day#Party's Over (Grand Festival)|Party's Over (Grand Festival)]]",
+            "band": "Off the Hook",
+            "formattedband": "[[Off the Hook]]",
+            "length": "0:19",
+            "extend": false,
+            "uuid": "5748a65b-adef-4b90-a654-f19dce9402b1"
         }
     ]
 }

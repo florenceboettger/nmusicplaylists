@@ -99,6 +99,36 @@
                 {
                     "name": "Wave Goodbye",
                     "game": "Splatoon 3"
+                },
+                {
+                    "name": "Tomorrow's Nostalgia Today (Grand Festival)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Liquid Sunshine (Grand Festival)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Blushing Tide",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Inkopolis Punch",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Kick Stomp",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Three Wishes",
+                    "game": "Splatoon 3",
+                    "band": "Now or Never Seven"
+                },
+                {
+                    "name": "Rainbow Color Inkantation",
+                    "game": "Splatoon 3",
+                    "band": "Now or Never Seven"
                 }
             ]
         },
@@ -114,6 +144,10 @@
                 },
                 {
                     "name": "Anarchy Rainbow",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Commence the Fest",
                     "game": "Splatoon 3"
                 },
                 {
@@ -152,6 +186,111 @@
                     "name": "Calamari Inkantation 3MIX",
                     "game": "Splatoon 3",
                     "band": "Deep Cut x Squid Sisters"
+                },
+                {
+                    "name": "Big Betrayal",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Anarchy Rainbow (Splatoween)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Ego Overboard (Splatoween)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Still Swimmin' (Splatoween)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Anarchy Rainbow (Frosty Fest)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Ego Overboard (Frosty Fest)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Still Swimmin' (Frosty Fest)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Anarchy Rainbow (Spring Fest)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Ego Overboard (Spring Fest)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Still Swimmin' (Spring Fest)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Anarchy Rainbow (Summer Nights)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Ego Overboard (Summer Nights)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Still Swimmin' (Summer Nights)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Ego Overboard (First-Anniversary Splatfest - Team Shiver)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Still Swimmin' (First-Anniversary Splatfest - Team Shiver)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Ego Overboard (First-Anniversary Splatfest - Team Frye)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Still Swimmin' (First-Anniversary Splatfest - Team Frye)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Ego Overboard (First-Anniversary Splatfest - Team Big Man)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Still Swimmin' (First-Anniversary Splatfest - Team Big Man)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Daybreaker Anthem",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Happy Little Workers - 24/7 Deep Mix",
+                    "game": "Splatoon 3",
+                    "band": "Grizzco feat. Deep Cut"
+                },
+                {
+                    "name": "Not Bad (Catch Ya Better)",
+                    "game": "Splatoon 3",
+                    "band": "Grizzco feat. Deep Cut"
+                },
+                {
+                    "name": "Suffer No Fools",
+                    "game": "Splatoon 3",
+                    "band": "Off the Hook VS Fire & Ice"
+                },
+                {
+                    "name": "Three Wishes",
+                    "game": "Splatoon 3",
+                    "band": "Now or Never Seven"
+                },
+                {
+                    "name": "Rainbow Color Inkantation",
+                    "game": "Splatoon 3",
+                    "band": "Now or Never Seven"
                 }
             ]
         },
@@ -192,6 +331,10 @@
                 },
                 {
                     "name": "Bait & Click",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Double Clickbait",
                     "game": "Splatoon 3"
                 }
             ]
@@ -377,6 +520,16 @@
                 {
                     "name": "Bear with Me",
                     "game": "Splatoon 3"
+                },
+                {
+                    "name": "Happy Little Workers - 24/7 Deep Mix",
+                    "game": "Splatoon 3",
+                    "band": "Grizzco feat. Deep Cut"
+                },
+                {
+                    "name": "Not Bad (Catch Ya Better)",
+                    "game": "Splatoon 3",
+                    "band": "Grizzco feat. Deep Cut"
                 }
             ]
         },
@@ -511,6 +664,14 @@
                 {
                     "name": "Entropical",
                     "game": "Splatoon 2"
+                },
+                {
+                    "name": "Amalgamania",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Seasource",
+                    "game": "Splatoon 3"
                 }
             ]
         },
@@ -595,6 +756,24 @@
                 {
                     "name": "Splattack! (Octo)",
                     "game": "Splatoon 2"
+                },
+                {
+                    "name": "#0.1 style",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "#12.2 awakened",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "#47 onward",
+                    "game": "Splatoon 3",
+                    "band": "Dedf1sh feat. Off the Hook"
+                },
+                {
+                    "name": "Spectrum Obligato ~ Ebb & Flow (Out of Order)",
+                    "game": "Splatoon 3",
+                    "band": "Off the Hook feat. Dedf1sh"
                 }
             ]
         },
@@ -619,6 +798,14 @@
                 {
                     "name": "Wave Prism",
                     "game": "Splatoon 2"
+                },
+                {
+                    "name": "Slopping Spree",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "No Quarters",
+                    "game": "Splatoon 3"
                 }
             ]
         },
@@ -727,6 +914,60 @@
                 {
                     "name": "Into the Light",
                     "game": "Splatoon 2"
+                },
+                {
+                    "name": "Suffer No Fools",
+                    "game": "Splatoon 3",
+                    "band": "Off the Hook VS Fire & Ice"
+                },
+                {
+                    "name": "Color Pulse (2024)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "We're So Back",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Unconscience",
+                    "game": "Splatoon 3",
+                    "band": "Marina"
+                },
+                {
+                    "name": "Spectrum Obligato ~ Ebb & Flow (Out of Order)",
+                    "game": "Splatoon 3",
+                    "band": "Off the Hook feat. Dedf1sh"
+                },
+                {
+                    "name": "Short Order",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "We're So Back (Grand Festival)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Fest Zest (Grand Festival)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Party's Over (Grand Festival)",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "#47 onward",
+                    "game": "Splatoon 3",
+                    "band": "Dedf1sh feat. Off the Hook"
+                },
+                {
+                    "name": "Three Wishes",
+                    "game": "Splatoon 3",
+                    "band": "Now or Never Seven"
+                },
+                {
+                    "name": "Rainbow Color Inkantation",
+                    "game": "Splatoon 3",
+                    "band": "Now or Never Seven"
                 }
             ]
         },
@@ -838,6 +1079,170 @@
             "songlist": [
                 {
                     "name": "Dripping with Style",
+                    "game": "Splatoon 3"
+                }
+            ]
+        },
+        "Yoko & the Gold Bazookas": {
+            "songlist": [
+                {
+                    "name": "Ska-BLAM",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Three-Horn Circus",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Rockagilly Blues",
+                    "game": "Splatoon 3"
+                }
+            ]
+        },
+        "H2Whoa": {
+            "songlist": [
+                {
+                    "name": "Ripstop & Go",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Aquasonic",
+                    "game": "Splatoon 3"
+                }
+            ]
+        },
+        "Riot Act": {
+            "songlist": [
+                {
+                    "name": "Shifting Stars",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "No Plan Survives",
+                    "game": "Splatoon 3"
+                }
+            ]
+        },
+        "Free Association": {
+            "songlist": [
+                {
+                    "name": "Θrder Square: Inciner8",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Σntrance: Dynamis",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "First Principles",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Θrder Square: Subjug8",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Σntrance: Archon",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Upward",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "demol1sh",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "demoli2h",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "d3molish",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "jest1ng",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "je2ting",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "j3sting",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "rout1nes",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "routine2",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "routin3s",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "souven1r",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "2ouvenir",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "souv3nir",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "j1tters",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "jitter2",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "jitt3rs",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "CΘld StΘrage",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "ΘctΘpticΘn",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "EchΘ Θnslaught",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "New World Order",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Θrder Square: Liber8",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Σntrance: Platonic Solid",
+                    "game": "Splatoon 3"
+                }
+            ]
+        },
+        "Now or Never Seven": {
+            "songlist": [
+                {
+                    "name": "Three Wishes",
+                    "game": "Splatoon 3"
+                },
+                {
+                    "name": "Rainbow Color Inkantation",
                     "game": "Splatoon 3"
                 }
             ]
